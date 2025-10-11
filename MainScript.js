@@ -22,15 +22,6 @@ function doGet(e) {
   return ContentService.createTextOutput("RUNFUNC tidak dikenal");
 }
 
-
-function convertToLowerCase() {
-  var originalString = "Hello World!";
-  var lowerCaseString = originalString.toLowerCase();
-
-  Logger.log("Original String: " + originalString);
-  Logger.log("Lowercase String: " + lowerCaseString); // Output: hello world!
-}
-
 // 📢 Fungsi untuk menyimpan Update (memberi tanda ke App Android untuk Update Informasi terbaru
 function simpanUpdatenya(versinya, kodeupdate, e) {
     var ss = SpreadsheetApp.openById(GS_ID);
