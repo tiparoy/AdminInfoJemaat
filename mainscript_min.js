@@ -1,3 +1,6 @@
+//Update tanggal 11 Oktober 2025 Jam 15.29 WIT
+//Jika telah memubuat app script sebelum tanggal dan jam di atas, Anda sebaiknya melakukan Update.
+
 const PASS_JEMAAT = '########'; //💡 ISI PASSWORD JEMAAT
 const GS_ID = '#######################################'; //💡 ISI ID Google Sheets file data_aplikasi
 const EMAIL_JEMAAT = '########'; // 💡 ISI EMAIL
