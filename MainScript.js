@@ -17,6 +17,8 @@ function doGet(e) {
   if (j === 'ibadah') return ibadah(e);
   if (j === 'warta') return warta(e);
   if (j === 'profil') return profiljemaat(e);
+  if (j === 'album') return album(e);
+   
 
   // bisa tambahkan default handling
   return ContentService.createTextOutput("RUNFUNC tidak dikenal");
@@ -349,7 +351,7 @@ function warta(e){
 }
 
 // ❤️❤️❤️❤️❤️❤️❤️❤️❤️  ALBUM  ❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️
-function album(){
+function album(e){
   var ss =  SpreadsheetApp.openById(GS_ID);
   var sh = ss.getSheetByName('Album');
   var kodenya = e.parameter.KODENYA;
@@ -432,7 +434,7 @@ function album(){
     }
 }
 
-// ❤️❤️❤️❤️❤️❤️❤️❤️❤️  ALBUM  ❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️
+// ❤️❤️❤️❤️❤️❤️❤️❤️❤️  PROFIL  ❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️
 function profiljemaat(e){
   var ss =  SpreadsheetApp.openById(GS_ID);
   var sh = ss.getSheetByName('update');
