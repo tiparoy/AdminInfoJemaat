@@ -1,0 +1,6844 @@
+('KLK001', '1', 'MULIA SEMBAH RAJA MULIA', 'KLK', 'do = G
+
+Mulia sembah Raja mulia
+Bagi Yesus... puji, hormat, dan kuasa
+Mulia, Agung k|rajaan-Nya
+Dari sorga datang untuk seg|nap umat-Nya
+
+Ref:
+Dipuji, ditinggikan nama-Nya Yesus
+Hormat dan muliakanlah Yesus Raja
+Oh, Mulia, Sembah Raja Mulia
+Dia t|lah mati, dibangkitkan, jadi Raja'), ('KLK002', '2', 'BAPA, KU PERSEMBAHKAN TUBUHKU', 'KLK', '1=C
+
+1
+Bapa|ku persembahkan tubuhku
+S|bagai persembahan yang hidup
+Kudus dan yang berkenan padaMu
+S|bagai ibadah yang sejati
+
+Ref:
+Ku sembah Kau Tuhan
+Ku sembah Kau Tuhan
+Ku serahkan hidupku kepadaMu
+Untuk kemuliaan namaMu'), ('KLK003', '3', 'TAK PERNAH KECEWA', 'KLK', '1=G
+
+
+Tak pernah kecewa mengiring Yesus
+Tak pernah kecewa ku s|rahkan s|mua
+Berjalan serta-Nya s|makin bahagia
+Tak pernah kecewa tuk s|lamanya'), ('KLK004', '4', 'BESAR DAN AJAIBLAH KARYAMU', 'KLK', '1=Ab
+Versi 1
+Besar dan ajaiblah karyaMu
+Adil dan benarlah jalanMu
+Raja s|gala bangsa, Yang Maha Kuasa
+Mulia namaMu
+
+Ref:
+Layaklah segala bangsa
+Sujud kepadaMu
+S|bab Kau Allah yang kudus
+Layak disembah'), ('KLK005', '5', 'SEPERTI RUSA RINDU SUNGAIMU', 'KLK', '1=C
+Versi 1
+
+S|perti rusa rindu sungaiMu
+Jiwaku rindu Engkau
+Kaulah Tuhan hasrat hatiku
+Ku rindu menyembahMu
+Engkau kekuatan dan perisaiku
+KepadaMu rohku berserah
+Kaulah Tuhan hasrat hatiku
+Ku rindu menyembahMu
+Yesus, Yesus, Kau berarti bagiku
+Yesus, Yesus, Kau segalanya bagiku
+'), ('KLK006', '6', 'KAULAH TUHANKU', 'KLK', '1=F
+Versi 1
+
+Kaulah Tuhanku, Kaulah Rajaku
+Kaulah yang termulia, di bumi dan di sorga
+Ku sembah Kau Tuhan
+Ku sembah Kau Tuhan
+Ku puji ku muliakan namaMu'), ('KLK007', '7', 'OH SUNGAI DARI ALLAH', 'KLK', '1=D
+
+Oh, sungai dari Allah, penuhkanku
+Oh, sungai dari Allah, m|ngalir dalamku
+Oh, sungai dari Allah, puaskanku
+Oh, sungai dari Allah, kerinduanku'), ('KLK008', '8', 'S|GALA PUJI SYUKUR', 'KLK', '1=F
+
+S|gala puji syukur hanya bagiMu Tuhan
+Sebab Kau yang layak dipuja
+Kami mau bersorak tinggikan namaMu Tuhan
+Glori Haleluya
+
+Ref:
+Soraklah haleluya
+Soraklah haleluya
+Haleluya
+Soraklah haleluya
+Soraklah haleluya
+Haleluya'), ('KLK009', '9', 'AJARKU TUHAN', 'KLK', '1=A
+
+Ajarku Tuhan, berterima kasih
+Ajarku bersyukur kepadaMu
+Keberadaanku� semua berkat Tuhan
+Ajarku Tuhan bert|rima kasih'), ('KLK010', '10', 'HILANGLAH BEBAN DOSAKU', 'KLK', '1=Ab
+
+Hilanglah, hilanglah, hilanglah
+S|gala beban dosaku hilanglah
+DarahNya membasuh dosaku bersih
+Hilanglah, hilanglah, hilanglah
+S|gala beban dosaku hilanglah'), ('KLK011', '11', 'TAHUKAH KAU BAHWA KAU RUMAH ALLAH', 'KLK', '1=C
+
+Ta|ukah kau bahwa kau Rumah Allah ?
+Ta|ukah kau bahwa kau Rumah Allah ?
+Ta|ukah kau bahwa kau Rumah Allah ?
+Engkaulah Rumah Allah Yang Kudus'), ('KLK012', '12', 'MAUKAH KAU JADI ROTI', 'KLK', '1=F
+
+1. Maukah kau jadi roti
+Yang terpecah bagiKu
+Maukah kau jadi anggur,
+Yang tercurah bagiKu
+Maukah kau jadi saksi,
+Memb|ritakan InjilKu
+Melayani, mengasihi lebih sungguh
+
+2. Aku mau jadi roti,
+Yang terpecah bagiMu
+Aku mau jadi anggur,
+Yang tercurah bagiMu
+Aku mau jadi saksi,
+Memb|ritakan InjilMu
+Melayani, mengasihi lebih sungguh
+'), ('KLK013', '13', 'BETAPA HERANLAH', 'KLK', '1=Bb
+
+
+Betapa heranlah, heranlah, heranlah
+Betapa heranlah, heranlah
+Apa yang tak diduga, dib|ri oleh SabdaNya
+Betapa heranlah, heranlah'), ('KLK014', '14', 'HARI BAHAGIA', 'KLK', '1=A
+
+Hari bahagia dalam hidupku
+Berjalan BersamaMu Yesus Tuhanku
+S|bab Kau sertaku s|lalu sertaku
+Sepanjang hidupku, bahagia selalu, sertaku
+'), ('KLK015', '15', 'BETAPA HATIKU', 'KLK', '1=F
+
+Betapa hatiku berterima kasih Yesus
+Kau mengasihiku, Kau memilikiku
+
+Ref:
+Hanya ini Tuhan, persembahanku
+Segenap hidupku, jiwa dan ragaku
+S|bab tak ku miliki harta kekayaan
+Yang cukup berarti, �tuk ku persembahkan
+Hanya ini Tuhan permohonanku
+Terimalah Tuhan persembahanku
+Pakailah hidupku sebagai alatMu
+Seumur hidupku'), ('KLK016', '16', 'BIARPUN GUNUNG-GUNUNG BERANJAK', 'KLK', '1=B
+
+Biarpun gunung-gunung beranjak }
+Dan segala bukit bergoyang } 2x
+Tapi kasih setiaMu }
+Tak akan beranjak dariku }
+
+Ref:
+Tak akan beranjak, tak akan bergoyang
+Tak akan beranjak, tak akan bergoyang
+Demikianlah Firman Tuhan
+Yang mengasihiku'), ('KLK017', '17', 'HATI SENANG', 'KLK', '1=Ab
+
+Hati senang, hati senang
+Hati senang di dalam Tuhan
+Bersukacita selalu, berdoa senantiasa
+Ucapkanlah syukur dalam segala perkara
+'), ('KLK018', '18', 'AKU MEMBANGUN BANGSA PERKASA', 'KLK', '1=E
+
+
+Aku membangun bangsa perkasa
+Dan yang penuh dengan pujian
+Yang mengikuti pimpinan RohMu
+Serta muliakan NamaMu
+Bangunkan Tuhan, GerejaMu
+Teguhkan dan utus kami
+Jadikanlah kami satu
+Dalam tubuh AnakMu'), ('KLK019', '19', 'BIAR BUMI AKAN BERLALU', 'KLK', '1=Bb
+
+Biar bumi akan berlalu
+Biar bulan tak bercahaya lagi
+Biar langit akan bergoncang
+Matahari tak bersinar lagi
+Tetapi Tuhan Yesusku, tak pernah ingkar janji
+Semua yang difirmankanNya
+Pasti akan digenapi'), ('KLK020', '20', 'KU KASIHI KAU DENGAN KASIH TUHAN', 'KLK', '1=D
+
+Ku kasihi kau dengan kasih Tuhan
+Ku kasihi kau dengan kasih Tuhan
+Ku lihat di wajahmu kemuliaan Raja
+Ku kasihi kau dengan kasih Tuhan'), ('KLK021', '21', 'BESAR DAN PERKASA', 'KLK', '1=F
+
+
+Besar dan perkasa Allah kita
+Besar dan dahsyat Dia }2x
+Angkatlah tanganmu dan soraklah
+Puji Sang Raja
+Besar dan perkasa Allah kita
+Besar dan dahsyat Dia'), ('KLK022', '22', 'DIALAH SEGALANYA', 'KLK', '1=F
+
+Dialah segalanya, Dia bagiku
+Dialah segalanya, besar kecil
+Korbankan DiriNya dan s|lamatkanku
+Dialah segalanya, Dia bagiku
+Seperti air madu, dari batu karang
+Dicicip air madu yang manis
+Oh lihatlah Tuhan itu baik
+Dicicip air madu yang manis'), ('KLK023', '23', 'HATIKU PENUH NYANYIAN', 'KLK', '1=F
+
+1. Hatiku penuh nyanyian
+Hatiku penuh nyanyian
+Hatiku menyanyi untuk
+Raja s|gala Raja
+
+2. Sembahlah dan pujilah Dia
+Sembahlah dan pujilah Dia
+Sembahlah dan pujilah Dia
+Raja s|gala raja'), ('KLK024', '24', 'HATI YANG GEMBIRA', 'KLK', '1=F
+
+Hati yang gembira adalah obat
+S|perti obat hati yang senang
+Tapi semangat yang patah keringkan tulang
+Hati yang gembira Tuhan senang'), ('KLK025', '25', 'OH TUHAN PIMPINLAH LANGKAHKU', 'KLK', '1=C
+
+Oh Tuhan pimpinlah langkahku
+Ku tak b|rani jalan sendiri
+SertaMu itulah doaku
+Ajarku merendahkan diri
+Menurut FirmanMu s|tiap hari
+Jadikan pelita dalam g|lap
+Mencari domba yang sesat
+Itulah kerinduan jiwaku'), ('KLK026', '26', 'KRISTUS YANG HIDUP DI DALAM AKU', 'KLK', '1=G
+
+Adapun hidupku ini
+Bukannya aku lagi
+Melainkan Kristus
+Yang hidup di dalam aku
+
+Adapun hidupku ini
+Bukannya aku lagi
+Melainkan Kristus
+Yang hidup di dalam aku
+
+Ref:
+Tetapi hidup yang s|karang
+Aku hidup di dalam tubuhku ini
+Aku hidup di dalam iman
+Kepada Anak Allah yang mengasihi aku
+Dan yang menyerahkan diriNya
+Kar|na aku'), ('KLK027', '27', 'MELAYANI, MELAYANI LEBIH SUNGGUH', 'KLK', '1=E
+
+1. Melayani, melayani lebih sungguh
+Melayani, melayani lebih sungguh
+Tuhan lebih dulu melayani kepadaku
+Melayani, melayani lebih sungguh
+
+2. Mengasihi, mengasihi lebih sungguh
+Mengasihi, mengasihi lebih sungguh
+Tuhan lebih dulu mengasihi kepadaku
+Mengasihi, mengasihi lebih sungguh
+
+3. Mengampuni, mengampuni lebih sungguh
+Mengampuni, mengampuni lebih sungguh
+Tuhan lebih dulu mengampuni kepadaku
+Mengampuni, mengampuni lebih sungguh'), ('KLK028', '28', 'KASIHNYA SEPERTI SUNGAI', 'KLK', '1=F
+Versi 1
+
+1. KasihNya seperti sungai
+KasihNya seperti sungai
+KasihNya seperti sungai di hatiku
+Mengalir di waktu hujan
+Mengalir di waktu panas
+KasihNya seperti sungai di hatiku
+
+2. DamaiNya seperti sungai
+DamaiNya seperti sungai
+DamaiNya seperti sungai di hatiku
+Mengalir di waktu hujan
+Mengalir di waktu panas
+DamaiNya seperti sungai di hatiku
+
+3. BerkatNya seperti sungai
+BerkatNya seperti sungai
+BerkatNya seperti sungai di hatiku
+Mengalir di waktu hujan
+Mengalir di waktu panas
+BerkatNya seperti sungai di hatiku
+
+4. KuasaNya seperti sungai
+KuasaNya seperti sungai
+KuasaNya seperti sungai di hatiku
+Mengalir di waktu hujan
+Mengalir di waktu panas
+KuasaNya seperti sungai di hatiku
+'), ('KLK029', '29', 'KU MENDAKI KE BUKIT SION', 'KLK', '1=Eb
+
+Ku mendaki ke Bukit Sion
+Ku jalani bersama-sama
+Ku mendaki ke Bukit Sion
+Ku jalani bergandeng tangan
+
+Ref:
+Haleluya, oh, haleluya
+Ku jalani bersama-sama
+Haleluya, oh, haleluya
+Ku jalani bergandeng tangan'), ('KLK030', '30', 'ALLAH KITA HERAN DAN BESAR', 'KLK', '1=C
+
+Allah kita heran dan besar
+Allah yang heranlah
+Allah yang cinta kita semua
+Berkati dengan limpah
+Allah yang heranlah� Allah kita heran
+'), ('KLK031', '31', 'ALLAH KUASA', 'KLK', '1=Bb
+
+Allah kuasa melakukan segala perkara
+Allahku Maha Kuasa� Dia ciptakan seisi dunia
+Atur s|gala masa� Allahku Maha Kuasa'), ('KLK032', '32', 'SAMPAI MASA TUAMU', 'KLK', '1=G
+
+Sampai masa tuamu
+Aku Yesus tetap Dia
+Dan sampai masa putih rambutmu
+Aku menggendong kamu
+Aku telah melakukannya
+Dan mau menanggung kamu t|rus
+Aku mau memikul kamu
+Dan menyelamatkan kamu'), ('KLK033', '33', 'S|BAB DIA HIDUP', 'KLK', '1=G
+
+1. Anak Allah, Yesus namaNya
+Menyembuhkan, menyucikan
+Bahkan mati, tebus dosaku
+Kubur kosong membuktikan Dia hidup
+
+Ref: 
+S|bab Dia hidup, ada hari esok
+S|bab Dia hidup, ku tak gentar
+Kr|na ku tahu, Dia pegang hari esok
+Hidup jadi berarti s|bab Dia hidup
+
+2. Yesus Kristus, Juru S|lamatku
+Kau Rajaku, Kau Tuhanku
+Kau t|lah bangkit hidup s|lamanya
+Dan mem|rintah, atas bumi s|bagai Raja
+'), ('KLK034', '34', 'SETINGGI-TINGGI LANGIT', 'KLK', '1=D
+
+1. Setinggi-tingginya langit
+Lebih tinggi kasih Yesusku
+Sedalam-dalam lautan
+Lebih dalam kasih Yesusku
+Seindah-indah pelangi
+Lebih indah kasih Yesusku
+
+Ref:
+Kasih Yesus, oh Kasih Yesus
+Mengalahkan segalanya'), ('KLK035', '35', 'KU CINTA KELUARGA TUHAN', 'KLK', '1=C
+
+Ku cinta keluarga Tuhan terjalin mesra sekali
+Semua saling mengasihi
+Betapa s|nang |ku menjadi k|luargaNya Tuhan
+'), ('KLK036', '36', 'T|RIMA KASIH TUHAN', 'KLK', '1=Ab
+
+T|rima kasih Tuhan untuk kasih setiaMu
+Yang ku alami dalam hidupku
+T|rima kasih Yesus untuk kebaikanMu
+Sepanjang hidupku
+
+Ref:
+T|rima kasih Yesusku
+Buat anug|rah yang Kau b|ri
+S|bab hari ini Tuhan adakan
+Syukur bagi-Mu'), ('KLK037', '37', 'HANYA YESUS', 'KLK', '1=F
+
+Hanya Yesus (3x) Pujaanku
+Hanya Yesus (3x) ya Allahku
+Hanya Yesus (3x) ya Rajaku
+Hanya Yesus| oh hanya Yesus� KekasihKu
+'), ('KLK038', '38', 'TUHAN MENETAPKAN LANGKAH-LANGKAH ORANG', 'KLK', '1=E
+
+Tuhan menetapkan langkah-langkah orang
+Yang hidupnya berkenan kepadaNya
+Apabila ia jatuh, tak sampai terg|letak
+S|bab Tuhan menopang tangannya
+
+Ref:
+TanganNya, TanganNya
+S|sbab Tuhan menopang tangannya
+Apabila ia jatuh, tak sampai terg|letak
+S|bab Tuhan menopang tangannya'), ('KLK039', '39', 'TIAP ORANG HARUS TAU', 'KLK', '1=F
+
+Tiap orang harus tau
+Tiap orang harus tau
+Tiap orang harus tau
+Siapakah Yesus
+
+Ref:
+Yesus Kembang Mawar Sharon
+Bintang Fajar Yang Mulia
+Dia terindah dari semua
+Tiap orang harus tau'), ('KLK040', '40', 'KU TAU ROH ALLAH ADA DI SINI', 'KLK', '1=G
+
+Ku tahu Roh Allah ada di sini
+Ku lihat perubahan pada s|tiap wajah
+Bila kuasa sorga turun, sesuatu pasti terjadi
+Karena Roh Allah ada di sini'), ('KLK041', '41', 'INDONESIA BANGUNLAH', 'KLK', '1=Ab
+
+Mari datang bersama-sama kerja dan berdoa
+�Pabila Roh Kudus turun
+Indonesia bangunlah {3x}'), ('KLK042', '42', 'MARI KITA PUJI HU HALELUYA', 'KLK', '1=G
+
+1. Mari kita puji Hu Haleluya
+Mari kita puji Hu Haleluya
+Mari kita puji Hu Haleluya
+Mari kita puji Hu Haleluya
+
+2. Saudaraku puji Hu, Haleluya
+Saudaraku puji Hu, Haleluya
+Saudaraku puji Hu, Haleluya
+Saudaraku puji Hu, Haleluya'), ('KLK043', '43', 'DI SAAT INI AKU BERNYANYI', 'KLK', '1=C
+
+Di saat ini aku bernyanyi
+Lagu kasih tentang Almasih
+Juga sekarang ku angkat tangan
+Angkat tangan pada Tuhan
+Nyanyi ku cinta Kau }3x
+Ku cinta Kau'), ('KLK044', '44', 'TUHAN ADALAH GEMBALAKU', 'KLK', '1=Ab
+
+1. Tuhan adalah gembalaku
+Tak|kan kekurangan aku
+Ia membaringkan aku
+Di padang yang berumput hijau
+
+Ref:
+Ia membimbingku ke air yang tenang
+Ia menyegarkan jiwaku, Ia menuntunku
+Di jalan yang benar oleh kar|na NamaNya
+Sekalipun aku berjalan dalam lembah kekelaman
+(coda)
+Dan akupun akan berdiam
+Dalam rumah Tuhan s|panjang masa
+
+2. Aku tidak takut bahaya
+Sebab Engkau besertaku
+GadaMu dan tongkatMu
+Itulah yang menghibur aku
+'), ('KLK045', '45', 'SELIDIKLAH AKAN DAKU', 'KLK', '1=F
+
+Selidiklah akan daku ya Allah
+Ketahuilah akan hatiku
+Ujilah akan daku dan ketahuilah
+Akan segala kepikiranku
+'), ('KLK046', '46', 'KAMI NAIKAN SYUKUR PADAMU', 'KLK', '1=D
+
+Kami naikkan syukur k|padaMu
+Kami naikkan syukur k|padaMu
+Syukurkan kasihMu yang mulia
+Kami naikkan syukur k|padaMu'), ('KLK047', '47', 'AJARKU SEMBAHYANG', 'KLK', '1=D
+
+Ajarku sembahyang, Ajar percaya
+Ajarku cinta Yesus, Dan rendah hati
+Ajarku cinta orang, Dan sabar hati'), ('KLK048', '48', 'AJAIB TUHAN KAU SUNGGUH HERAN', 'KLK', '1=Eb
+
+Ajaib Tuhan, Kau sungguh heran
+Semua yang di sorga memuja Tuhan
+Engkaulah Allah yang patut disembah
+Kaulah Tuhanku yang heran'), ('KLK049', '49', 'TAK LAIN SAJA TUHAN', 'KLK', '1=C
+
+Tak lain saja Tuhan, tak lain saja Hu
+Bisa sucikan hatiku sungguh
+Dalam percobaan, Tuhan tolongku
+Tak lain saja Tuhan, tak lain saja Hu'), ('KLK050', '50', 'KU TAHU TUHAN PASTI BUKA JALAN', 'KLK', '1=F
+
+Ku tahu Tuhan pasti buka jalan
+Ku tahu Tuhan pasti buka jalan
+Asalku hidup suci tidak turut dunia
+Ku tahu Tuhan pasti buka jalan
+'), ('KLK051', '51', 'KU DENGAR YESUS MEMANGGIL', 'KLK', '1=F
+
+1. Ku dengar Yesus memanggil
+Ku dengar Yesus memanggil
+Ku dengar Yesus memanggil
+Angkat salib ikutlah Aku
+Saya mau mengikut Dia
+Saya mau mengikut Dia
+Saya mau mengikut Dia
+Ikut Yesus, Juru|slamtku
+
+2. Meski jalanku berkabut
+Meski jalanku berkabut
+Meski jalanku berkabut
+Aku ikut, ikut Tuhanku
+
+3. Ku percaya bimbinganNya
+Ku percaya bimbinganNya
+Ku percaya bimbinganNya
+Mengiringi tiap langkahku
+
+4. Di anugerahkanNya s|lamat
+Di anugerahkanNya s|lamat
+Di anugerahkanNya s|lamat
+Kar|na ikut, ikut Tuhanku'), ('KLK052', '52', 'AJAIBLAH NAMANYA', 'KLK', '1=Eb
+
+Ajaiblah NamaNya, Ajaiblah NamaNya
+Ajaiblah NamaNya, Yesus Tuhan
+Dialah Maha Raja, Dialah Sang Pencipta
+Ajaiblah NamaNya Yesus Tuhan
+Dialah Gembalaku, Batu Karang Zaman
+Allah Maha Kuasa
+sembah Puji Dia, dengan kasih mesra
+Ajaiblah NamaNya, Yesus Tuhan'), ('KLK053', '53', 'LIHAT DOMBA ALLAH', 'KLK', '1=F
+
+Lihat Domba Allah
+Lihat Domba Allah
+Dia sendiri tolonglah
+Lihat Domba Allah
+'), ('KLK054', '54', 'TERPUJILAH TUHAN', 'KLK', '1=D
+
+Terpujilah Tuhan terpujilah
+Terpujilah Tuhan terpujilah
+Terpujilah Tuhan terpujilah
+Oh Tuhan terpujilah'), ('KLK055', '55', 'ISILAH TUHAN BEJANA HIDUPKU', 'KLK', '1=Bb
+
+Isilah Tuhan bejana hidupku
+Lepaskan dahaga jiwaku
+Roti k|hidupan
+B|riku makan sepuasnya
+Isilah hingga s|lamat sempurna
+'), ('KLK056', '56', 'JIWAKU TERBUKA', 'KLK', '1=F
+
+Jiwaku terbuka untukMu Tuhan
+S|lidiki nyatakan s|gala perkara
+Singkapkan semua yang terselubung
+Supaya ku layak di hadapanMu Tuhan
+'), ('KLK057', '57', 'KEMURAHANMU LEBIH DARI HIDUP', 'KLK', '1=D
+
+KemurahanMu lebih dari hidup
+Bahwa lidahku memuji Engkau
+KemurahanMu lebih dari hidup
+Bahwa lidahku memuji Engkau
+KemurahanMu lebih dari hidup
+'), ('KLK058', '58', 'OH BETAPA INDAHNYA', 'KLK', '1=E
+
+Oh betapa indahnya
+Dan betapa eloknya
+Bila saudara seiman,
+Hidup dalam persatuan
+
+Ref:
+Bak urapan di kepala Harun
+Yang ke janggut
+Dan jubahnya turun
+Seperti embun yang dari hermon
+Mengalir ke Bukit Sion
+Ke sana t|lah dip|rintahkan Tuhan
+Agar berkat-berkat dicurahkan
+Kehidupan untuk selamanya
+Oh betapa indahnya'), ('KLK059', '59', 'SHALOM TEMAN', 'KLK', '1=F
+
+Shalom teman, shalom teman
+Shalom, Shalom, sampai jumpa pula
+Tuhan besertamu, Shalom, Shalom'), ('KLK060', '60', 'KU SUNGGUH PUAS', 'KLK', '1=B, 1=Bes
+
+Ku sungguh puas, puas dengan Yesus
+Ku sungguh puas, puas dengan Dia
+Keperluan Dia cukupkan, puji Tuhanku puas
+Ku sungguh puas, puas dengan Dia'), ('KLK061', '61', 'OH TUHANKU', 'KLK', '1=Bb
+
+1. Oh Tuhanku bila ku terpesona
+Merenungkan ciptaanMu semua
+Ku saksikan bintang guruh angkasa
+Tanda kebesaranMu di dunia
+
+Ref:
+Aku memuji kebesaranMu
+Ajaib Tuhan, Ajaib Tuhan
+Aku memuji kebesaranMu
+Ajaib Tuhan, Ajaib Tuhan
+
+2. Dan bila ku pandang akan salibMu
+Tanda kasihMu bagi dunia
+Kau relakan mati tebus dosaku
+Ku sembah Kau Tuhan dan Rajaku
+'), ('KLK062', '62', 'KAU SUNGGUH INDAH', 'KLK', '1=G
+
+1. Kau sungguh indah, Engkau Yesus
+Kau ajaib, Kau mulia, Kau agung
+Kau cinta daku, dan ampuniku
+Bahkan rela b|rikan nyawa-Nya
+�Tuk s|lamatkanku
+
+Ref: 
+Sambutlah Yesus, tinggikan Yesus
+B|ri Dia hormat, pujian dan kuasa
+Yesus Raja
+Bagi Yang Mulia, ku angkat tanganku
+Kau ku puja, ku cinta, ku sembah
+Haleluya
+
+2. Dia sungguh indah, Dia Yesus
+Dia ajaib, Dia mulia, Dia agung
+Dia cinta daku, dan ampuniku
+Bahkan rela b|rikan nyawa-Nya
+�Tuk s|lamatkanku'), ('KLK063', '63', 'BAGAI SEKUNTUM BUNGA DI TAMAN', 'KLK', '1=G
+
+1. Bagai sekuntum bunga di taman
+Harum semerbak indah menawan
+Begitu cintamu padaku oh Tuhan
+Tulus dan murni tiada cela
+
+2. Selama ini aku biarkan
+Hidupku terbuai dalam dosa
+Kini ku sadari, apa yang terjadi
+Dalam dunia selama ini
+
+3. Betapa rindu hatiku padaMu Tuhan
+Selama ini aku jauh dari sisiMu
+Dan berikanlah rahmatMu padaku,
+Oh Tuhan� tuntunlah jalan hidupku
+'), ('KLK064', '64', 'TUHAN YESUS TURUN DARI SORGA', 'KLK', '1=C
+
+1. Tuhan Yesus turun dari sorga
+Masuk dalam dunia yang fana
+Dan Ia sudah tinggalkan BapaNya
+Oleh dosa kita semua
+
+Ref:
+Dia hiduplah, Dia hiduplah
+Duduk di seb|lah kanan Allah Bapa
+Dia hiduplah, Dia hiduplah
+Sembahyang buat anak-anakNya
+
+2. Haleluya Yesus sudah bangkit
+Dari salib dan kematian
+Glory, glory sungguh Dia Allah
+Yang menang kuasa maut selamanya
+
+3. S|karang Dia sembahyang buat kita
+Yang tunggu �kan kedatanganNya
+Angkat kita dari dunia fana
+Masuk dalam sorga yang mulia'), ('KLK065', '65', 'KU MASUKI GERBANGNYA', 'KLK', '1=C
+
+Ku masuki gerbangNya
+Dengan hati bersyukur
+HalamanNya dengan pujian
+Kataku hari ini hariNya Tuhan
+Ku bersuka s|bab Dia girangkanku
+
+Ref:
+Dia girangkanku, oh Dia girangkanku
+Ku bersuka s|bab Dia girangkanku'), ('KLK066', '66', 'KEPADAMU KU ANGKAT PUJIANKU', 'KLK', '1=A
+
+KepadaMu ku angkat pujianku
+Biar ku ingat akan kasihMu
+Ke tempat yang lebih tinggi ku rindu
+Dunia cemar bukanlah rumahku
+Dan hingga nanti hatiku bernyanyi
+Dan gemar aku berjalan terus
+Sehingga aku melihat kota suci
+Bersama Tuhan s|lamanya'), ('KLK067', '67', 'MARI MASUK', 'KLK', '1=F
+
+Mari masuk, mari masuk
+Masuk hatiku ya Yesus
+Datang s|karang, datang tinggal
+Dalam hatiku ya Yesus
+'), ('KLK068', '68', 'KU LEMAH YESUS KUASA', 'KLK', '1=A
+
+1. Ku lemah Yesus kuasa
+Hindarkan dari dosa
+Dan aku berbahagia
+Serta girang trus s|lamanya
+
+2. Lebih dekat padaMu
+Itu permohonanku
+Setiap hari sertaMu
+Oh Tuhan tolong padaku
+
+3. Dalam hidup p|nuh susah
+Hidupku jadi payah
+Tapi Yesus penuh cinta
+Tolongku dari bahaya'), ('KLK069', '69', 'YESUS YANG TAHU HIDUPKU', 'KLK', '1=A
+
+Yesus yang tahu hidupku
+Dia mengasihiku
+Tiada s|orangpun tahu
+keb|ratan hatiku
+
+Ref:
+Tindasan dosa yang b|rat
+Ku bawa padaMu
+Tuhan ampuni semua, sucikan hatiku'), ('KLK070', '70', 'KU JATUH CINTA PADANYA', 'KLK', '1=D
+
+Ku jatuh cinta padaNya
+Tambah dan dalam dan
+Tambah dan dalam lagi
+Ku jatuh cinta padaNya
+Tambah dan dalam dan
+Tambah dan dalam lagi
+
+Ref:
+Yesus indah dan indahlah
+Semakin indah
+Oh cintaNya antara Allah dan aku
+Ku jatuh cinta padaNya
+Tambah dan dalam lagi'), ('KLK071', '71', 'OH SUNGGUH SENANG', 'KLK', '1=D
+
+1. Oh sungguh senang
+Dalam persekutuan
+Bersama umat pilihan Tuhan
+Di kota Allah
+bersinar t|rang mulia
+Rumah di surga bertatah mutiara
+
+2. Ku lihat rumah
+Yang di sebelah bukit
+Di negeri indah serta Yesuslah
+Nanti di sana
+Hilang semua kesusahan
+Di negeri mulia senang sungguh
+
+3. Saat kunanti, kedatanganNya Tuhan
+Ku pikul salib ikut Tuhanku
+Onak dan duri, kurasa setiap hari
+Tapi Roh suci, b|ri suka di hati
+'), ('KLK072', '72', 'JIWA LARA DAN PENAT', 'KLK', '1=C
+
+1. Jiwa lara dan penat
+Dosaku Tuhan angkat
+Ku s|karang tak tersesat
+Sama sama Yesus
+
+2. Sama sama ku jalan
+Di sepanjang jalanan
+Sama sama ku jalan
+Sama sama Yesus
+
+3. Waktu susah hidupku
+Yesus dengar doaku
+Awan g|lap t|lah berlalu
+
+4. Meski sempit jalannya
+dan salib dipikulnya
+Sampai negeri yang mulia
+Sama-sama Yesus
+'), ('KLK073', '73', 'ADA SALIB BAGI SETIAP ORANG', 'KLK', '1=D
+
+1. Ada salib bagi setiap orang
+Bagi jiwapun ada sorga t|rang
+Ada tempat dalam sorga kekal
+Ku dapatkan karunia Golgota
+
+2. Setetes darah Yesus yang suci
+B|riku s|lamat dan nan abadi
+Dia hancurkan rantai dosa keji
+Oh ajaiblah darahNya Kalvari
+
+3. Setiap hari Tuhan p|nuhkan saya
+Dengan cinta kuasa dan rahmatNya
+Dia sertaku di s|panjang jalanku
+Dan tolongku di setiap ku perlu
+'), ('KLK074', '74', 'B|RATKAH BEBAN HIDUPMU', 'KLK', '1=C
+Versi 1
+1. B|ratkah beban hidupmu
+Dalam dunia gelap ?
+Oh rindukan jiwamu
+Kan perhentian tetap ?
+
+Ref
+Kenal kau, kan Yesus
+Kenal kau, teman ?
+KasihNya abadi, dan tetap
+Hingga akhir zaman
+
+2. Kemanakah jalanmu
+Hai musafir letih ?
+Siapa dengar keluhmu
+Dalam malam g|lap sepi ?
+
+3. Siapa kenal hidupmu ?
+Dan s|gala dukanya ?
+Siapa b|ri penghiburan
+Hilangkan air mata ?
+'), ('KLK075', '75', 'OH TUHAN BILA AKU RENUNGKAN', 'KLK', '1=Bb
+
+1. Oh Tuhan bila aku renungkan
+Terpesona keagunganMu
+Hatiku tersayat hampa dan pedih
+Aku insan tak berarti
+
+Ref:
+Tuhanku korbanMu
+Lenyapkan banggaku
+Rasa kasih mesra padaMu
+Junjunganku
+Ku berjanji, insyaf, kini,
+Taat setiap hari
+
+2. Andaikan aku dapat persembahkan
+kepadaMu alam semesta
+kasihMu yang suci tetap
+menuntut seluruh tubuh jiwaku
+
+3. SalibMu ya Yesus tanda kasihMu
+bagi hati yang remuk redam
+aku insan yang nyaris �kan tenggelam
+kau angkat demi sayangMu'), ('KLK076', '76', 'DENGAN HATI BERSYUKUR', 'KLK', '1=A
+
+Dengan hati bersyukur
+Pada Allah yang kudus
+Syukur kar|na dib|rikan PutraNya Yesus
+Kini yang lemah diperkuat
+Yang miskin diperkaya
+Kar|na perbuatanNya pada kita. Amin
+'), ('KLK077', '77', 'KALAU BUKAN KASIH', 'KLK', '1=F
+
+1. Dia tinggalkan sorga mulia
+Dia tahu �kan nasibNya
+Di Bukit Golgota yang sunyi
+Dia s|rahkan hidupNya bagiku
+
+Ref:
+Kalau bukan kasih
+lautan kering
+Burung tak berkicau
+Langit tak berbintang
+Kalau bukan kasih, 
+Sorga tiada
+Tiada yang kurasa,
+Kalau bukan kasih
+
+2. Walau menderita Ia ingat
+Pencuri yang disisiNya
+Ia berkata dengan p|nuh kasih
+Dan membawanya ke Firdaus
+'), ('KLK078', '78', 'SEINDAH BUNGA MAWAR', 'KLK', '1=C
+
+Seindah bunga mawar, seputih melati
+Namun Kamu lebih indah dan suci abadi
+Terpujilah namaMu Yesus Tuhanku
+Hanya kepadaMu |ku serahkan hidupku'), ('KLK079', '79', 'TIAP LANGKAHKU', 'KLK', '1=D
+
+1. Tiap langkahku, diatur oleh Tuhan
+Dan tangan kasihNya, membimbingku
+Di tengah g|lombang dunia menakutkan
+Hatiku tetap tenang teguh
+
+Ref:
+Tiap langkahku, Ku tahu yang Tuhan pimpin
+Ke tempat tinggi ku dihantarNya
+Hingga sekali nanti aku tiba
+Di rumah Bapa, sorga yang baka
+
+2. Di waktu imanku mulai lemah
+Dan bila jalanku hampir sesat
+Ku pandang Juru|slamatku yang Esa
+Aku kuat s|bab Tuhan dekat
+
+3. Di dalam Tuhan saja harapanku
+Sebab di tanganNya sejahtera
+DipegangNya kunci kota Allah Hu
+Negeri Perjanjian Mulia'), ('KLK080', '80', 'KARENA DEMIKIAN', 'KLK', '1=F
+
+Kar|na demikian Allah cinta dunia
+Hingga dib|rikanNya AnakNya yang tunggal
+Supaya yang percaya tidak binasa
+M|lainkan dapat hidup kekal'), ('KLK081', '81', 'HALELUYAH', 'KLK', '1=G
+
+1. Haleluya, haleluya, haleluya
+Haleluya, haleluya, haleluya
+Haleluya, haleluya, haleluya
+Haleluya, haleluya, haleluya
+
+2. Kami sembah Engkau Bapa
+Kami sembah Engkau Yesus
+Kami sembah Kau Roh Kudus
+Kami sembah, kami sembah
+'), ('KLK082', '82', 'DALAM RUMAH BAPAKU', 'KLK', '1=Bb
+
+Dalam rumah Bapaku banyaklah tempat
+Terdengar suara Yesus yang merdu
+Ia pergi ke Neg|ri T|rang, Sorga yang baka
+Untuk menyediakan tempat bagimu
+
+Ref:
+Jangan tolak kasih TuhanMu setia
+Agar kau pun boleh masuk t|rang mulia
+Dalam rumah Bapaku banyaklah tempat
+Baik percaya tentu kau dit|rimaNya'), ('KLK083', '83', 'HARI INI KU RASA BAHAGIA', 'KLK', '1=Eb
+
+Hari ini ku rasa bahagia
+Berkumpul bersama saudara seiman
+Tuhan Yesus t|lah satukan kita
+Tanpa memandang diantara kita
+
+Ref:
+Bergandengan tangan dalam kasih dalam satu hati
+Berjalan dalam terang kasih Tuhan
+Kau sahabatku, dan kau saudaraku
+Tiada yang dapat memisahkan kita
+Kau sahabatku, dan kau saudaraku
+Tiada yang dapat memisahkan kita'), ('KLK084', '84', 'G|LOMBANG ZAMAN', 'KLK', '1=C
+
+Glombang zaman (S4)
+Badai topan dunia menderu menimpaku (S 1,2)
+Kehidupan (S4)
+aku s|rahkan ke tangan Hu Pemimpinku (S 1,2)
+Kupalingkan langkah meninjau
+Kehidupanku yang lalu
+Neraca kehidupan, tinggi dalam
+Naik turun bahkan masih jauh
+Sekarang sudah Kau ukurlah
+Dan timbang hidupmu yang lalu
+Besarlah, kecemaran hidupku
+Kepada Tuhan Hu
+S|karang ku datang dengan penyesalan
+Kar|na dosa kesalahanku ya Tuhan
+Di jalan hidupku naik dan menurun
+Di padang dan gurun disusah dan senang
+Tanga Tuhan pimpin sepanjang kehidupan
+Di dalam dunia (fana, kegelapan)
+Jauh di seberang sana Tuhanku menunggu
+Segala umatNya kembali ke pangkuNya
+Hai berwaspadalah siapkan dirimu
+Dengan langkah baru, hidup baru dalam Tuhan
+Tuhan pimpin jalanku terangilah kehidupanku
+Mengarung lautan glombang badai penuh
+Kabut dan keg|lapan
+S|karang kabut dunia dikalahkan, t|rang abadi
+'), ('KLK085', '85', 'SEKARANG INI TEMPAT BELUM PENUH', 'KLK', '1=Bes
+
+1. Sekarang ini tempat b|lum penuh
+T|lah lengkap sajian, cahari pada lorong
+Dan lebuh, di kampung dan pecan,
+Dan panggil siapa suka datang
+Welakin sudah kesesatan
+Sekarang tempat belum penuh
+
+2. Sebentar lagi sayup waktunya
+Se|gralah sobatku
+Sebentar meski berkeluh kesah
+Percuma kau seru.
+Seg|ralah sambut akan Dia
+Mukhalis mempelai yang Mulia
+Sebentar sayup waktunya
+'), ('KLK086', '86', 'SESUDAH INI', 'KLK', '1=D
+
+1. Sesudah ini, sinar t|rang yang pagi
+Mulailah hidup, sorga suci
+Sengsara dunia, dan air mata
+Sesudah ini, tiada lagi
+
+Reef:
+Di sorga mulia, damai sentosa
+Tiada air mata, tiada duka
+Bagi yang setia, t|rima mahkota
+Sesudah ini, sorga mulia
+
+2. Sesudah ini, gentar tiada
+Badai dan gurun, t|lah lenyaplah
+Oh hari Tuhan, oh hari mulia
+Sesudah ini, hidup kekal
+
+3. Sesudah ini, kita k|lak jumpa
+Bersama umat, tebusanNya
+Di rumah Bapa, tinggal bersama
+Sesudah ini, selamanya'), ('KLK087', '87', 'KU LIHAT PINTU TERBUKA', 'KLK', '1=Bb
+
+1. Ku lihat pintu terbuka
+Dimana t|rang memancar
+Dari salibNya Tuhanku
+Ku dapat damai itu
+
+Ref:
+Cinta Allah besar sungguh
+Pintu terbuka bagiku
+Ya, ya bagiku terbuka bagiku
+
+2. Pintu t|lah terbuka
+Bagi yang mau percaya
+Orang miskin, orang kaya
+Semua boleh datang
+
+3. Di sorga suci dan mulia
+Bersama penebusku
+Dia t|lah mati ganti kita
+Dan bangkit s|bagai Raja
+'), ('KLK088', '88', 'ALLAH MANA S|PERTI ALLAHKU', 'KLK', '1=G
+
+1. Allah mana s|perti Allahku
+Tuhan mana s|perti Tuhanku
+Dia benteng perisai, menara pembebasan
+Bagi semua yang percaya padaNya
+
+2. Allah mana s|perti Allahku
+Tuhan mana s|perti Tuhanku
+Dia ajarku berperang
+Pimpinku jadi pemenang
+Ku puji namaNya selamanya'), ('KLK089', '89', 'DATANG KE HADIRAT TUHAN', 'KLK', '1=C
+
+Datang ke hadirat Tuhan
+Dengan hati yang penuh sukacita
+Datang ke hadirat Tuhan
+Dengan senyum dan muka yang gembira
+Tanggalkan beban dan kesedihan yang ada
+Di dalam hatimu
+Kenakan jubah pujian
+Sambut hadirNya Sang Raja
+
+Ref:
+Dan gunung-gunung pun bersorak-sorak memuji Dia
+Dan pohon-pohon pun bertepuk tangan memuji Dia
+S|kalian kita di sini berkumpul
+Dan memuji Dia Yesus Tuhan Raja
+Dialah yang bertahta... di atas pujian'), ('KLK090', '90', 'BAPA SORGAWI', 'KLK', '1=F
+
+Bapa sorgawi ajar ku mengenal
+Betapa dalamNya kasihMu
+Bapa sorgawi buatku mengerti
+Betapa kasihMu padaku
+
+Ref:
+Semua yang terjadi di dalam hidupku
+Ajar ku menyadari kau s|lalu sertaku
+B|ri hatiku s|lalu bersyukur padaMu
+Kar|na rencanaMu indah bagiku'), ('KLK091', '91', 'SATU HAL TELAH KUMINTA', 'KLK', '1=F
+
+Satu hal telah ku minta kepada Tuhan
+Itulah yang ku ingini
+Diam di rumah Tuhan seumur hidupku
+Menyaksikan kemurahan Tuhan
+
+Ref:
+Dan menikmati kasihNya
+Dan menikmati kuasaNya
+Dan menikmati baitNya
+Dan menikmati FirmanNya'), ('KLK092', '92', 'JANGAN KAMU KUATIR', 'KLK', '1=Bb
+
+Jangan kamu kuatir,
+Burung di udara Dia pelihara
+Jangan kamu kuatir,
+Bunga di padang Dia hiasi
+Jangan kamu kuatir,
+Apa yang kau makan, minum, pakai
+Jangan kamu kuatir,
+Bapa di sorga mem|lihara'), ('KLK093', '93', 'KASIH PASTI LEMAH LEMBUT', 'KLK', '1=G
+
+Kasih pasti lemah lembut
+Kasih pasti memaafkan
+Kasih pasti murah hati
+KasihMu... kasihMu Tuhan
+
+Ref:
+Ajarilah kami ini saling mengasihi
+Ajarilah kami ini saling mengampuni
+Ajarilah kami ini kasihMu ya Tuhan
+KasihMu kudus, tiada batasnya'), ('KLK094', '94', 'BERSAMA MALAIKAT DI SURGA', 'KLK', '1=C
+
+1. Bersama malaikat di sorga
+Nyanyikan kidung pujian
+Bermazmur bagiMu
+Muliakan NamaMu
+Yesus, aku memujiMu
+
+2. Tanganku ku angkat padaMu
+Masuk dalam hadiratMu
+Rasakan kasihMu ku jadi milikMu
+Yesus... Aku menyembahMu
+Hosana, Hosana, aku memujiMu Yesus
+Haleluya, Haleluya,
+Aku menyembahMu'), ('KLK095', '95', 'BETAPA BAIKNYA ENGKAU TUHAN', 'KLK', '1=G
+
+Betapa baiknya Engkau Tuhan
+KasihMu tiada berkesudahan
+Betapa mulia kasihMu Yesus
+Jiwaku diselamatkan
+
+Ref:
+Hosana, ku memuji Tuhan
+Hosana, ku tinggikan Yesus
+Hosana, Hosana, Hosana'), ('KLK096', '96', 'TUHAN ADALAH KEKUATANKU', 'KLK', '1=A
+
+1. Tuhan adalah kekuatanku
+Bersama Dia ku tak akan goyah
+Ku kan terbang tinggi bagai rajawali
+Melakukan perkara yang besar
+
+Ref:
+Ku kan terbang tinggi bagai rajawali
+Dan melayang tinggi
+Dalam kemuliaanNya
+Biar bumi bergoncang
+Dan badai menerpa
+Ku kan terbang tinggi bersama Dia
+
+2. Tuhan ku nantikanMu
+Kau memb|riku kekuatan yang baru
+Berlari tak lesu, berjalan tak lelah
+Rohul Kudus kekuatan sayapku
+'), ('KLK097', '97', 'EL SHADAI (Tak Usah Ku Takut)', 'KLK', '1=A
+
+Tak usah ku takut Allah menjagaku
+Tak usah ku bimbang, Yesus p|liharaku
+Tak usah ku susah, Roh Kudus hiburku
+Tak usah ku cemas, Dia memberkatiku
+
+Ref:
+El Shadai, El Shadai
+Allah Maha Kuasa
+Dia besar, Dia besar
+El Shadai, Mulia
+El Shadai, El Shadai
+Allah Maha Kuasa
+BerkatNya melimpah, El Shadai'), ('KLK098', '98', 'BUKAN KAR|NA KEBAIKANMU', 'KLK', '1=A
+
+Bukan kar|na kebaikanmu
+Bukan kar|na fasih lidahmu
+Bukan kar|na kekayaanmu
+Kau dipilih, kau dipakaiNya
+Bukan kar|na kelebihanmu
+Bukan kar|na baik rupamu
+Bukan kar|na kecakapanmu
+Kau dipilih, kau dipakaiNya
+
+Ref:
+Bila engkau dapat, itu karenaNya
+Bila engkau punya, Semua dari padaNya
+Semua hanya anug|rahNya
+Dib|rikanNya pada kita
+Semua anug|rahNya bagi kita
+Jika engkau dipakaiNya'), ('KLK099', '99', 'AKU MENGASIHI ENGKAU YESUS', 'KLK', '1=G
+
+Aku mengasihi Engkau Yesus
+Dengan segenap hatiku
+Aku mengasihi Engkau Yesus
+Dengan segenap jiwaku
+
+Ref:
+Ku renungkan FirmanMu siang dan malam
+Ku pegang p|rintahMu, dan ku lakukan
+Engkau tahu ya Tuhan, tujuan hidupku
+Hanyalah untuk menyenangkan hatiMu'), ('KLK100', '100', 'KU SIAPKAN HATIKU TUHAN', 'KLK', '1=G
+
+Ku siapkan hatiku Tuhan
+Tuk dengar FirmanMu saat ini
+Ku sujud menyembahMu Tuhan
+Masuk hadiratMu saat ini
+Curahkan urapanMu Tuhan
+Bagi jemaatMu saat ini
+Ku siapkan hatiku Tuhan
+Tuk dengar FirmanMu
+
+Ref:
+FirmanMu Tuhan, tiada berubah
+Dahulu, sekarang, selama-lamanya
+Tiada berubah
+FirmanMu Tuhan, penolong hidupku
+Ku siapkan hatiku Tuhan
+Tuk dengar FirmanMu'), ('KLK101', '101', 'KASIH ALLAHKU SUNGGUH TERBUKTI', 'KLK', '1=C
+
+Kasih Allahku sungguh t|lah terbukti
+Ketika Dia serahkan AnakNya
+Kasih Allah mau berkorban, bagi kau dan aku
+Tak ada kasih seperti kasihMu
+
+Ref:
+Bersyukur, bersyukur bersyukurlah
+Bersyukur, kar|na kasih setiaMu
+Ku sembah, ku sembah, ku sembah, dan ku sembah
+S|lama hidupku, ku sembah Kau Tuhan'), ('KLK102', '102', 'KITALAH UMAT PEMENANG', 'KLK', '1=C
+
+Kitalah umat pemenang
+Kita umat pemuji,
+Kita anak perjanjian
+Yesus t|lah bangkit
+Kalahkan maut
+
+Ref:
+Bangkit ya lahir baru
+Jalan dalam kuasa darahNya
+Jadi ahli warisNya
+Anak Allah ! Anak Allah ! Hei !
+Anak Allah !
+Hei ! Hei ! Hei !'), ('KLK103', '103', 'SUNGGUH KU BANGGA BAPA', 'KLK', '1=Bb
+
+Sungguh ku bangga Bapa
+Punya Allah seperti Engkau
+Sungguh ku bangga Yesus
+Atas s|gala pengorbananMu
+Tak ingin aku hidup lepas dari kasihMu
+KasihMu menyelamatkan
+Dan b|ri ku pengharapan
+
+Ref:
+Kini ku persembahkan
+Apa yang aku miliki
+Memang tiada berarti bila
+Dibanding dengan kasihMu
+Namun ku ingin memb|ri
+Dengan sukacita di hati
+Kar|na ku tahu ini
+menyenangkan hatiMu'), ('KLK104', '104', 'KETIKA AKU BERBEBAN BERAT', 'KLK', '1=D
+Versi 1
+
+1. Ketika aku berbeban berat
+Ku datang kepada Yesus
+Dia b|rikan damai dan sukacita
+Sejahtera dalam hatiku
+
+2. Ketika aku berputus asa
+Ku datang kepada Yesus
+Dia lepaskanku dan bebaskan
+Kini aku jadi baru
+
+Ref:
+Yesus, Yesus, Tuhan
+Mulia NamaMu
+Ku tinggikan, ku agungkan
+NamaMu selama-lamaNya'), ('KLK105', '105', 'ALLAH DITINGGIKAN DENGAN SORAK-SORAI', 'KLK', '1=Bb
+
+Allah ditinggikan dengan sorak-sorai
+Allah ditinggikan dengan sangkakala
+Allah ditinggikan dengan sorak-sorai
+Bersoraklah bagi Tuhan }2x
+Bila sangkakala berbunyi
+Tepuk tangan puji Tuhan
+Allah ditinggikan, Allah ditinggikan
+Allah diagungkan, tinggi
+'), ('KLK106', '106', 'PEGANGLAH TANGANKU ROH KUDUS', 'KLK', '1=Bb
+
+Peganglah tanganku Roh Kudus, setiap hari
+Ku tak dapat jalan sendiri, tanpa RohMu
+Bawalah diriku kepada jalan kebenaran
+Agar ku tidak tersesat
+Mengikuti jalanMu
+
+Ref:
+Kudus, kudus Tuhan, kudus NamaMu
+Ku b|ri syukur dalam, simfoni indah
+Ajaib, ajaib Tuhan, ajaib NamaMu
+Nama yang b|ri menang Yesus NamaNya'), ('KLK107', '107', 'KINI SAATNYA', 'KLK', '1=D
+
+Kini saatnya, berdiri di altarNya
+S|bab Allah Maha Kudus hadir di sini
+Mari memuji, angkat tangan menyembah
+S|bab Allah Maha Kudus, hadir di sini
+Kita masuk takhta suciNya
+Bersama para malaikat menyembah
+Mari puji Yesusku
+Kita masuk hadiratNya Maha Kudus
+'), ('KLK108', '108', 'BERHEMBUSLAH ROH KUDUS', 'KLK', '1=A
+
+Berhembuslah Roh Kudus di tempat ini
+Berhembuslah Roh Kudus dengan kuasaMu
+Pulihkanlah G|rejaMu di akhir zaman
+Berhembuslah, berhembuslah, s|karang
+Urapilah kami, dengan minyak baru
+Penuhilah kami, dengan hadiratMu
+Kami rindu Tuhan melihat kuasaMu
+Dicurahkan di tempat ini'), ('KLK109', '109', 'TUHAN KU MAU MENYENANGKANMU', 'KLK', '1=G
+
+1. Tuhan ku mau menyenangkanMu
+Tuhan bentuklah hati ini
+Jadi bejana untuk hormatMu
+Cemerlang bagai emas murni
+
+Ref: 
+MenyenangkanMu, senangkanMu
+Hanya itu kerinduanku
+MenyenangkanMu, senangkanMu
+Hanya itu kerinduanku
+
+2. Tuhan ku serahkan hatiku
+Semua ku berikan padaMu
+Kuduskan hingga tulus selalu
+Agar aku menyenangkanMu
+'), ('KLK110', '110', 'SATUKANLAH HATI KAMI', 'KLK', '1=Eb
+
+Satukanlah hati kami
+�Tuk memuji dan menyembah
+Oh Yesus Tuhan dan Rajaku
+Eratkanlah tali kasih
+Di antara kami semua
+Oh Yesus Tuhan dan Rajaku
+
+Ref:
+Bergandengan tangan dalam satu kasih
+Bergandengan tangan dalam satu iman
+Saling mengasihi, di antara kami
+Keluarga Kerajaan Allah'), ('KLK111', '111', 'KEPADAMU KU BERDOA', 'KLK', '1=D
+
+1. KepadaMu ku berdoa, dan ku pinta
+Ulurkanlah tangan kasihMu padaku
+Kar|na ku tahu Kau selalu di sisiku
+Oh Tuhanku, dengarkanlah
+Doaku kepadaMu
+
+Ref:
+Kar|na ku tahu ku tahu pasti
+Oh Tuhan, apapun juga di dunia ini
+Tanpa Kau Tuhan
+S|muanya tak �kan berarti
+Oh Tuhanku,
+Dengarkanlah doaku kepadaMu
+
+2. Berikanlah dan tunjukkanlah kuasaMu
+Tabahkanlah dan kuatkanlah imanku
+Jadikanlah aku ini hamba setiaMu
+Agar dapat aku hidup selalu di sisiMu
+'), ('KLK112', '112', 'MASUK HADIRATNYA', 'KLK', '1=A
+
+Masuk hadiratNya
+Dengan hati bersyukur
+Memuji Dia, memuji Dia
+Masuk hadiratNya
+Dengan hati bersyukur
+Memuji Dia, memuji Dia
+
+Ref:
+B|ri puji dan hormat
+Tinggikan NamaNya
+Oh Yesus, Raja s|gala Raja'), ('KLK113', '113', 'SYUKUR PADAMU TUHAN', 'KLK', '1=A
+
+Syukur padaMu Tuhan
+Syukur Allahku yang kudus
+Syukur kar|na Kau berikan
+PutraMu Kristus
+S|karang yang lemah katakan ku kuat
+Dan miskin katakan ku kaya
+Kar|na semua t|lah di perbuat Allah
+S|karang'), ('KLK114', '114', 'HIDUP YANG PUTUS ASA', 'KLK', '1=A
+Versi 1
+1. Hidup yang putus asa tak berarti
+Jalan dengan tanpa harapan
+Lalu tangan yang berlubang paku
+Menjamah jadi hidup baru
+
+2. Dan kayu yang kasar mengubahkan
+jalan hidup yang penuh kegagalan
+Ku puji Dia selama-lamanya
+Sebab salib mengubah hidupku
+
+3. Dan ku yakin Darah Yesus yang suci
+Sudah mengalir di kalvari
+Bila zaman berlalu dunia menderu
+Ku tetap pegang salib itu
+
+Versi 2
+3. Ku yakin korban Kristus di atas salib itu
+sangat agung dan ajaib
+Hidupku sungguh-sungguh
+Menjadi baru
+Ku tetap pegang Salib itu'), ('KLK115', '115', 'KAMI BERKUMPUL TUHAN', 'KLK', '1=G
+
+Kami berkumpul Tuhan
+Di hadapan takhtaMu
+Sujud menyembah
+Dalam indahnya hadiratMu
+Kami rindu curahan kuasa Roh Kudus
+Genapi FirmanMu jadikanku alatmu
+Biar belas kasihanMu Bapa
+Penuhi hati kami
+Curahkanlah kuasa Roh Kudus
+Api kemuliaanMu
+Membakar hati yang rindu
+Untuk melayaniMu
+Sampai seluruh neg|ri ini
+Sampai seluruh bumi ini
+Dipenuhi Api kemuliaanMu'), ('KLK116', '116', 'KASIH SETIAMU', 'KLK', '1=C
+
+1. Kasih setiaMu yang kurasakan
+Lebih tinggi dari langit biru
+KebaikanMu yang t|lah Kau nyatakan
+Lebih dalam dari lautan
+
+2. BerkatMu yang telah ku terima
+Sempat membuatku terpesona
+Apa yang tak pernah ku pikirkan
+Itu yang Kau sediakan bagiku
+
+Ref:
+Siapakah aku ini Tuhan
+Jadi biji mataMu
+Dengan apa |kan ku balas Tuhan
+Selain puji dan sembah Kau'), ('KLK117', '117', 'BERSAMA YESUS', 'KLK', '1=A
+
+1. Bersama Yesus lakukan perkara besar
+Bersama Yesus tidak ada yang sukar
+Bersama Yesus ada jalan keluar
+Untuk masalahmu, untuk masalahku
+Untuk masalah kita semua
+
+Ref:
+Yesus Anak Domba Allah
+Juruslamat umat manusia
+Yesus Tabib yang Ajaib
+Dia menyembuhkan
+Dia menguduskan
+Dia membenarkan
+Dia raja s|gala raja
+(Dia Tuhan s|gala Tuhan)'), ('KLK118', '118', 'OH TUHAN ULURKAN LANGKAHMU', 'KLK', '1=Ab
+
+Oh Tuhan, ulurkan, tanganMu
+Tegakkanku, ku lelah,
+Ku susah, ku lemah
+Tuhanku, pimpinlah, lewat g|lap
+Masuk t|rang Tuhanku
+Bimbing daku, ke sorga
+'), ('KLK119', '119', 'JALAN HIDUP ORANG BENAR', 'KLK', '1=A
+
+Jalan hidup orang benar
+Diterangi oleh cahya Firman Tuhan
+Jalan hidup orang benar
+Semakin terang hingga rembang tengah hari
+Apabila ia jatuh tidaklah dibiarkan
+Sampai terg|letak
+S|bab tangan Tuhan jua
+Yang menopangku
+Dan membangunkan ku kembali'), ('KLK120', '120', 'ADAKAH TEMPAT BUAT YESUS', 'KLK', '1=A
+
+Adakah tempat buat Yesus
+Dia yang memikul dosamu,
+Ia ketuk pintu hatimu
+Apakah kau t|rima Dia ?
+
+Ref:
+Tempat bagi Tuhan Yesus
+Taatilah |kan FirmanNya
+Bukalah pintu hatimu
+S|lagi berkesempatan'), ('KLK121', '121', 'DI DOA IBUKU NAMAKU DISEBUT', 'KLK', '1=D
+
+1. Di waktu ku masih kecil
+Gembira dan senang
+Tiada duka ku kenang
+Tak kunjung mengerang
+Di sore hari nan sepi, ibuku bertelut
+Sujud berdoa ku dengar, namaku disebut
+
+Ref:
+Di doa ibuku namaku disebut
+Di doa ibu kudengar
+Ada namaku disebut
+
+2. Seringlah ini kukenang
+Di masa yang berat
+Di kala hidup mendesak
+Dan nyaris ku sesat
+Melintas gambar ibuku sewaktu bertelut
+Kembali sayup ku dengar namaku disebut
+
+3. Sekarang dia t|lah pergi
+Ke rumah yang senang
+Namun kasihNya padaku
+Selalu ku kenang
+Kelak di sana kamipun
+Bersama bertelut, memuji Tuhan
+Yang dengar, namaku disebut'), ('KLK122', '122', 'KASIH DARI SORGA', 'KLK', '1=D
+
+Kasih dari sorga memenuhi tempat ini
+Kasih dari Bapa sorgawi
+Kasih dari Yesus mengalir di hatiku
+Membuat damai di hidupku
+
+Ref:
+Mengalir kasih dari tempat tinggi
+Mengalir kasih dari takhta Allah Bapa
+Mengalir, mengalir
+Mengalir dan mengalir
+Mengalir memenuhi hidupku'), ('KLK123', '123', 'DI TENGAH OMBAK DAN ARUS PENCOBAAN', 'KLK', '1=D
+
+Di tengah ombak dan arus pencobaan
+Hampir terhilang tujuan arah hidupku
+Bagaikan kapal yang
+S|lalu di ombang-ambingkan
+Mengharap kasihNya
+Seolah-olah tiada mampu
+
+Ref:
+Yesus perhatikan
+Kehidupan s|tiap orang
+Yang sudah rusak dibetulkan
+Dengan penuh kasih sayang
+Yesus perhatikan
+S|tiap tetesan airmata
+Dia mengenal hatiku yang penuh
+Penyesalan dosa'), ('KLK124', '124', 'TUHAN YESUS SETIA', 'KLK', '1=A
+
+Tuhan Yesus setia, Dia sahabat kita
+Dalam s|gala susahku selalu menghiburku
+Dia mengerti bahasa tetesan airmata
+Waktu badai mengamuk dan gelombang menerjang
+Tuhan Yesus setia'), ('KLK125', '125', 'KU RASAKAN KASIHMU TUHAN', 'KLK', '1=Ab
+
+Ku rasakan kasihMu Tuhan
+Ku rasakan kuasaMu Tuhan
+Ku rasakan kasih kuasa Roh Kudus
+Ku rasakan kehadiranMu
+
+Ref:
+Curahkanlah kuasaMu Tuhan
+Mujizat terjadi di tempat ini
+Curahkanlah kuasaMu Tuhan
+Mujizat terjadi sekarang ini'), ('KLK126', '126', 'MATAKU TERTUJU PADAMU', 'KLK', '1=Ab
+
+Mataku tertuju padaMu
+Seg|nap hidupku ku s|rahkan padamu
+Bimbing aku masuk rencanaMu
+|Tuk membesarkan K|rajaanMu
+
+Ref:
+Ku mau mengikuti
+KehendakMu ya Bapa
+Ku mau s|lalu menyenangkan hatiMu'), ('KLK127', '127', 'JIKA JIWAKU BERDOA', 'KLK', '1=C
+
+Jika jiwaku berdoa kepadaMu Tuhanku
+Ajarlah ku t|rima saja pemberian tanganMu
+
+Ref:
+Dan mengaku s|perti Yesus
+Di depan sengsaraNya
+Jangan kehendakku Bapa
+KehendakMu jadilah'), ('KLK128', '128', 'BILA KU BERJALAN', 'KLK', '1=D
+1Cor.10.13
+
+1. Bila kau berjalan
+Dalam lorong yang gelap
+Tahanlah, akan pencobaan
+Jangan kau ragukan
+Pertolongan TuhanMu
+S|bab Ia, kan s|lalu, menolongMu
+
+2. Bila ombak gelombang
+Dan topan menderu
+Tabahkan, kuatkan, imanmu
+Percaya Ia akan pedulikan kamu
+S|bab janjiNya menyertaiMu
+
+Ref:
+Hanya pencobaan yang lazim
+Sudah berlaku atas kamu
+Tuhan akan mem|brikan
+Jalan kelepasan
+Agar kau cakap menahannya'), ('KLK129', '129', 'DI SAAT ENGKAU SUSAH', 'KLK', '1=F
+
+
+Di saat engkau susah,
+Yesus hibur selalu
+Di saat engkau lemah, Dia kuatkan
+Yesus mau menolongmu,
+Dalam kesusahanmu
+Yesus |kan selalu setia
+Sampai selama-lamanya
+
+Ref:
+Walau pohon ara tak berbunga
+Pohon anggur tak berbuah
+Pohon zaitun mengecewakan
+Ladang-ladang tak menghasilkan
+Kambing domba terhalau sudah
+Lembu sapi tak ada
+Namun aku kan tetap setia
+Kar|na Yesus tetap setia'), ('KLK130', '130', 'MARI KITA BERSUKARIA', 'KLK', '1=C
+
+Mari kita bersukaria,
+kar|na ini hari bahagia
+Kita berkumpul jadi satu
+Puji Tuhan semesta itu
+Tepuk tangan wajah berseri
+Hilangkanlah hati yang sedih
+Bukankah Yesus berkata
+DamaiNya dib|rikan, kita
+Mari kita bersukaria
+'), ('KLK131', '131', 'MAUKAH SENANG', 'KLK', '1=G
+
+Maukah senang, senang, sungguh senang
+Sambut Yesus di hatimu
+Dosa dihapuskan malam berubah t|rang
+Hidup dijadikannya baru
+Maukah senang, senang, sungguh senang
+Sambut Yesus di hatimu
+'), ('KLK132', '132', 'KE GUNUNG TINGGI', 'KLK', '1=D
+
+Ke gunung tinggi ku naik
+Naik, naik mencari damai
+Ke lembah curam ku turun.
+Turun, turun mencari damai
+Namun akhirnya damai
+Tiada ku dapati juga
+kecuali hanya di dalam Yesus Tuhan
+'), ('KLK133', '133', 'TEMALI KASIH SAYANG', 'KLK', '
+Indah terasa disaat Dia tumbuhkan
+Benih cinta kita berdua
+Bersemi dalam naunganNya
+Indah terasa disaat Dia satukan dua hati
+Dalam temali kasih sayang dan pengharapan
+
+Ref:
+Indahkulah saat ini berdua melangkah
+Menyambut esok nan ceria
+Temali kasih sayang senantiasa
+Untuk selamanya dalam hidup kita
+Indah menyatu bersama kasihNya'), ('KLK134', '134', 'KU TAK DAPAT JALAN SENDIRI', 'KLK', '1=G
+
+Melewati lembah duka semu
+Jalanku gelap dan ngeri
+Tuhan pimpinanMu yang ku perlu
+Ku tak dapat maju sendiri
+
+Ref:
+Ku tiada tahu jalannya Tuhan
+Engkaulah yang mengerti
+TerangMu halau ketakutan
+Ku tak dapat maju sendiri'), ('KLK135', '135', 'BILA MUKA DENGAN MUKA', 'KLK', '1=Bb
+
+Bila muka dengan muka
+Akan nampak Penebus
+Sukacitaku berlimpah
+Ia mati bagiku
+
+Ref:
+Nanti muka dengan muka
+Aku nampak penebus
+Agung dalam t|rang sorgawi
+Aku nampak Tuhanku'), ('KLK136', '136', 'DI HIDUPKU, KU ADA SOBAT YANG SETIA', 'KLK', '1=C
+
+1. Di hidupku ku ada sobat yang setia
+Yang s|nantiasa berjalan sertaku
+Masa gelap dibuatNya terang ceria
+Itulah Yesus Jurus|lamatku
+
+Ref:
+Ku tak cemas
+Kan jalan yang naik turun
+Lewat lembah, dan gunung yang terjal
+Sebab Tuhan berjalanlah di sampingku
+Memimpinku, ke Neg|ri yang kekal
+
+2. Kasih Tuhan besarlah tiada taranya
+Dengan rela ia mati gantiku
+KepadaNya ku s|rahkan jiwa dan raga
+Sejak itu ia bimbing |ku s|lalu'), ('KLK137', '137', 'TABUR PAGI HARI', 'KLK', '1=C
+
+Tabur pagi hari, tabur bibit cinta
+Tabur tengah hari, sampai malamlah
+Tunggu datang hari, pungutan mulia
+Kita bawa gandum, di gudang Allah
+
+Ref:
+Gandum di gudang 2X
+Kita bawa gandum
+Di gudang Allah'), ('KLK138', '138', 'JALAN HIDUP TAK SELALU', 'KLK', '1=D
+
+1. Jalan hidup tak selalu
+Tanpa kabut yang pekat
+Namun kasih Tuhan nyata
+Pada waktu yang tepat
+Mungkin langit tak terlihat
+Oleh awan yang tebal
+Di atasnyalah membusur
+P|langi kasih yang kekal
+
+Ref:
+Habis hujan tampak p|langi
+Bagai janji yang teguh
+Di balik duka menanti
+P|langi kasih Tuhanku
+
+2. Jika badai menyerangmu
+Awan turun menggelap
+Carilah di atas awan
+P|langi kasih yang tetap
+Lihatlah warna warninya
+Lambang cinta yang besar
+Tuhan sudah menjanjikan
+Jangan lagi kau gentar
+
+3. Jauhkan takut putus asa
+Walau jalanmu gelap
+Perteguh kepercayaan dan
+Langkahmu tegap, Tuhan itu ada kasih
+Itulah Penghiburmu. Di atas duka bercahaya
+P|langi kasih Tuhanmu'), ('KLK139', '139', 'MENGIKUT YESUS KEPUTUSANKU', 'KLK', '1=Eb
+
+1. Mengikut Yesus, keputusanku
+Mengikut Yesus, keputusanku
+Mengikut Yesus, keputusanku
+Ku tak ingkar, ku tak ingkar
+
+2. Walau sendiri, ku ikut Yesus
+Walau sendiri, ku ikut Yesus
+Walau sendiri, ku ikut Yesus
+Ku tak ingkar, ku tak ingkar
+
+3. Ku ikut sampai, ku lihat Yesus
+Ku ikut sampai, ku lihat Yesus
+Ku ikut sampai, ku lihat Yesus
+Ku tak ingkar, ku tak ingkar
+'), ('KLK140', '140', 'TABAH DAN SETIAWAN', 'KLK', '1=A
+
+1. Tabah dan setiawan, Ikutlah Rajamu
+Sambil memuji-muji
+Turutlah Tuhanmu
+Hanyalah perintahNya
+Yang patut didengar, setia selamanya
+Nyanyilah bergemar
+
+Ref:
+Laskar Yesus,
+Ya ayunkanlah langkahmu
+Maju jalan angkatlah lagumu
+Turut Dia Pahlawan Maha Besar
+Ikut Raja Yesus Penebus
+
+2. Tabah dan setiawan, Dia memimpinmu
+Kibarkanlah panjiNya, majulah menyerbu
+Setelah musuh kita, yang harus diterpa
+Tuhan Panglima kita
+Pantanglah menyerah
+
+3. Tabah dan setiawan, Pandanglah Rajamu
+Janganlah kita lengah, dipikat seteru
+Upah telah tersedia, jika kita menang
+Raja akan memb|rikan
+Mahkota cemerlang'), ('KLK141', '141', 'KU MASUK TAMAN YANG TEDUH', 'KLK', '1=Ab
+
+1. Ku masuk taman yang teduh
+Kala fajar pagi menyerah
+Ku dengar nyata lembut suaraNya
+Hadirlah Putra Allah
+
+Ref: 
+Ku dibimbingNya
+Dengan FirmanNya
+Dia bisik $Kau MilikKu$
+Suka tak terp|ri kami alami
+Di dalam taman itu
+
+2. SuaraNya begitu merdu
+Kicau burung pun terhentilah
+Di b|ri lagu dalam hatimu
+Bergema t|rang dan indah
+
+3. Ku mau di taman sertaNya
+Walau malam g|lap sekitarku
+Ku diutusNya bawa injilNya
+Ke dunia yang berset|ru'), ('KLK142', '142', 'BILA KU PANDANG BINTANG', 'KLK', '1. Bila ku pandang bintang
+Kagum heranlah ku selalu
+Tak mengerti yang dilukiskanNya
+Hanya Tuhan Allah Hu
+Yang menabur bintang itu
+Maha Tahu, bahkan Maha Kuasa
+
+Ref: 
+Hanya Dialah yang tahu
+Kan segala rahasia
+Tiada ku takut, kan kuasa gelap
+Masa yang datang tak nyata
+Tapi ini trang bagiku
+Tangan Tuhan yang atur segnap
+
+2. Dalam dunia yang tegang
+Ku bertelud serta bertanya
+Oh mengapakah salibku berat ?
+Oleh kar|na kau setiawan
+DikuatkanNya ku tak penat'), ('KLK143', '143', 'KASIH TUHANKU LEMBUT', 'KLK', '1=D
+
+1. Kasih Tuhanku lembut
+PadaNya ku mau sujud
+Dan kudambakan sungguh
+Kasih besar, Yesus turun ke dunia
+Tanggung dosa manusia
+Dia b|ri ampunanNya, kasih besar
+
+Ref:
+Kasih besar, kasih besar
+Tidak terduga dan luas benar
+Kasih besar
+
+2. Yang buta dicelikkan
+Yang lumpuh dibangunkan
+Yang mati dibangkitkan, kasih besar
+Meski dosaku besar
+KasihNya lebih Akbar
+Yesus Pelayan benar, kasih besar
+
+3. Yang berdosa marilah
+Tinggalkan semuanya
+Datang pada kasihNya, kasih besar
+Yesus panggil dengarlah
+Jangan sampai kau lengah
+PadaNya kau datanglah, kasih besar
+'), ('KLK144', '144', 'KU MENANG KU MENANG', 'KLK', '1=Eb
+
+Ku menang, ku menang.
+Bersama Yesus Tuhan
+Ku menang, ku menang.
+Di dalam peperangan
+Ku menang, ku menang
+Atas segala setan
+
+Ref:
+Haleluya haleluya ku menang
+Haleluya Dia bangkit
+Haleluya Dia hidup
+Haleluya Dia naik
+Rohul Kudus turun'), ('KLK145', '145', 'BAPA T|RIMA KASIH', 'KLK', '1=G
+
+Bapa t|rima kasih
+Bapa t|rima kasih
+Bapa di dalam sorga
+Ku bri t|rima kasih. Amin
+'), ('KLK146', '146', 'ROH KUDUS KAU HADIR DI SINI', 'KLK', '1=F
+
+Roh Kudus, Kau hadir di sini
+Roh Kudus, ku mengasihiMu
+Kau lembut, Kau manis
+Kaulah penghiburku
+Penolongku diutus Bapaku
+
+Ref:
+Ku buka hati untuk Rohmu Tuhan
+Ku buka hati menyembahMu Yesus
+Jamahlah kami, penuhi kami
+Dengan kuasa Allah Maha Tinggi'), ('KLK147', '147', 'DIA LAHIR UNTUK KAMI', 'KLK', '1=Eb
+
+1. Dia lahir untuk kami
+Dia mati untuk kami
+Dia bangkit untuk kami semua
+
+2. Dia itu Tuhan kami
+Dia itu Allah kami
+Dia Raja atas s|gala Raja
+
+Ref:
+Dia itu Firman Allah yang turun ke bumi,
+Yang jadi sama dengan manusia
+
+3. Dia Yesus sobat kami
+Dia Yesus Tuhan kami
+Sang penebus, Jurus|lamat dunia
+'), ('KLK148', '148', 'ADA SATU SOBATKU', 'KLK', '1=G
+
+Ada satu sobatku yang setia
+Tak pernah Dia tinggalkan diriku
+Di waktu aku susah, waktu ku sendirian
+Dia s|lalu menemani diriku
+
+Ref:
+NamaNya Yesus, namaNya Yesus
+Nama Yesus yang menghibur hatiku
+NamaNya Yesus, namaNya Yesus
+Nama Yesus yang menghibur hatiku'), ('KLK149', '149', 'BAGAIKAN BEJANA', 'KLK', '1=G
+
+Bagaikan bejana siap dibentuk
+Demikian hidupku di tanganMu
+Dengan urapan Kuasa RohMu
+Ku di baharui selalu
+Jadikanku alat dalam rumahMu
+Inilah hidupku di tanganMu
+Bentuklah s|turut kehendakMu
+Pakailah sesuai rencanaMu
+
+Ref:
+Ku mau s|pertiMu Yesus
+Disempurnakan s|lalu
+Dalam setiap langkahku
+Memuliakan namaMu'), ('KLK150', '150', 'CERAHNYA HARI INI', 'KLK', '1=F
+
+Cerahnya hari ini, di saat kita bersatu
+Bahagiakan kita lalui
+Seiring langkah detak waktu
+Cerahnya hari ini disaat
+Engkau hadir Yesus
+Menata langkah hidup kita
+Tanpa ada segaris ragu
+Dan kini t|lah bersemi bahagia di hati
+Menapak kehidupan
+Menyambut hangatnya mentari esok
+Kami bersyukur, kami bersyukur padaMu Yesus (2x)
+'), ('KLK151', '151', 'DARI TERBIT MATAHARI', 'KLK', '1=E, 1=F
+
+Dari terbit matahari sampai pada masuknya
+Biarlah nama Tuhan dipuji
+Dari terbit matahari sampai pada masuknya
+Biarlah nama Tuhan dipuji
+
+Ref:
+Puji Tuhan. Puji Tuhan
+Dari terbit matahari
+Sampai pada masuknya
+Biarlah nama Tuhan dipuji'), ('KLK152', '152', 'DI SEB|RANG SANA AIRMATA K|LAK LENYAP', 'KLK', '1=F
+
+Ku merindu pada harta
+Yang tunggu ku di sana
+Di seb|rang sana tempat yang indah
+K|lak disana tak ada susah atau airmata
+
+Ref:
+Di seb|rang sana, airmata k|lak lenyap
+Di seb|rang sana. damai kekal
+Tak ada susah, di seb|rang sana
+S|bab yesus sertaku, selama-lamanya'), ('KLK153', '153', 'DALAM TUHAN KITA BERSAUDARA', 'KLK', '1=F
+
+Dalam Tuhan kita bersaudara (3x)
+S|karang dan selamanya
+Dalam Tuhan kita bersaudara'), ('KLK154', '154', 'DATANG PADA HU', 'KLK', '1=Eb
+
+Datang padaHu, datang padaHu
+Yesus mau memb|ri damai sepenuh
+Kalau jiwamu lelah
+Dan bertanggungan berat
+Datang s|karang datang padaHu'), ('KLK155', '155', 'DALAM NAMA YESUS', 'KLK', '1=E, 1=F
+
+Dalam nama Yesus
+Dalam nama Yesus
+Ada kemenangan
+Dalam nama Yesus
+Dalam nama Yesus
+Iblis dikalahkan
+
+Ref:
+Dalam nama Tuhan Yesus
+Siapa dapat melawan
+Dalam nama Tuhan Yesus
+Ada kemenangan'), ('KLK156', '156', 'DIA HARUS MAKIN BERTAMBAH', 'KLK', '1=D
+
+Dia harus makin bertambah
+Ku harus makin berkurang
+Nama Yesus saja disembah
+Ku di tempat paling b|lakang
+
+Ref:
+Bila Yesus ditinggikan
+Dan salibNya dib|ritakan
+Pasti Dia menarik semua orang
+Datang kepadaNya s|karang'), ('KLK157', '157', 'FAJAR MEREKAH', 'KLK', '1=C
+
+Fajar merekah indah bagaikan
+T|rang yang mengiring sabda Tuhan
+Pujilah Tuhan atas semua
+Yang t|lah dib|rikan bagi kita
+
+Ref:
+Indahnya hujan dan matahari
+Bunga ditaman dihiasNya
+Pujilah Tuhan. Pujilah Hu s|lalu
+Karna kasihnya bagi kita'), ('KLK158', '158', 'HIDUPKU BUKANNYA AKU LAGI', 'KLK', '1=G
+
+Hidupku bukannya aku lagi
+Tapi Kristus dalam hidupku (2x)
+Yesus hidup, Yesus hidup dalamku
+Hidupku bukannya aku lagi
+Tapi Kristus dalamku'), ('KLK159', '159', 'HARI LEPAS HARI', 'KLK', '1=C
+
+Hari lepas hari
+Bertambah-tambah indahnya
+hari lepas hari, Aku cinta padaNya
+Yesus cinta saya,
+Ku nanti kedatanganNya
+hari lepas hari,
+Bertambah-tambah indahnya
+'), ('KLK160', '160', 'HATI-HATI', 'KLK', '1=E, 1=F
+
+1. Hati-hati gunakan tanganmu (2x)
+Bapa kita di surga
+Memandang dengan cinta
+Hati-hati gunakan tanganmu
+
+2. Hati-hati gunakan kakimu (2x)
+Bapa kita di surga
+Memandang dengan cinta
+Hati-hati gunakan kakimu
+
+3. Hati-hati gunakan mulutmu (2x)
+Bapa kita di surga
+Memandang dengan cinta
+Hati-hati gunakan mulutmu
+
+4. Hati-hati gunakan matamu (2x)
+Bapa kita di surga
+Memandang dengan cinta
+Hati-hati gunakan matamu
+'), ('KLK161', '161', 'JALAN SERTA YESUS', 'KLK', '1=F, 1=G
+
+Jalan serta Yesus, jalan sertaNya setiap hari
+Jalan serta Yesus, serta Yesus s|lamanya
+
+Ref:
+Jalan dalam suka, Jalan dalam duka
+Jalan sertaNya setiap hari
+Jalan dalam suka Jalan dalam duka
+Serta Yesus s|lamanya'), ('KLK162', '162', 'KASIH YESUS SUNGGUH INDAH', 'KLK', '1=E, 1=F
+
+Kasih Yesus sungguh indah
+Di dalam hidupku ini
+Sungguh manis lebih manis
+Hidup bersama Yesus
+
+Ref:
+Yesus nama Yesus... Pujilah Dia
+KasihNya kepada saya
+Sampai s|lama-lamanya'), ('KLK163', '163', 'KIRIMLAH PERJANJIANMU', 'KLK', '1=C
+
+Kirimlah perjanjianMu...
+Kuasa PerkataanMu
+Supaya dunia mengerti salibMu
+Kirimlah perjanjianMu'), ('KLK164', '164', 'KU MAU CINTA YESUS SELAMANYA', 'KLK', '1=C
+
+Ku mau cinta Yesus selamanya (2x)
+Meskipun badai silih berganti
+Dalam hidupku
+Ku tetap cinta Yesus selamanya
+
+Ref:
+Ya Abba Bapa... ini aku anakMu
+Layakanlah seluruh hidupku
+Ya Abba Bapa... ini aku anakMu
+Pakailah sesuai dengan rencanaMu'), ('KLK165', '165', 'NYANYI GLORY', 'KLK', '1=C
+
+1. Nyanyi glory, glory, glory, bagi Sang Raja (3x)
+Mari rayakan dan nyanyi
+
+Ref:
+Mari serukan hei! Serukan hei!
+Bahwa Yesuslah Raja
+Oh mari serukan hei! Serukan hei!
+Bahwa Yesuslah Raja
+Mari serukan hei! Serukan hei!
+Bahwa Yesuslah Raja
+Mari rayakan dan nyanyi
+
+2. Kita akan merasa bahagia
+Bila kita menyembah Dia
+Kita akan merasa sukacita
+Bila kita semua nyanyi
+'), ('KLK166', '166', 'OH TUHAN PENEBUSKU', 'KLK', '1=D
+
+1. Oh Tuhan Penebusku
+Kau datang ke dunia
+Engkau rela.... disalibkan
+Demi umat manusia
+
+Ref:
+Hari bahagia... Kau datanglah
+Kau lahir di dunia
+Kau datanglah Kau datanglah
+Kau penebus dosa
+
+2. Semuanya bergembira
+Dengan kabar bahagia
+Engkau datang ke dunia
+Demi umat manusia
+'), ('KLK167', '167', 'OH YERUSALEM', 'KLK', '1=E
+
+Oh Yerusalem kota mulia
+Hati ku rindu ke sana
+Oh Yerusalem kota mulia
+Hati ku rindu ke sana
+
+Ref:
+Tak lama lagi Tuhanku datanglah
+Bawa saya masuk sana
+Tak lama lagi Tuhanku datanglah
+Bawa saya masuk sana'), ('KLK168', '168', 'PANDANG TRUS PADANYA', 'KLK', '1=C
+
+Pandang t|rus padaNya
+Jangan menoleh jalan t|rus
+Jangan pandang salah orang lain
+Pandang saja Yesus'), ('KLK169', '169', 'PENGHARAPANKU', 'KLK', '1. Pengharapanku hanya Yesus saja
+Yang mati atas Golgota
+Dia gembala jiwaku yang sungguh
+Yesus Dia harapanku
+
+Ref:
+Yesus harapan jiwaku
+Yesus pelepas dosaku
+Dia pohon s|lamat dan kes|nanganku
+Yesus Dia harapanku
+
+2. DamaiNya ku punya ku cinta Dia
+Dia angkat kalau ku jatuh
+Dalam susah hatiku harap Dia
+Yesus Dia harapanku
+'), ('KLK170', '170', 'PUJILAH TUHANKU', 'KLK', 'Pujilah Tuhanku selama-lamanya
+Pujilah Tuhanku... Dia baik buat saya
+Oh, pujilah Tuhanku selama-lamanya
+Ku tak dapat balas cintaNya Tuhanku
+'), ('KLK171', '171', 'RAYAKAN YESUS RAYAKAN', 'KLK', '1=F
+
+Rayakan.... Yesus rayakan (4x)
+Dia bangkit (2x) dan hidup selamanya
+Dia bangkit (2x) marilah rayakan (2x)
+Kebangkitan Tuhan kita'), ('KLK172', '172', ' SAAT INI KU DATANG', 'KLK', '1=F
+
+1. Saat ini ku datang dalam hadiratMu
+Ku pandang wajahMu
+Tersenyum penuh kasih
+Ku ucapkan s|lmat pagi Bapa terkasih
+Ku yakin hidupku bahagia hari ini
+
+Ref:
+Glory...Haleluya (4x)
+Haleluyah...Glory Haleluya
+
+2. Saat ini ku datang dalam hadiratMu
+Ku pandang wajahMu
+Tersenyum penuh kasih
+Ku ucapkan selamat malam Bapa terkasih
+T|rima kasih berkatMu sepanjang hari ini'), ('KLK173', '173', 'SEJAUH TIMUR DARI BARAT', 'KLK', 'Versi 1
+
+Sejauh timur dari barat
+Engkau membuang dosaku
+Tiada Kau ingat lagi pelanggaranku
+Jauh ke dalam tubir laut
+Kau melemparkan dosaku
+Tiada Kau perhitungkan kesalahanku
+
+Ref:
+Betapa besar kasih
+PengampunanMu Tuhan
+Tak kau pandang hina hati, yang hancur
+Ku berterima kasih
+KepadaMu ya Tuhan
+Pengampunan yang
+Kau beri, pulihkanku'), ('KLK174', '174', 'SEJAK DIA DI HATIKU', 'KLK', '1. Perubahan ajaib terjadi padaku
+Sejak Dia di hatiku
+Ada t|rang dalam hati dan harap penuh
+Sejak Dia di hatiku
+
+Ref:
+Sejak Dia di hatiku, sejak Dia di hatiku
+Hidupku berubah menjadi berarti
+Sejak Yesus di hatiku
+
+2. Hidup yang sia-sia t|lah ku tinggalkan
+Sejak Dia di hatiku
+Kes|lamatan dan kasih kini ku t|rima
+Sejak Dia di hatiku
+
+3. S|karang ku melangkah Dengan sukacita
+Sejak Dia di hatiku
+Tiada keraguan dalam pengharapanku
+Sejak Dia di hatiku'), ('KLK175', '175', 'SELAMAT PAGI BAPA', 'KLK', '1=D
+
+Selamat pagi Bapa
+Selamat pagi Yesus
+Selamat pagi Roh Kudus
+Terima kasih atas anug|rahMu
+Semalam t|lah berlalu
+Ku memuji, ku bersyukur
+Memuliakan namaMu
+Allah Bapa, Putera, Roh Kudus
+Terima kasih'), ('KLK176', '176', 'SEMUA BUNGA IKUT BERNYANYI', 'KLK', '1=E
+
+Semua bunga ikut bernyanyi
+Gembira di hatiku
+Segala rumputpun riang ria
+Tuhan sumber gembiraku
+
+Ref:
+Semua jalan di dunia
+Menuntunmu ke surga
+Desiran angin nan mesra
+Mengayunmu ke surga'), ('KLK177', '177', 'S|RAHKANLAH HIDUPMU', 'KLK', '1=G
+
+S|rahkanlah hidupmu padaNya
+S|rahkanlah seluruh persoalanmu
+S|bab di dalam namaNya
+Ada jaminan kekal
+Di dalam segala perkara
+Berseru pada Yesus, Berserah pada Yesus
+Percayalah, Dia sanggup menolongmu
+Berseru pada Yesus, Berserah pada Yesus
+Dia |kan memb|ri kedamaian abadi'), ('KLK178', '178', 'S|RAHKAN PADA YESUS', 'KLK', '1=F
+
+1. Apakah kau payah mencari-cari
+Dan apakah kau payah berkelliling
+Bawalah sekarang segala susahmu
+pada kaki Yesus serahkanlah
+
+Ref:
+S|rahkanlah (2x) S|rahkan pada Yesus
+Segala beban yang menindih hidupmu
+S|rahkanlah (2x) S|rahkan pada Yesus
+Dia |kan ganti segala duka menjadi suka
+
+2. Tak pernah Dia janji s|lalu |kan panas
+Dan tak pernah Dia janji s|lalu kan hujan
+Tapi Dia janji memb|ri kekuatan
+Bila topan ganas melandamu'), ('KLK179', '179', 'SOBAT DARI GALILEA', 'KLK', '1=G
+
+1. Meskipun di dalam lembah
+Tempat perangsinganku
+Umurku s|makin bertambah
+Singkatkan langkahku
+
+Ref:
+Nikmat yang kekal kudus
+Sinarkan jalanku t|rus
+Itulah jasanya Dia, Sobat dari Galilea
+
+2. Dalam p|rang melawan dosa
+Aku rasalah lemah
+Hampirlah ku putus asa
+Dan jadi tewaslah'), ('KLK180', '180', 'SEB|RANG LANGIT BIRU', 'KLK', '1=D
+
+1. Seb|rang langit biru, ada mahkotaku
+Seb|rang langit biru, sana ku rindu
+Ku lihat wajah Yesus yang penuh kasih
+Seb|rang langit biru, sana'), ('KLK181', '181', 'TAK TERSEMBUNYI KUASA ALLAH', 'KLK', '1=C
+
+Tak tersembunyi kuasa Allah
+Kalau lain ditolong, saya juga
+TanganNya terbuka, menunggulah
+Tak tersembunyi Kuasa Allah'), ('KLK182', '182', 'TAMBAH HARI TAMBAH CINTA YESUS', 'KLK', '1=D
+
+Tambah hari tambah cinta Yesus
+Tambah hari tambah ku percaya
+Tambah hari tambah benci dosa
+Tambah hari ku setia'), ('KLK183', '183', 'YESUS ITULAH', 'KLK', '1=F
+
+Yesus itulah satu-satunya
+Penolongku yang sungguh
+Dia berjanji akan kembali
+Angkat kita semua
+O...o.. Haleluyah, puji Tuhan
+Upahmu besar di sorga
+O...o.. Haleluyah, puji Tuhan
+Upahmu besar di sorga'), ('KLK184', '184', 'YESUS OH YESUS', 'KLK', 'Yesus oh Yesus, manis NamaMu
+Yesus oh Yesus, Dia kekasihku
+Ingat namaMu ku tak sedih
+Ingat namaMu ku bernyanyi
+Ingat JanjiMu ku menanti
+Yesus pengharapanku'), ('KLK185', '185', 'YESUS POKOK DAN KITALAH CARANGNYA', 'KLK', '1=G
+
+Yesus pokok dan kitalah carangNya
+Tinggallah di dalamNya
+Yesus pokok dan kitalah carangNya
+Tinggallah di dalamNya
+Yesus pokok dan kitalah carangNya
+Tinggallah di dalamNya
+pastilah kau akan berbuah
+
+Ref:
+Yesus cintaku, Ku cinta kau, Kau cinta Dia
+Yesus cintaku, Ku cinta kau, Kau cinta Dia'), ('KLK186', '186', 'YESUS YANG TERMANIS', 'KLK', '1=D
+
+Yesus yang termanis buat jiwaku
+Buat jiwaku, buat jiwaku
+Yesus yang termanis buat jiwaku
+Ku cinta s|lamanya'), ('KLK187', '187', 'YESUSKU LUAR BIASA', 'KLK', '1=D
+
+Yesusku luar biasa
+Yesusku luar biasa
+Yesusku luar biasa
+Yesusku luar biasa
+Amin, amin, amin...Amin, amin
+'), ('KLK188', '188', 'DIA HANYA SEJAUH DOA', 'KLK', '1=A
+
+1. Bila kau rasa gelisah di hatimu
+Bila kelam kabut tak menentu hidupmu
+Ingat masih ada seorang p|nolong hidupmu
+Dia tak pernah jauh darimu
+
+Ref:
+Berseru memanggil NamaNya
+Berdoa Dia kan seg|ra menghampiri dirimu
+Percaya, Dia tak jauh darimu
+Dia hanya sejauh doa
+
+2. Bila cobaan menggodai hatimu
+Bila sengsara menimpah keadaanmu
+Ingat Yesus takkan pernah jauh darimu
+Dia slalu pedulikan kamu'), ('KLK189', '189', 'DIA LEBIH BESAR', 'KLK', '1=As
+
+1. Dia terlebih besar
+Dia terlebih besar
+Di dalamku
+Di dalamku
+Dia terlebih besar
+Dia terlebih besar
+Di dalamku selama-lamanya
+
+2. Yesus terlebih besar
+Yesus terlebih besar
+Di dalamku
+Di dalamku
+Yesus terlebih besar
+Yesus terlebih besar
+Di dalamku selama-lamanya
+'), ('KLK190', '190', 'HIDUP RUKUN DAN DAMAI', 'KLK', '1=D
+
+1. Alangkah bahagianya
+Hidup rukun dan damai
+Di dalam persaudaraan
+Bagai minyak yang harum
+
+Ref:
+Alangkah bahagianya
+Hidup rukun dan damai
+
+2. Ibarat embun yang segar
+Pada pagi yang cerah
+Laksana anggur yang lezat
+Kan pemuas dahaga
+
+3. Begitulah berkat Tuhan
+Dengan berlimpah ruah
+Turun ke atas mereka, kini dan selamanya
+'), ('KLK191', '191', 'KRISTUS JAWABAN', 'KLK', '1=C
+
+Kristus jawaban dalam hidupku
+Kristus jawaban yang ku perlu
+Tabib Pembaptis Jurus|lamatku
+Oh Haleluyah, Harapanku'), ('KLK192', '192', 'YA TUHAN KAMI DATANG', 'KLK', '1=Es, 1=F
+
+Ya Tuhan kami datang
+Meskipun hati gersang
+Karena kami bersalah semua
+Pada Dikau, pada teman
+Pada kawan, serta lawan
+Karena kami bersalah semua
+'), ('KLK193', '193', 'TERPUJILAH ALLAH', 'KLK', '1=A
+
+1. Terpujilah Allah hikmatnya besar
+Begitu kasihnya |tuk dunia cemar
+Sehingga dib|rilah PutraNya Kudus
+Mengangkat manusia serta menebus
+
+Ref:
+Pujilah, pujilah!
+Buatlah dunia, bergemar, bergemar
+Mendengar suaraNya
+Dapatkanlah Allah demi PutraNya
+Bri puji padaNya
+Sebab hikmatNya
+
+2. Dan darah AnakNyalah yang menebus
+Mereka yang yakin |kan janji kudus
+Dosanya betapapun juga keji
+Dihapus olehNya dibasuh bersih'), ('KLK194', '194', 'DARI KUNGKUNGAN MALAM GELAP', 'KLK', '1=G
+
+1. Dari kungkungan malam gelap
+Yesus, Tuhan ku datanglah
+Masuk ke dalam t;rangMu tetap
+Yesus, ku datanglah
+Dari sengsara, sakit dan aib
+Masuk ke dalam kasih ajaib
+Dan ku rindukan dosaku raib
+Yesus, ku datanglah
+
+2. Dari hidupku yang bercela
+Yesus, Tuhan, ku datanglah
+Masuk ke dalam t|rang mulia
+Yesus, ku datanglah
+Dari gelombang bah menderu
+Masuk ke dalam kasih teduh
+Dan ku tinggalkan susah, keluh
+Yesus, ku datanglah'), ('KLK195', '195', 'JADILAH TUHAN KEHENDAKMU', 'KLK', '1=Es
+
+1. Jadilah, Tuhan, kehendakMu
+Kaulah Penjunan, ku tanahnya
+Bentuklah aku sesukaMu
+Kan ku nantikan dan berserah
+
+2. jadilah, Tuhan, kehendakMu
+Tiliklah aku dan ujilah
+sucikan hati, pikiranku
+Dan di depanMu, ku menyembah'), ('KLK196', '196', 'AGUNGLAH KASIH ALLAHKU', 'KLK', '1=D
+
+1. Agunglah kasih Allahku
+Tiada yang setaranya
+Neraka dapat direngkuh
+Kartikapun tergapailah
+Kar|na kasihNya agunglah
+Sang Putra menjelma
+Dia mencari yang sesat, dan diampuniNya
+
+Ref:
+Oh kasih Allah agunglah !
+Tiada bandingnya
+Kekal teguh dan mulia, dijunjung umatNya
+
+2. Pabila zaman berhenti
+Dan takhta dunia pun lebur
+Meskipun orang yang keji
+Telah menjauh dan tekebur
+Namun kasihNya tetaplah
+Teguh dan mulia, Anug|rah bagi manusia
+Dijunjung umatNya'), ('KLK197', '197', 'PINTU GERBANG TERBUKALAH', 'KLK', '1=Bes
+
+1. Pintu gerbang terbukalah
+Sehingga tampak cah|ya
+Yang dari salib asalnya
+Besarkan kasih Allah
+
+Ref:
+Betapa dalam kasihNya
+Pintu gerbang terbukalah
+Ya bagiku, terbuka bagiku
+
+2. Pintu gerbang terbukalah
+Mengundang yang berdosa
+Baik kaya, miskin masuklah
+Pun s|gla suku bangsa
+'), ('KLK198', '198', 'DALAM LAUTAN KELAM', 'KLK', '1=A
+
+1. Dalam lautan yang kelam
+Terancam jiwaku
+Dalam dosa tenggelam, hilang harapanku
+Tapi Tuhan berkenan dengar seruanku
+Lalu ku dis|lamatkan Mukhalisku
+
+Ref:
+kasih kudus, kasih kudus
+Yang t|lah mengangkatku
+Kasih kudus (3x)
+Yang t|lah mengangkatku, Kasih kudus
+
+2. KasihNya kudus, besar
+patut ku balaslah
+Kar|na itu ku gemar, Agungkan namaNya
+Ku serahkan hidupku bulat
+KepadaNya melayani
+Tuhanku selamanya'), ('KLK199', '199', 'SETIAMU, TUHANKU, TIADA BERTARA', 'KLK', '1=D
+
+1. Setiamu, Tuhanku, tiada bertara
+Di kala suka, di saat gelap
+Kasihmu, Allahku, tidak berubah
+Kaulah Pelindung, abadi tetap
+
+Ref: 
+Setiamu Tuhanku
+Mengharu hatiku
+Setiap pagi bertambah jelas
+Yang ku perlukan tetap
+Kau berikan
+Sehingga akupun puas jelas
+
+2. Musim yang panas penghujan, tuaian
+Surya, rembulan di langit cerah
+Bersama alam memuji
+Bersaksi akan setiaMu yang tak bersela'), ('KLK200', '200', 'SELURUH ALAM TAK HENTI', 'KLK', '1=Bes
+
+1. Seluruh alam tak henti memuliakanMu
+Mentari, bintang berseri
+Bernyanyi merdu
+Samud|ra raya, hujan pun
+Mengiringnya serta
+Memuji riang bertekun
+Sang khalik semesta
+
+2. Penghuni laut semesta
+Dan unggas yang terbang
+Memuji Tuhan, khaliknya
+Bersyukur bersenang
+Dan kitapun sepatutnya meniru
+Contohnya: memuji Allah yang esa
+Dengan lagu megah'), ('KLK201', '201', 'T|LAH LEWAT MALAM YANG GELAP', 'KLK', '1=G
+
+1. T|lah lewat malam yang gelap
+Datang hari yang cerah
+Dan rasa takutpun lenyap
+Jiwaku bersukalah
+
+Ref: 
+Sungguh nyata damai sorga
+Membuat ku bergemar
+Kasih Mukhalis bagiku
+Jadi harta yang besar
+
+2. DihapusNya airmataku
+Dan hatiku pun senang
+Mulailah kembaraku
+Yang menuju sorga trang
+
+3. Kuasa Yesus, Tuhanku
+Membuat jayalah
+Bernyanyi riang hatiku
+Ku dibasuh darahNya
+'), ('KLK202', '202', 'MANUSIA DI DALAM DUNIA', 'KLK', '1=Bes
+
+1. Manusia di dalam dunia ini
+Di tengah bayang maut setiap hari
+Selamanya rasanya sakit mati
+Penghiburan jarang di dapati
+
+Ref:
+Sungguh hidup manusia di dunia
+Tiada tinggal sampai selamanya
+Ya Tuhanku pimpinlah hambamu'), ('KLK203A', '203A', 'SAAT KUSENDIRI', 'KLK', '1. Saat ku sendiri, tiada seorangpun
+Yang memperhatikanku, seperti Kau Tuhan
+Saat ku berjalan, dalam lembah kelam
+Ku percaya Kau s|lalu sertaku
+
+2. Tangan kuat yang memegangku
+S|lalu menuntunku, ku tak mau jalan sendiri
+Yesusku ku perlu kasihMu, ku perlu kuasaMu
+Sampai akhir hidupku'), ('KLK203B', '203B', 'KAULAH SEGALANYA', 'KLK', 'Versi 1
+
+Kau Bapa yang mengasihiku
+KuasaMu memulihkanku
+Hati yang baru Kau berikan
+Untukku dapat melihat
+RencanaMu indah bagiku
+Kau ada di s|tiap jalanku
+Hatiku haus dan lapar akan Engkau
+
+Ref:
+Kaulah segalanya didalam hidupku
+KeagunganMu, kebenaranMu itu bagianku
+Kaulah yang kupandang selama hidupku
+MengasihiMu, MemuliakanMu
+Bapa dan Rajaku'), ('KLK204', '204', 'HANYA DIALAH YANG TAHU', 'KLK', '1=G
+
+1. Bila nampak olehku
+Berjuta bintang di angkasa
+Ku tak faham
+Yang dilukiskannya
+Namun Tuhan Allahku
+Yang menabur bintang itu
+Berencana di tiap karyaNya
+
+Ref:
+Hanya Dialah yang tahu
+Kan segala rahasia
+Tiada ku takut
+Kan kuasa gelap
+Masa yang datang tak jelas
+Tapi ini t|rang bagiku
+Tangan Tuhan yang atur seg|nap
+
+2. Dalam dunia yang kejam
+Ku bertelut serta bertanya
+O, mengapakah salibku berat?
+Sabda Tuhan padaku:
+Oleh kar|na kau setiawan,
+DikuatkaNya, ku tak penat
+'), ('KLK205', '205', 'TUHAN YANG PEGANG', 'KLK', '1=Bes
+
+1. Tak ku tahu kan hari esok
+Namun langkahku tegap
+Bukan surya ku harapkan
+Kar|na surya kan lenyap
+Oh tiada ku gelisah
+Akan masa menjelang
+ku berjalan serta Yesus
+Maka hatiku tenang
+
+Ref:
+Banyak hal tak ku pahami
+Dalam masa menjelang
+Tapi t|rang bagiku ini
+Tangan Tuhan yang pegang
+
+2. Makin t|ranglah perjalanan
+Makin tinggi aku naik
+Dan bebanku makin ringan
+Makin tampaklah yang baik
+Di sanalah t|rang abadi
+Tiada tangis dan keluh
+Di neg|ri seb|rang pelangi
+Kita k|lak kan bertemu'), ('KLK206', '206', 'DI MALAM G|LAP SUNYI SENYAP', 'KLK', '1=D
+
+1. Di malam g|lap, sunyi senyap
+Nyanyian malak menggegap
+Mewartakan hal lahirnya
+Sang Juru s|lamat dunia
+Noel (3x) lahirlah Raja Israel
+
+2. Beritanya t|lah diberi oleh
+Malaikat sorgawi
+Kepada kaum yang tak lelah
+Menjaga domba-dombanya
+Noel (3x) lahirlah Raja Israel
+
+3. Dan bintang t|rang bersinarlah
+Di langit tinggi yang cerah
+Terang besar di dunia
+Sekarang dan selamanya
+Noel (3x) lahirlah Raja Israel'), ('KLK207', '207', 'GEMBALA YANG ADA DI PADANG', 'KLK', '1=G
+
+1. Gembala yang ada di padang
+Menjaga kawanan ternak
+Dombanya terlena dan aman
+Jumlahnya terhitung lengkap
+T|rus datang malaikat bernyanyi
+Membawa berita besar
+Gembala pergi menjumpai
+Di Bethlehem T|rang Benar
+
+2. Setibanya mereka disana
+Melihat Sang Bayi lembut
+Terharu mereka bersama
+Berdoa dengan bertelut
+T|rang Kudus bersinar di kandang
+Dan hati menjadi cerah
+Tatkala mereka memandang
+Penolong manusia'), ('KLK208', '208', 'DALAM PALUNGAN', 'KLK', '1=F
+
+1. Di dalam palungan tiada yang lain
+Terbaringlah Yesus berbalutkan kain
+BintangNya di langit mengkilap terang
+Dan Yesus tertidur lelap dan tenang
+
+2. Ternak bersuara membangunkanNya
+Tetapi Sang Bayi tiada resah
+Ya Yesus, sekarang hatiku tent|ram
+Engkaulah temanku di malam kelam
+
+3. Ya Yesus, Tuhanku, dengar doaku
+Tetaplah sertaku dengan kasihMu
+Semua anakMu berilah berkat
+Dan hidup sertaMu di sorga kekal
+'), ('KLK209', '209', 'SEBUAH NAMA YANG PERMAI', 'KLK', '1=G
+
+1. Sebuah nama yang permai
+Sedaplah ku dengar
+Ku rindu menyanyikannya
+Membuat bergemar
+
+Ref:
+Ku mengasihinya
+Yesus Penebusku
+Ku mengasihiNya,
+Membalas kasihNya
+
+2. Terungkap dalam namaNya
+Hal kasih penebus,
+Dihapus dosa manusia
+Dengan darah kudus'), ('KLK210', '210', 'NAMA YESUS BERKUMANDANG', 'KLK', '1=G
+
+1. Nama Yesus berkumandang
+Di sejarah dunia
+Nama Yesus menyampaikan
+Damai dan bahagia
+Hai dengarkan panggilanNya
+Dan tinggalkan dosamu
+Tiap orang yang bercahaya
+Pada Dia berteduh
+
+Ref:
+Yesus, Kaulah Surya rahmat
+Kau korbankan hatiku
+Bersyukur di jalan s|lamat
+Aku puji namaMu
+
+2. Nama Yesus bercahaya
+Di segala negeri
+Dalam t|rang penghiburanNya
+Pengharapan berseri
+Nama itu mengeyahkan
+Kegelapan dunia
+kuasa dosa dikalahkan
+Oleh nyata kasihNya
+
+3. Nama Yesus Maha Agung
+Dan semaraknya tetap
+DiterangiNya jiwaku
+Biar malam pun gelap
+Langit bumi |kan binasa
+Matahari terbenam
+Nama Yesus berkuasa
+Dan abadi cermelang'), ('KLK211', '211', 'KASIH ALLAH MELINGKUPI SAYA', 'KLK', '1=G
+
+Kasih Allah melingkupi saya
+Lingkupi saya selama-lamanya
+Kar|na kasihNya ku tak takut jua
+S|bab Allah s|lalu sanggup tolong saya
+
+Ref:
+Ku tak dapat hidup tanpa kasih
+Kasih Yesus mengangkat aku
+Dan menghibur aku,
+Menggerakkanku
+Ku tak dapat hidup tanpa kasih
+Kasih Yesus mengangkat aku
+Layani Tuhan dan sesama
+Lebih sungguh'), ('KLK212', '212', 'HOSANA', 'KLK', '1=Bes
+
+1. Hosana (3x) pujilah terus
+Nyanyikanlah syukur
+Kepada Yesus, Penebus
+Dendangkanlah mazmur
+
+Ref:
+Hosana berkumandanglah
+Dengar suaraNya
+Hai putra-putri, nyanyilah
+Bersama malakNya
+Hai putra-putri, nyanyilah
+SuaraMu angkatlah
+Hai putra-putri, nyanyialh
+Bersama malakNya
+
+2. Hosana (4x) Lihatlah Rajamu
+Berjalan dengan gagah
+Khalayak ramai berseru
+Ikutlah menyembah'), ('KLK213', '213', 'NUN DI BUKIT YANG JAUH', 'KLK', '1=Bes
+
+1. Nun di bukit yang jauh
+Tampak kayu salib
+Lambang kutuk nestapa, cela
+Salib itu tempat Tuhan Maha Kudus
+Menebus umat manusia
+Salib itu ku junjung penuh
+Hingga tiba saat ajalku
+Salib itu ku rangkul teguh
+Dan mahkota kelak milikku
+
+2. Meski salib itu, dicela dicerca
+Bagiku tiada taranya
+Anak Domba Kudus
+Masuk dunia gelap
+Di salib kar|na dosa dunia
+
+3. Ku setia tetap, ikut jalan salib
+Meski diriku pun dicela
+Satu saat kelak, ku dibawa pergi
+Ke tempat kemuliaanNya'), ('KLK214', '214', 'KU B|RIKAN BAGIMU TUBUHKU, DARAHKU', 'KLK', '1=C
+
+1. Ku b|rikan bagimu
+TubuhKu darahKu
+Engkaupun Ku tebus,
+S|lamat jiwamu
+Bagimu ku b|ri hidupku
+Apakah balasmu
+
+2. Ku sudah disesah
+Tersiksa dan pedih
+Supaya hilanglah
+Dosamu yangt keji
+Ku pikul salib bagimu,
+Apakah balasmu'), ('KLK215', '215', 'JUNJUNGAN YANG KU PILIH', 'KLK', '1=A
+
+Junjungan yang ku pilih
+Yesus ku Penebus
+Yang bangkit dari mati
+Berkuasa seterus
+Kendati banyak orang
+Megejek, mencela
+Ikut suaraNya, lembut mesra
+Benar, benarlah hidup Yesusku
+Bersamaku di jalanku,
+SuaraNya ku dengar
+Benar, benarlah hidup Yesusku
+Di mana Dia ku dengar ?
+Di dalam hatiku'), ('KLK216', '216', 'SEGALA PUJI BAGINYA', 'KLK', '1=As
+
+1. Segala puji bagiNya
+Di takhta yang mulia
+Yang sudah mem|bri putraNya
+Kepada dunia
+
+Ref:
+Puji namaNya
+Puji namaNya
+Mari pujilah namaNya
+Puji namaNya
+Puji namaNya
+Mari puji namaNya
+
+2. Oh nama Yesus
+Mulai di alam semesta
+Malaikat t|rus memujiNya
+Di sorga yang baka'), ('KLK217', '217', 'RINDUKAH ENGKAU MENDAPAT BERKAT TUHAN', 'KLK', '1=Es
+
+1. Rindukah engkau mendapat
+berkat Tuhan yang penuh
+Di seluruh hidupmu
+Mintalah kepada Bapamu
+Yang janjiNya teguh
+Menyertai langkahmu
+
+Ref:
+Roh Kudus
+Terus meluap di hatimu
+Kar|na Tuhan berpesan
+bawalah bejanamu$
+Roh Kudus
+Terus meluap di hatimu
+Pun dengan kuasaNya
+
+2. Oh anug|rah ilahipun
+Mengalirlah terus
+Tak berubah kasihNya
+Bejana |kan terisi
+Oleh kuasa Roh Kudus
+Ya dan amin janjiNya'), ('KLK218', '218', 'SEBARKAN WARTANYA', 'KLK', '1=Bes
+
+1. Sebarkan wartaNya
+Kepada manusia, yang hidup
+Berkesah, di dunia resah
+Maklumkan segera, berita mulia
+Penghibur tibalah!
+
+Ref:
+Penghibur tibalah!
+Penghibur tibalah!
+Roh Allah yang kudus
+Berlimpahlah terus
+Sebarkan WartaNya
+Kepada manusia
+Penghibur tibalah!
+
+2. T|lah lewat malam g|lap
+Diganti t|rang tetap
+Derita yang berat
+Telah hilang lenyap
+Dan tiba harinya
+JanjiNya pun genap
+Penghibur tibalah'), ('KLK219', '219', 'TERPUJILAH ALLAH BAPA', 'KLK', '1=D
+
+1. Terpujilah Allah Bapa
+Sang khalik semesta
+Betapa agung hikmatNya
+KaryaNya pun megah
+
+2. Terpujilah Yesus Kristus
+Dialah Penebus
+KurbanNya sungguh mulia
+Sempurna dan besar
+'), ('KLK220', '220', 'DALO SUMAWU RUATA', 'KLK', '1=G
+
+Dalo su Mawu Ruata
+Subba si Henggona (2x)
+Anambo n|diadianna
+Padalote Mawu,
+Padalote Mawu
+Apan su sangngo
+Su runia...
+Pagio..... n|Dalo....
+Dalo, Dalo, Dalo
+Su Mawu Ruata'), ('KLK221', '221', 'APA KITA| KAN BERHIMPUN', 'KLK', '1=D
+
+1. Apa kita |kan berhimpun
+Ikut umat yang kudus
+Di tepi aliran sungai
+Dari Takhta Penebus ?
+
+Ref:
+Amin !
+Kitapun berhimpun
+Bersama orang suci yang di situ
+Di tepi aliran Sungai hidup
+Hidup dari takhta Penebus
+
+2. Nanti pada sungai indah
+Hilang duka dan resah
+Oleh Kristus, Raja kita
+Yang di takhta mulia
+
+3. Sebelum saatnya tiba
+Buang segenap beban
+Kes|lamatan diberikan
+Dan mahkota pemenang
+'), ('KLK222', '222', 'SIAPA YANG BERPEGANG', 'KLK', '1=F
+
+1. Siapa yang berpegang
+Pada sabda Tuhan
+Dan setia mematuhinya
+Hidupnya mulia dalam cahya baka
+Bersekutu dengan Tuhannya
+
+Ref:
+Percayalah dan pegang sabdaNya
+Hidupmu dalam Yesus
+Sungguh bahagia
+
+2. Bayang-bayang gelap
+|Kan dihapus lenyap
+Oleh sinar senyum wajahNya
+Rasa takut dan syak
+|Kan menghilang cepat
+Dari yang berpegang padaNya
+'), ('KLK223', '223', 'NYANYIKAN LAGI BAGIKU', 'KLK', '1=G
+
+1. Nyanyikan lagi bagiku
+Firman kehidupan
+Sungguh mulia dan merdu
+Firman kehidupan
+Firman yang terindah, ajarku setia
+
+Ref:
+Indah benar, ajaib benar
+Firman kehidupan
+Indah benar, ajaib benar
+Firman kehidupan
+
+2. Kristus memberi dunia
+Firman kehidupan
+Hai pendosa dengarkanlah
+Firman kehidupan
+Bagimu anug|rah, diberi berlimpah
+'), ('KLK224', '224', 'KU INGIN BERPERANGAI', 'KLK', '1=D
+
+1. Ku ingin berperangai laksana Tuhanku
+Lemah lembut dan ramah
+Dan manis budiku
+Tetapi sungguh sayang
+Ternyata ku cemar, ya Tuhan
+Bri ku hati yang suci dan benar
+
+2. Ku ingin ikut Yesus
+Mencontoh kasihNya
+Menghibur orang susah
+Menolong yang lemah
+Tetapi sungguh sayang
+Ternyata ku cemar'), ('KLK225', '225', 'YESUS MEMANGGILMU PULANG SEG|RA', 'KLK', '1=Bes
+
+1. Yesus memanggilmu pulang seg|ra
+Hari ini, mari cepat
+Mau kau sembut kasihNya cerah?
+Baiklah engkau mendekat
+
+Ref:
+Hari ini, pulang seg|ra
+Yesus memanggilmu
+$Marilah datang seg|ra$
+
+2. Yesus memanggilmu,
+Hai yang penat
+Hari ini, baik datanglah
+B|rilah hidupmu, terima berkat
+Kau takkan ditolakNya
+
+3. Yesus menanti kau yang terbeban
+Hari ini, datang seg|ra
+Bawa dosamu janganlah enggan
+PadaNya baik berserah'), ('KLK226', '226', 'KU DENGAR PANGGILAN TUHAN', 'KLK', '1=F
+
+1. Ku dengar panggilan Tuhan (3x)
+$Pikullah salib, Ikutlah aku$
+Aku mau mengikut Dia (3x)
+Ikut Dia, Yesus Tuhanku
+
+2. Ku mau ikut walau sukar
+Kan ku ikut Dia s|lamanya
+
+3. Meski jalanku mendaki
+Kan ku ikut Dia s|lamanya
+'), ('KLK227', '227', 'YA TUHAN KAULAH PENEBUS', 'KLK', '1=G
+
+1. Ya Tuhan
+Kaulah Penebus
+Yang b|rikan darahMu
+Menjadi kurban yang kudus
+Mulia bagiku
+Kendati jalan hidupku
+Berliku dan berat
+Engkau benarlah panduku
+Dan aku tak sesat
+
+Ref:
+Tanamkan citraMu
+Di dalam diriku
+Supaya hatiku rendah
+Dan mengasihiMu
+
+2. Meskipun diriku lemah
+Hatiku tak gentar
+S|bab Kau, Tuhan adalah
+Penolong yang benar
+Kuatkan jiwaku tetap,
+Inilah doaku
+Genggamlah tanganku erat
+Sepanjang jalanku'), ('KLK228', '228', 'KU BERSERAH KEPADA ALLAHKU', 'KLK', '1=Bes
+
+1. Ku berserah kepada Allahku
+Di darat pun di laut menderu
+Tiap detik tak berhenti
+Bapa sorgawi trus menjagaku
+
+Ref:
+Ku tahu benar
+Ku dipegang erat
+Di gunung tinggi
+Dan samudera
+Di taufan g|lap
+Ku didekap
+Bapa sorgawi
+T|rus menjagaku
+
+2. Mawar di taman dihiasiNya
+Elang di langitpun dipimpinNya
+Dia tentu besertaku
+Bapa sorgawi t|rus menjagaku
+
+3. Meski berjalan di lembah gelap
+Gembala baik membingbingku tetap
+|Ku dihentar dan tak gentar
+Bapa Sorgawi t|rus menjagaku'), ('KLK229', '229', 'INDAH MULIA BAHAGIA PENUH', 'KLK', '1=As
+
+1. Indah mulia,
+Bahagia penuh
+Bersandarkan Lengan Yang Kekal
+
+Ref:
+Aman, aman
+Dari bencana dan sesal
+Aman, aman
+Bersandarkan Lengan yang kekal
+
+2. Oh indah benar,
+Ikut jalanNya
+Bersandarkan Lengan Yang Kekal
+Langkahku teguh,
+Jalanku cerah
+Bersandarkan Lengan Yang Kekal
+'), ('KLK230', '230', 'TUHANKU, PIMPINLAH', 'KLK', '1=Bes
+
+1. Tuhanku pimpinlah
+Tanganku, peganglah
+Ku letih, ku lesu, ku lemah
+Lewat malamgelap
+Kau terang yang tetap
+Tuhanku
+Pimpinlahh ke seb|rang
+
+2. Bila jalan berat, Tuhan.
+Tinggal dekat
+Bila ajalku t|lah menjelang
+Dengar |ku berseru
+Peganglah tanganku
+Tuhanku
+Pimpinlah ke seb|rang
+'), ('KLK231', '231', 'SYUKUR PADAMU, YA ALLAH', 'KLK', '1=Bes
+
+1. Syukur padaMu, ya Allah
+Atas s|gala rahmatMu
+Syukur atas kecukupan
+Dari kasihMu penuh
+Syukur atas pekerjaan
+Walau tubuhpun lemban
+Syukur atas kasih sayang
+Dari sanak dan teman
+
+2. Syukur atas bunga mawar
+Harum, indah tak ter|pri
+Syukur atas awan hitam
+Dan mentari berseri
+Syukur atas suka duka
+Yang Kau bri tiap saat
+Dan FirmanMulah pelita
+Agar kami tak sesat
+
+3. Syukur atas keluarga
+Penuh kasih yang mesra
+Syukur atas perhimpunan
+Yang memb|ri sejahtera
+Syukur atas kekuatan
+Kala duka dan kesah,
+Syukur atas pengharapan
+Kini dan selamanya'), ('KLK232', '232', 'KASIHKU PADAMU TAMBAHKANLAH', 'KLK', '1=Bes
+
+1. Kasihku padaMu, tambahkanlah
+Ya Kristus Tuhanku, oh dengarkanlah
+Ku mohon tak henti
+Tambahkanlah kasihku
+Makin besar kepadaMu
+
+2. Dahulu dunia andalanku
+Kini Engkau, Tuhanku harapanku
+Inilah doaku
+Tambahkanlah kasihku
+Makin besar kepadaMu
+
+3. Walau badai k|ras, memukulku
+Namun penghiburku
+Malak kudus
+Inilah bagiku
+Tambahkanlah kasihku
+Makin besar kepadamu'), ('KLK233', '233', 'JANJI YANG MANIS', 'KLK', '1=Bes
+
+1. Janji yang manis,
+Kau tak kulupakan
+Tak terombang ambing lagi jiwaku
+Walau lembah hidupku penuh awan
+Nantikan cerahlah langit di atasku
+
+Ref:
+Kau tidak kan Aku lupakan
+Aku memimpinmu
+Aku membimbingmu
+Kau tidak kan Aku lupakan
+Aku Penolongmu
+Yakinlah teguh
+
+2. Yakin kan janji
+Kau tak Ku lupakan
+Dengan sukacita aku jalan t|rus
+Dunia dan kawan tiada ku harapkan
+Satu yang setia Yesus, Penebus'), ('KLK234', '234', 'AKU RINDU PULANG KE RUMAH KEKAL', 'KLK', '1=As
+
+Aku rindu pulang ke rumah kekal
+Tempuh jalan salibNya
+Tak kan ku lihat gerbang mulia
+Kalau tak ikut jalanNya
+
+Ref:
+SalibNya memanduku
+SalibNya memanduku
+Hatiku senang
+Bilaku senang
+SalibNya memanduku'), ('KLK235', '235', 'DI SEB|RANG SANA', 'KLK', '1=Es
+
+1. Di seb|rang sana, pagi ceria
+Bersama Tuhan, selamanya
+Berakhir sudah, kerja di dunia
+Di seb|rang sana, negri baka
+
+2. Di seb|rang sana, azab tiada
+Badai dan kabut, lelah lenyap
+Hari bahagia, tiada bertara
+Di seb|rang sana damai tetap
+
+3. Di seb|rang, sana ku dibimbingNya
+Kepada Bapa, yang ku sembah
+Hadirat Allah, Yang Maha Mulia
+Bahagiaku, selamanya
+
+4. Di seb|rang sana kita berjumpa
+Dengan kekasih, yang t|lah menang
+Kita bersatu, senantiasa
+Di seb|rang sana, fajar cerlang'), ('KLK236', '236', 'MAUKAH KAU JAYA ATAS SETERU', 'KLK', '1=Bes
+
+1. Maukah kau jaya, atas seteru
+Atas percobaan, dalam hidupmu
+Dan melawan dosa, yang menggodamu
+Tinggal dalam Yesus
+Yang menjagamu
+
+Ref:
+Tinggal dalam Yesus
+Walau jalan g|lap
+Biar kau bersama
+DenganNya tetap
+Di setiap waktu
+Janganlah jemu
+Tinggal dalam Yesus
+Yang menjagamu
+
+2. Hari yang gelisah, amat tertekan
+Menantikan kabar, Ringankan beban
+Kau pun dapat b|rikan
+Damai yang penuh
+Tinggalah dalam Yesus
+Yang menjagamu'), ('KLK237', '237', 'HAI JIWA YANG PENUH SESAL', 'KLK', '1=Bes
+
+1. Hai jiwa yang penuh sesal
+Mengapa engkau berkeluh ?
+Sebuah rumah kekal
+Telah menanti datangmu
+Tenang dan teguhkan hatimu
+Tenang dan teguhkan hatimu
+Tenang, tenang, teguhkan hatimu
+
+2. Meski berat tanggunganmu
+Kendati jalanmu terjal
+Arahkanlah pandanganmu
+Ke rumah Bapa yang kekal
+
+3. Meski berduri jalanmu
+Balik janganlah kau menyerah
+Ingatlah Yesus, Tuhanmu
+Berduri juga tajukNya'), ('KLK238', '238', 'TUHAN YESUS SAHABATKU', 'KLK', '1=F
+
+1. Tuhan Yesus sahabatku
+Tercinta dan erat
+Melebihi segalanya bagiku
+Bunga bakung paling indah
+Yang tumbuh di lembah
+Mengampuni, menyucikan diriku
+Penghibur dalam duka
+Penolong yang teguh
+KepadaNya ku serahkan kuatirku
+
+Ref:
+Bunga bakung paling indah
+Yang tumbuh di lembah
+Melebihi segalanya bagiku
+
+2. Di setiap percobaan
+Dan duka batinku
+Ia benteng dan perisaiku tetap
+Demi Dia ku tinggalkan
+Berhala hatiku
+Oleh Dia ku bertahan dan tegap
+Digoda oleh iblis
+Ku takkan menyerah
+Yesus jamin kemenangan imanku
+'), ('KLK239', '239', 'KETIKA HILANG SUDAH ASAKU', 'KLK', '1=E
+
+1. Ketika hilang sudah asaku
+Tenagapun lenyap
+Tuhan Yesus datang
+Meraih diriku,
+DitolongNya seg|ra
+
+Ref:
+Seg|ra ditolongNya
+Besar kuasaNya
+Bila ku lemah,
+Yesus datanglah
+DitolongNya seg|ra
+
+2. Ketika aku hampir tenggelam
+Dan maut menyergap
+Waktu nyaris hancur
+Oleh kuasa k|lam
+DitolongNya seg|ra
+
+3. Di kala merabah|ya menerkam
+Di rangkul kasihNya
+Di hadapan maut
+Dan kubur mencekam
+DitolongNya seg|ra'), ('KLK240', '240', 'WALAU KU DAKI GUNUNG YANG TINGGI', 'KLK', '1=E
+
+1. Walau ku daki, gunung yang tinggi
+Dan ku turuni, lembah yang terjal
+Yesus berkata, $Kau Ku temani$
+Sabda Ilahi, janji kekal
+Cah|ya sorgawi
+Cah|ya sorgawi
+Jiwa penuh kemulianNya
+Haleluyah, aku bersuka
+Memuji Yesus, ku milikNya
+
+2. Kendati bayang, g|lap melingkupi
+Bagiku Yesus, tampak jelas
+Dialah sungguh, cah|ya ilahi
+Dan disisiNya, ku tak cemas'), ('KLK241', '241', 'ENGKAU MILIKKU ABADI', 'KLK', '1. Engkau milikku abadi
+Segalanya bagiku
+Di sepanjang ziarahku,
+Ingin ku bersamaMu
+Kudekat padaMu 2x
+Di sepanjang ziarahMu
+Inginku bersamaMu
+
+2. Bukan nikmat duniawi
+Yang menjadi doaku
+Ku senang bersusah payah
+Asal Kau bersamaku
+Kudekat padaMu 2x
+Kusenang bersusah payah
+Asal Kau bersamaku
+'), ('KLK242', '242', 'KENDATI HIDUPKU TENTRAM', 'KLK', '1=A
+
+1. Kendati hidupku tent|ram dan senang
+Dan walau derita penuh
+Engkau mengajar ku bersaksi tegas
+S|lamatlah, S|lamatlah jiwaku
+
+Ref:
+S|lamatlah jiwaku
+S|lamatlah, S|lamatlah jiwaku
+
+2. Kendatipun susah terus menekan
+Dan iblis geram menyerbu
+Tuhanku menilik anakNya tetap
+S|lamatlah, S|lamatlah jiwaku
+'), ('KLK244', '244', 'TABUR WAKTU PAGI', 'KLK', '1=A
+
+1. Tabur waktu pagi, tabur benih kasih
+Tabur waktu siang, trus sampai senja
+Nantikan tuaian, pada musim panen
+Kitakan bersuka, bawa berkasNya
+
+Ref:
+Bawa berkasNya
+Masuk lumbungNya
+Kita kan bersuka
+Bawa berkasNya
+Bawa berkasNya
+Masuk lumbungNya
+Kita|kan bersuka, bawa berkasNya
+
+2. Di terik sang surya
+Di g|lap bayang awan
+Kita pun menabur, riang bekerja
+Nanti panen tiba, tugas akan usai
+Kita kan bersuka, bawa berkasNya
+
+3. Maju walau sukar
+Tabur bagi Tuhan
+Biar jiwa raga, susah dan lelah
+Sampai akhir nanti, kita disambutNya
+Kita |kan bersuka, bawa berkasNya
+'), ('KLK245', '245', 'SUNGGUH INGINKAH ENGKAU LAKUKAN', 'KLK', '1=C
+
+Sungguh inginkah engkau
+Lakukan hal besar ?
+Jangan tunggu tiba saatnya
+Kini tugasmu kerjakan
+Dengan baik benar
+Jadilah suluh dunia
+
+Ref:
+Jadilah suluh dunia
+Jadilah suluh dunia
+Mungkin ada yang terhibur
+Kar|na sinarNya
+Jadilah suluh dunia'), ('KLK246', '246', 'KEKASIH JIWA DEKATLAH', 'KLK', '1=C
+
+1. Kekasih jiwa dekatlah
+Mukhalis kami Yesus
+Yang rasa berat tanggungannya
+Dipanggil oleh Yesus
+
+Ref:
+Baik Malak menyanyilah
+Puji Yesus, Tuhannya
+Boleh engkau pun menggah
+Kekasihku Yesus
+
+2. Dosamu dihapuskannya
+Ditanggung oleh Yesus
+Dan tempat disediakan
+PadaMu oleh Yesus
+'), ('KLK247', '247', 'HAI MARI BERHIMPUN', 'KLK', '1=E
+
+Hai mari berhimpun, dan bersukaria
+Hai mari semua ke Betlehem
+Lihat yang lahir, Raja bala surga
+Sembah dan puji Dia
+Sembah dan puji Dia
+Sembah dan puji Dia
+Sang Raja'), ('KLK248', '248', 'MALAM KUDUS, SUNYI SENYAP', 'KLK', '1=G
+
+1. Malam kudus, sunyi senyap
+Siapa yang b|lum lelap
+Ayah bunda yang tinggalkan t|rus
+Jaga Anak Yang Maha Kudus
+Anak dalam malaf
+Anak dalam malaf
+
+2. Hai lihatlah di Efrata
+Terang besar turunlah
+Waktu ten|tra samawi menggah
+Puji Allah s|bab nikmatNya
+Ingat dunia yang g|lap
+Ingat dunia yang g|lap
+Ingatlah dunia yang g|lap'), ('KLK249', '249', 'BAGUS AMAT MANIS SANGAT', 'KLK', '1=C
+
+1. Bagus amat manis sangat
+Hari maulid Tuhanku
+Dunia bercelaka
+T|rima berkat b|laka
+Sembah dunia
+Sembah pada TuhanMu
+
+2. Bagi Allah, sedekala
+Hormat dalam sorga t|rang
+Damai atas bumi
+Dalam hati kami
+Kar|na akan kami
+Allah berkenan'), ('KLK250', '250', 'AKU KE JOLJUTA', 'KLK', '1=E
+
+1. Aku naik ke Joljuta
+Dengan sakit dan lemah
+Di salib ddi sanalah
+Aku ini klak betah
+
+Ref:
+Anak Allah di salib
+Engkau saja yang Tabib
+KepadaMu ku sujud
+Di salibMu ku telut
+
+2. B|ri namaNya termasyur
+Dan keliling terkenal
+KepadaNya b|ri syukur
+Sekarang ini dan kekal
+'), ('KLK251', '251', 'KU CARILAH TANAH YANG KHAS', 'KLK', '1=E
+
+Ku carilah tanah yang khas
+Neg|ri ruhku, Mulia dan t|rang
+Rumah Bapa, Istana khalas
+Perhentian kekal dan senang
+Meski jauh, amat jauh}2x
+Ku carilah rumah yang t|rang}
+'), ('KLK252', '252', 'S|KARANG MALAM T|LAH LENYAP', 'KLK', '1=E
+
+S|karang malam t|lah lenyap
+Dan diganti siang t|rang
+Lenyaplah takutku genap
+Hatiku merasa s|nang
+
+Ref:
+Sukacita dalam dunia
+T|rus ke surga yang baka
+Ku jadi milik Tuhanku
+Hai, betapa indahnya'), ('KLK253', '253', 'KE RUMAH TEMPAT YANG SENANG', 'KLK', '1=G
+
+1. Ke rumah tempat yang senang
+Dimana tidak lagi p|rang
+Dan tidak sukar dan cela
+Kesitu aku rindulah
+
+Ref:
+Sabar, dalam susah sukarmu
+Sabar Tuhan ada sertamu
+Sabar, sabar b|ri kuat padaMu
+
+2. Dan bila jiwaku lelah
+Di dalam susah sukarnya
+Ku rindu rumah Bapa t|rang
+Dimana aku dapat s|nang'), ('KLK254', '254', 'HENDAKLAH KAU IRING YESUS', 'KLK', '1=C
+
+1. Hendaklah kau iring Yesus
+Pikul salib
+Jangan takut dan gelisah ikut Tabib
+
+Ref:
+Pikulah salibMu
+Serta pandang tetap
+Hingga dapatlah
+Mahkota sukar lenyap
+
+2. Tuhan tuntut kerendahan
+Pikul salib
+Kalau rasa kelemahan ikut Tabib'), ('KLK255', '255', 'YA YESUS T|RANG DAN KUATKU', 'KLK', '1=C
+
+1. Ya, Yesus T|rang dan Kuatku
+B|rikanlah, b|rikanlah apiMu
+Baik masuk dalam hatiku
+B|rikanlah, b|rikanlah apiMu
+Bersihkan daku, Almasih
+Supaya hati yang keji
+Menjadi suci dan jernih
+B|rikanlah, b|rikanlah apiMu
+
+2. Hai, jika hilang harapanmu
+Mintalah, mintalah apiNya
+Yang menggerakan hatimu
+Itulah, itulah apiNya
+Saudara, biar bangunlah
+Sebagaimana darahNya
+Menyucikan, begitulah
+Ia b|ri, Ia b|ri, apiNya'), ('KLK256', '256', 'TAK SEORANG TAHU JAM', 'KLK', '1=G
+
+1. Tak seorang tahu jam
+Waktu Yesus kembali tetapi kenang
+Tanda waktu dan tilik
+Yang tunjuk t|rus terang
+Waktu Sultan klak balik
+Tapi jam tak kau tahu
+
+Ref:
+Hendaklah kau berjaga
+Ketika datangnya
+Haleluya ...2x
+Maka orangnya klak
+Ramai ramai bersuka
+Tapi jam tak kau tau
+
+2. Baik dengan sabar
+Kau berjaga dan nanti
+DiberiNya segera
+Seg|ra kuat tak brenti
+Klak prang yang besar
+Dengan sorak diganti
+Tapi jam tak kau tahu'), ('KLK257', '257', 'TUHAN DATANG PADAMU', 'KLK', '1=G
+
+Tuhan datang padamu, sambutlah
+Jangan buang Tuhanmu, sambutlah
+Iapun berdirilah
+Dan tepok ta|brentinya
+harap sampai maksudNya
+Sambutlah'), ('KLK258', '258', 'NIMAT MAHA TUHAN', 'KLK', '1=C
+
+1. Nimat maha Tuhanku
+Aku puji berseru, kar|na rindu hatiku
+Nimat besar
+Dari surga yang baka
+Masuk dunia yang fana
+Tanggung dosa atasnya
+Nimat besar
+
+Ref:
+Nimat besar! Nimat besar
+Tidak terduga dan luas benar
+Nimat besar
+
+2. Orang buta lihat t|rang
+Timpang tlah dijalankan
+Matipun dibangkitkan
+Nimat besar meski dosa tergeli
+NimatNya besar lebih
+Hingga suci yang keji
+Nimat besar'), ('KLK259', '259', 'IRINGLAH TUHAN DALAM T|RANG', 'KLK', '1=A
+
+Iringlah Tuhan dalam trang
+Keluar dari glap
+Dan ingatlah apa wajibmu
+Dan turutlah tetap
+Berjalan di t|rang (3x)
+Berjalan di dalam t|rang'), ('KLK260', '260', 'PAKAILAH WAKTU ANUGERAH TUHANMU', 'KLK', '1=Es
+
+1. Pakailah waktu anugerah Tuhanmu,
+Hidupmu singkat bagaikan Kembang
+Mana benda yang kekal di hidupmu
+Hanyalah kasih tak akan lekang
+
+Ref:
+Tiada yang baka, di dalam dunia
+S|gala yang indah pun akan lenyap
+Namun kasihMu demi Tuhan Yesus
+Sungguh bernilai dan tinggal tetap
+
+2. Janganlah sia-siakan waktumu
+Hibur dan tolonglah yang berkeluh
+Biarlah lampumu t|rus bercahaya
+Muliakanlah Tuhan di hidupmu'), ('KLK261', '261', 'KU SERAHKAN PADA TUHAN', 'KLK', '1=C
+
+1. Ku serahkan pada Tuhan
+Tubuh, nyawa, jiwaku
+Cuma aku hendak hidup
+Bagi Dikau Tuhanku
+
+Ref:
+Tubuh, nyawaku
+Roh dan jiwaku
+Ku serahkan sioh Tuhan
+Sambut hambaMu
+
+2. Ku serahkan pada Tuhan
+Bertelut di kakiMu
+Dunia tidak sempat tolong
+Engkau saja s|lamatku
+'), ('KLK262', '262', 'ENGKAU CARI INTANKAH', 'KLK', '1=C
+
+1. Engkau cari intankah
+Guna tajuk Almasih
+Ingat dalam limbahan
+Ada intan yang permai
+
+Ref:
+Intan-intan dan permata
+Jiwa-jiwa Tuhanmu
+Biar cari, lalu bawa
+Guna tajuk Sultanmu
+
+2. Jiwa yang telah sesat
+dari Hu, sebab lemah
+Ada panggil dan seru
+Bantu dari sukarnya
+'), ('KLK263', '263', 'BETAPA BAIK DAN SENANG', 'KLK', '1=G
+
+1. Betapa baik dan senang
+Bersandar padaMu
+Di dalam g|lap pencobaan
+Kau ada izatku
+
+Ref:
+S|rahkan Dia, susahmu g|nap
+S|rahkan Dia, susahmu g|nap
+S|rahkan Dia, susahmu g|nap
+Ia jagakan dikau tetap
+
+2. KehendakMu ku taruhlah
+Bebanku padaMu ya Tuhan,
+Ku serahkan, semua atasMu
+'), ('KLK264', '264', 'JANGAN KAMU TAKUT', 'KLK', '1. Jangan kamu takut, Aku adalah
+Itu Tuhan janji, biar ingatlah
+Itupun bri hibur, kalau tak senang
+Lagipun bri kuat
+Bila engkau masuk prang
+
+Ref:
+Hai tidak pernah
+Hai tidak pernah
+Klak Ia tinggalkan dikau
+Bahkan tiada pernah
+
+2. Meskipun berlaku susah dan cela
+Meski angin ribut dengan sukarnya
+Tapi janji Tuhan... tinggalah tetap
+Biarlah bernyanyi,
+Meski di malam yang glap'), ('KLK265', '265', 'SELAKU ORANG PENGETAM', 'KLK', '1=G
+
+Selaku orang pengetam
+Yang rajin kami himpunkan
+Gandum dan bawa masuk trus
+Ke lumbung Tuhan yang kudus
+Dan Yesus pun ku pujikan
+Yang Tuhannya penuaian
+Yang brilah berkat, bahkan pun
+Yang matilah sepri gandum
+
+Ref:
+Pergi dan bekerjalah
+Kamu satu satu
+Tuhan panggil, berseg|ra
+Jangan sayup waktu
+Baik cepat-cepat, teman
+Sekarang waktu mengetam
+Maju dengan nama Tuhanmu'), ('KLK266', '266', 'YANG MENABUR DENGAN TANGIS', 'KLK', '1=A
+
+1. Yang menabur dengan tangis
+Sambil harap Tuhanku
+Mengetam klak dengan sorak
+Slamat yang kekal penuh
+
+Ref:
+Embun surga
+Surgapun mendiris
+Matahari membenas
+Hingga sarat tangkai pulur
+Jadi masaklah lekas
+
+2. Tegal itu jangan lalai
+Biar taburlah segra
+Pada musim pengetaman
+Engkau klak bersoraklah
+'), ('KLK267', '267', 'ANGIN RIBUT LAGI OMBAK', 'KLK', '1=C
+
+1. Angin ribut lagi ombak
+Pukul prahuku
+Makin lama makin tambah
+Susah sukarku
+
+Ref:
+Jangan, jangan takut
+Tuhanpun dekat
+Jangan takut, jangan takut
+Mukhalispun dekat
+hai jangan takut
+Mukhalis Yesuspun dekat
+
+2. KasihNya tak susah selalu
+Dari padaku
+Ia tinggalah selalu
+Pohon hidupku'), ('KLK268', '268', 'YESUS ADA SOBAT KITA', 'KLK', '1=D
+
+1. Yesus ada sobat kita
+Amat tulus dan benar
+Ia dengan sukacita
+Hentar kita bergemar
+Banyak kali dosa untung
+Serta damai hilanglah
+Kar|na tidak minta tolong
+Pada Sobat itulah
+
+2. Meski banyaklah gelisah
+Buat hati gemetar
+Lari saja pada Yesus
+Sobat kita yang benar
+Sobat itu membri obat
+Jika kita sakitlah
+Ia juga membri kuat
+Jika kita berlelah'), ('KLK269', '269', 'TUHAN SERTA KITA', 'KLK', '1=C
+
+1. Tuhan harus serta aku
+Kalau tidak ku sesat
+Sama sama dengan Tuhan
+Baru langkahku tepat
+
+Ref:
+Maka jiwaku teduh
+Pada jalan dan lebuh
+Dengan tidak lagi tanya
+Aku iring Tuhanku
+
+2. Tuhan harus serta aku
+Baru ringanlah beban
+Tidak lagi rasa takut
+Dan berjalan dengan senang
+'), ('KLK270', '270', ' DI JOLJUTA, DI JOLJUTA', 'KLK', '1=E
+
+1. Di Joljuta, di Joljuta
+Tergantung Tuhan Yesus
+Supaya dilepaskanNya
+Kami ini dari dosa
+
+Ref:
+Kematian ditanggungNya
+Supaya kami luputlah
+Di Joljuta, di Joljuta
+Tergantung Tuhan Yesus
+
+2. Di Joljuta, di Joljuta
+Tergantung Tuhan Yesus
+Supaya kami dapatlah,
+gafirat serta damai
+'), ('KLK271', '271', 'YA ALLAHKU AKU MAU', 'KLK', '1=E
+
+1. Ya Allah aku mau, hampir Tuhan
+Yang minta hatiku, diserahkan
+
+Ref:
+Inilah doaku, hampir kepadaMu
+Hampir kepadaMu, hampir Tuhan
+
+2. Sekarang ku bangunlah, dan ingatlah
+Di sini Tuhan pun, ada dekat
+'), ('KLK272', '272', 'YESUS HU YANG AJAIB', 'KLK', '1=C
+
+1. Yesus Hu yang ajaib Raja dan Imam
+Meninggalkan sorga untuk s|lamatku
+Dan tebus jiwaku dengan darahNya
+S|karang s|lamatlah, kupuji namaNya
+
+Ref:
+Yesus Hu yang ajaib
+Ku berhutanglah
+Ku berhutang jiwa pada Engkaulah
+Biar s|panjang hari
+Ku memuji t|rus
+Rajaku dan Nabi
+Imam yan kudus
+
+2. Yesus Hu yang ajaib, ajaib darahNya
+Oleh itu saja aku bebaslah
+Bukan oleh amal aku tertebus
+Hanya oleh jasa, Yesus Penebus
+'), ('KLK273', '273', 'JIWA YANG BERSALAH', 'KLK', '1=A
+
+1. Jiwa yang belisah, yang lemah lesu
+Tengah ribut susah, ombak menderu
+Siapakah yang sempat, hibur kau teman
+Siapa yang mau rapat, tanggung sebeban
+
+Ref:
+Cuma ada satu, yang setialah
+Yakni Yesus
+Sobat yang benar kekal
+Ia tiap waktu, mau menolonglah
+
+2. Tengah kebimbangan, iman bergempa
+Kurang kemenangan, damai hilanglah
+Siapakah yang datang, bisik padamu
+$Anak jangan takut, Ku besertamu$
+'), ('KLK274', '274', 'DARI BELENGGU K|RAS DAN TEGUH', 'KLK', '1=G
+
+1. Dari belenggu k|ras dan teguh
+PadaMu Hu, ku datanglah
+T|lah terlepas merdeka penuh
+Ya Hu, ku datanglah
+Dalam lemah, ku jadi tegap
+Kuat, segar, ya oleh Rohmu
+Miskin ku bri ku kaya tetap
+Hidupku milikMu
+
+2. Dari najis dan dosa cemar
+Padamu Hu, ku datanglah
+Dekat salib, ku sorak gemar
+Ya Hu, ku datanglah
+Meskipun ombak
+K|ras menderu
+Ta|ku gentar
+Engkau harapku
+KasihMu bri, ku s|lalu seru
+Hidupku milikMu'), ('KLK275', '275', 'PUE MADAGO (Allah Itu Baik)', 'KLK', '
+Pue madago, Pue madago, Pue madago
+Madago riyaku (Bahasa Poso)
+Pue matao, Pue matao, Pue matao
+Matao riyaku (Bahasa Taa Ampana)
+Allah itu baik, Allah itu baik, Allah itu baik
+Dia baik bagiku'), ('KLK276', '276', 'AJARKU MENGENALMU', 'KLK', '1=G
+
+Tak ada yang ku banggakan
+Selain diriMu
+Tak ada yang ku inginkan
+Hanyalah Engkau
+Ajarku mengenal Mu
+Bawaku lebih mengenal Mu
+Pribadi Mu yang ku rindu
+Ajarku mengenal Mu
+Aku ingin tinggal dalam
+Pelataran Mu
+Aku ingin lebih dalam
+Di hadirat Mu'), ('KLK277', '277', 'SEPERTI PELANGI', 'KLK', '1=C
+
+1. Jalan hidup tak selalu tanpa kabut yang pekat,
+namun kasih Tuhan nyata pada waktu yang tepat.
+Mungkin langit tak terlihat oleh awan yang tebal,
+di atasnyalah membusur p�langi kasih yang kekal.
+
+Ref:
+Habis hujan tampak p�langi bagai janji yang teguh,
+di balik duka menanti p�langi kasih Tuhanmu.
+
+2. Jika badai menyerangmu, awan turun menggelap,
+carilah di atas awan p�langi kasih yang tetap.
+Lihatlah warna-warninya, lambang cinta yang besar,
+Tuhan sudah b�ri janjiNya, jangan lagi �kau gentar.
+
+3. Jauhkan takut, putus asa, walau jalanmu gelap,
+perteguh kepercayaan dan langkahmu pertegap.
+�Tuhan itu ada kasih�, itulah penghiburmu,
+di atas duka bercahaya p�langi kasih Tuhanmu.
+'), ('KLK278', '278', 'DUNIA DALAM RAWA PAYA', 'KLK', '1=D
+
+1. Dunia dalam rawa paya
+Berjuang trus
+Kristen manakah
+Cahaya Injil kudus
+Bri di dalam glap gulita
+Bergelimang trang berita
+Satu saja Tuhan kita,
+Yang Penebus
+
+2. Bangunkan persekutuan
+Sidang Jemaat
+Serta kumpul kawan Tuhan
+Yang tersesat,
+Satu sabda, satu asa
+Mempersatukan bahasa
+Sekalian kaum dan masa
+Jauh dan dekat'), ('KLK279', '279', 'SIAPA YANG SETIA', 'KLK', '1=C
+
+Siapa yang setia hingga ke tamat
+Iring Yesus meski k|ras ribut p|rang
+Meskipun sengsara dan susah banyak
+Musuh dan seteru selalu serang
+
+Ref:
+Siapa yang setia tahan kras
+Hai ingat janji Mukhalis Tuhanmu
+Ia nanti dapatlah khalas
+Mahkota indah
+Di dalam rumaHu'), ('KLK280', '280', 'BEBERAPA PENGAWAL KUPESAN', 'KLK', '1=F
+
+Beberapa pengawal kupesan, Hai Yerusalem
+Jaga di dewalaMu, dengan tetap
+Melintaslah di pintu gerbang
+Singrahkan, singrahkanlah jalan
+Dantinggikanlah suatu lorongNya
+Serta buanglah batu sentuhan
+Angkatlah tunggul, angkatlah tunggul
+Angkatlah tunggul keatas s|gnap kaum
+Haleluya, haleluya, haleluya, Amin (2x)
+Amin. Amin. Amin.'), ('KLK281', '281', 'POHON YANG INDAH', 'KLK', '1=A
+
+Pohon yang indah, Pohon yang indah
+Terhias amatlah permai
+Alamat cinta, Alamat cinta
+Yang nyata dalam Almasih
+Artinya Bapa dengan AnakNya
+Pohon trang AnakNya terang cerlang
+Daunnya tampak hijau sepenuh
+Tunjuklah kasih Bapa yang teguh
+
+Ref:
+Datang sekarang, datang sekarang
+Duduk berhenti. Pada naunganNya
+Ku dapat bayang, ku dapat bayang
+Hibur mengganti susah dan lelah'), ('KLK282', '282', 'HARAP SAJA PADA ALLAH', 'KLK', '1=G
+
+1. Harap saja, pada Allah
+Sandar pada Tuhan yang Elhak
+Firman Hua tiada salah
+Asal kau percaya bertetap
+Yang berharap t|rus selalu
+Dan percaya Tuhanku
+Tiada ia akan malu
+Hanya akhirnya menggah
+
+Ref:
+Berharaplah, berharaplah
+Jangan kau bimbang dan segan
+Bernantilah, bernantilah
+Berharap sambil beriman
+
+2. Harap dan tetapkan hati
+Nanti Tuhan dan ketikanya
+Duka lalu, suka ganti
+Bagi yang berharap padaNya
+Harap meski banyak kata
+Hojat dan sindiran k|ras
+Harap hingga jadi nyata
+Tuhan datang b|ri lepas'), ('KLK283', '283', 'ORANG PILIHAN', 'KLK', '1=C
+
+1. Terima dari Tuhan
+Yang mengerjakan slamatmu
+Semua yang diberikan
+Ia itulah karunia Hu
+Meski hati tidak mau
+Tinggal tahan dan teduh
+Tuhan sajalah yang tahu
+Apa baik bagimu
+
+Ref:
+Apa yang berlaku atasmu
+Itulah Tuhan bri
+Susah dan sengsara sepenuh
+Itu nimat Alkafi
+
+2. T|rima dengan hati
+Kendati tak senang sabar
+Terima dan bernanti
+Ketika Tuhan yang benar
+Yang selalu berupaya
+Dengan cinta kasihNya
+Pilih barang yang membawa
+S|lamat bagi umatnya'), ('KLK284', '284', 'SAMBUT PANGGILAN', 'KLK', '
+Baik bangun dan bersedia
+Berjaga dan nantilah
+Sepri jammu yang setia
+Merindukan waktunya
+Panggilanmu yang mulia
+Sekarang t|lah hampirlah
+Lengkapilah dirimu segra
+Sebentar bri jawab
+Supaya jangan adalah
+Alangan dan sebab
+
+Ref:
+Jaga dan nanti
+Tukarlah peri
+Sedia hati, hidup yang bersih
+Buang dan ganti
+Perangai yang keji'), ('KLK285', '285', 'SEHATI SEKERJA', 'KLK', '1=C
+
+Bekerja bersama-sama
+Jalan berdekat-dekat
+Hidup dan beramah-ramah
+Bersehati sefakat
+Jangan dengan mulut
+Hanya hatimu
+Patutlah berkata
+Pada yang teman
+Angkat perjanjian yang tetap teguh
+Rasa sama-sama
+Susah dan senang
+
+Ref:
+Jika kamu mau
+Untung banyaklah
+Jangan hidup jauh
+Hanya jadi sehati sekerja'), ('KLK286', '286', 'SUDAH SEDIA', 'KLK', '
+Sudah sedia sudah teduh
+Ku hendak berserah
+Sudah sedia rindu penuh
+Menyambut Engkaulah
+
+Ref:
+Ku berserah, ku berserah
+Sudah sediaHu
+Ku berserah, ku berserah
+Tolonglah hambaMu'), ('KLK287', '287', 'TUHAN PELIHARA', 'KLK', '1=G
+
+Jangan kau takut kesusahan
+Tuhan p|liharakan
+Pada Tuhan ada perlindungan
+Tuhan p|liharakan
+
+Ref:
+Tetapkan hatimu
+Tentu Tuhan p|liharakan
+P|liharakan dikau
+Sepanjang umurmu'), ('KLK288', '288', 'IBU IBU TUHAN', 'KLK', '1=A
+
+1. Ibu-ibu Tuhan ingat wajibmu
+Bawa pengasihan, turut sultan
+Ia mengasihi dunia sepenuh
+Rasa siksa mati dengan pri teduh
+
+Ref:
+Marilah sama-sama
+Bangun dan berusaha
+Taruh percintaan
+Bagi kawan yang lemah
+Itu cinta kepada TuhanMu
+Ibu-ibu, ingat wajibmu'), ('KLK289', '289', 'KERAJAAN ALLAH DATANGLAH', 'KLK', '1=A
+
+Kerajaan Allah datanglah
+Bagi kami anak-anakMu
+K|rajaanMu datanglah
+Ngalir dalam dunia, dunia yang kelam
+Akan meneguhkan hati yang lemah
+Dan mendirikan damai senang
+Datang kerajaan
+Kerajaan yang mulia
+Masuk dalam dunia
+Oleh Almasih
+Datang kerajaan
+Akan untung manusia
+Itulah sentosa untuk s|lamanya
+
+Ref:
+Kerajaan yang adil dan benar
+Dan kuasaNya amat teguh
+Di dalam susah ribut dan prang
+Tempat berlindung dan berteduh
+Masuklah hati tinggal tetap
+S|lamat sentosa sepenuh
+Datanglah kerajaan-Mu'), ('KLK290', '290', 'MIRINGKANLAH TELINGAMU YA ALLAH', 'KLK', '1=G
+
+Miringkanlah telingaMu
+Ya Allah
+Dengarkanlah seruan hambaMu
+Luluskanlah doaku sedekalah
+Yang naiklah sampai ketahtaMu
+
+Ref:
+Aku ini terikat oleh dosa
+Lepaskanlah dari sengsaraku
+padaMu saja ada kelepasan
+Hapuskan kesalahanku'), ('KLK291', '291', 'BUNGA RAYA', 'KLK', '1=E
+
+1. Bunga raya, bunga raya
+Berkembanglah pri mulia
+Pagi hari merah muda
+Sore sudah merah tua
+Malam hari layulah
+
+2. Manusia, manusia
+Engkau makhluk yang mulia
+Waktu muda kau bergaya
+Masa tua ta|tenaga
+Cukup sudah jasamu
+
+3. Sebab itu, sebab itu
+Caharilah selamatmu
+Beribadah pada Tuhan
+Musim panas atau hujan
+Berserah kepadaNya
+'), ('KLK292', '292', 'HARI INI HARINYA TUHAN', 'KLK', '1=D
+
+Hari ini, hari ini
+Harinya Tuhan, harinya Tuhan
+Mari kita, mari kita
+bersukaria, bersukaria
+Hari ini harinya Tuhan
+Mari kita bersukaria
+Hari ini, hari ini harinya Tuhan
+'), ('KLK293', '293', 'BILA KU RENUNGKAN', 'KLK', '1=E
+
+Bila ku renungkan kasih Tuhan
+Yang t|lah menyelamatkan diriku
+Walau salib berat ditanggungNya
+Apa balasanku padaNya
+S|perti Yesus mengasihi daku
+Ku mau mengasihiNya selalu
+Membawa t|rang injil keselamatan
+Sampai Tuhan datang kembali
+
+Ref:
+Oh bukan pada harta yang fana
+Sukacita itu bertumbuh
+Tapi sungguh
+Ta|kan percuma
+Bila melayani Tuhanku'), ('KLK294', '294', 'DI DALAM KEHIDUPANKU', 'KLK', '1=D
+
+Di dalam kehidupanku
+Oh Tuhan
+Penuh dengan pencobaan
+Yang tiada henti-hentinya
+Oh Tuhan
+Datang pada hambaMu ini
+
+Ref:
+Dengarkanlah oh Tuhan doaku
+Yang dengan sepenuh hatiku
+Tolonglah oh Tuhan
+HambaMu ini
+Hapuskanlah s|gala dosaku'), ('KLK295', '295', 'DI DALAM HIDUPKU', 'KLK', '1=G
+
+1. Di dalam hidupku
+KasihMu nyatalah
+Di dalam hidupku
+Aku datang padaMu
+Tuhan Kaulah terang hidupku
+S|lamatlah, S|lamatlah jiwaku
+
+2. Sambutlah tanganku
+Dan peluklah diriku
+Jiwaku slamatlah
+Dari dosa nestapa
+Tuhan Kaulah terang hidupku
+Slamatlah, Slamatlah jiwaku
+
+Ref:
+Kini hidupku tlah baru
+Kar|na kasihMu
+Datanglah cahaya harapan
+Hilanglah penderitaan
+Tuhan Kaulah terang hidupku
+S|lamatlah, S|lamatlah jiwaku'), ('KLK296', '296', 'SEPERTI YESUS', 'KLK', '1=E
+
+Seperti Yesus, seperti Yesus
+Itulah yang ku pinta
+Dalam hidupku sampai di sorga
+Ku rindu seperti Yesus'), ('KLK297', '297', 'DARAHMU TUHAN', 'KLK', '1=C
+
+DarahMu 3x Tuhanku
+Sembuhkan, bebaskan
+S|lamatlah daku
+DarahMu 3x Tuhanku
+Tebuskan, suciikan
+S|lamatkan daku'), ('KLK298', '298', 'PIMPIN AKU', 'KLK', '1=E
+
+Pimpin aku dari jerat dosaku
+Pimpin masuk kandang Hu
+Aku lemah lelah
+Oh Tuhan kuatkanku
+Jalanlah di sisiku
+Tuhan kusesat
+bagai domba terhilang
+Ku berdosa padaMu
+Aku tak dapat berdoa oh Tuhan
+Tuhan pimpin aku pulang'), ('KLK299', '299', 'KU TAK MAMPU MEMAHAMI', 'KLK', '1=C
+
+Bagaimana ku |kan bernyanyi
+Tentang kasih cintaMu
+Dapatkah kurangkai puisi
+Tentang pengorbananMu
+Duri yang pedih menggantikan
+Mahkota kemuliaanMu Tuhan
+Karena diriku yang berdosa
+Nyawa Kau serahkan
+Kau balut luka dihatiku
+Dengan kasih yang tulus
+Dosa yang merasuk Kau basuh
+Dengan darahMu kudus,
+Entah berapa kali daku
+Berkhianat padaMu Tuhan
+Mengapa setiaMu ya Tuhan tetap padaku
+
+Ref:
+Sungguh ku |tak mampu memahami
+Kasih dan setiaMu ya Tuhan
+Bagiku yang hina ini Kau rela berkorban
+Apakah kusanggup membalas
+Kasih dan setiaMu ya Tuhan
+Sebagaimana adanya daku
+Kuberserah padaMu'), ('KLK300', '300', 'SUDAHKAH DARAHMU YESUS', 'KLK', '1=E
+
+Sudahkah darahMu Yesus
+Meleleh untukku
+Sudahkah engkau tersiksa
+Kar|na s|lamat aku
+Tolonglah aku ya Tuhan...supaya setia
+Dan ingatlah aku Tuhan
+Dari tahta sorga'), ('KLK301', '301', 'BETAPA INDAH KASIHMU YESUS', 'KLK', '1=C
+
+1. Betapa indah kasihMu Yesus
+Begitu nyata kuasaMu
+Bila diriku dalam derita
+S|lalu Kau datang menolongku
+
+2. Hati ku rindu padaMu Yesus
+Ku ingin selalu bersamamMu
+Ulurkan tangan kasihMu
+Agar Kau dapat menolongku
+
+Ref:
+Glory Haleluyah
+Terpujilah NamaMu
+Sembah sujudku
+Hanyalah padaMu
+Glory haleluya
+Terpujilah namaMu
+Haleluya'), ('KLK302', '302', 'BUKA PINTU HATIMU', 'KLK', '1=C
+
+Buka sekarang pintu hatimu
+Trimalah TuhanMu
+Dia mau lepaskan
+Seg|nap dosamu
+Hingga kau sucilah
+
+Ref:
+Buka hati,
+T|rimalah TuhanMu
+Dia mau lepaskan
+Seg|nap dosamu
+Hingga kau sucilah
+Buka, hati,
+T|rimalah Tuhanmu
+Dengar suaraNya
+Ketuk hatiMu
+Buka hati trimalah Tuhanmu
+Damai Dia bri
+Dan kelepasan kekal'), ('KLK303', '303', 'DOA BAPA KAMI', 'KLK', '1=C
+
+Ya Bapa kami di dalam surga
+Dimuliakan kiranya NamaMu
+KerajaanMu datang
+KehendakMu jadilah
+Di bumi sperti di dalam surga
+Berkat secukupnya berikanlah
+Dan dosa kamipun
+Mohon diampuni
+dan jangan bawa kami ke dalam pencobaan
+Dari yang jahat bebaskanlah kami
+Amin'), ('KLK304', '304', 'KU DENGAR PANGGILAN TUHAN', 'KLK', '1=C
+
+Ku dengar panggilan Tuhan
+Ku turutlah kehendakMu
+Biar apa jadi atasku
+Semua ku srahkan padaMu
+'), ('KLK305', '305', 'DI S|LURUH DUNIA', 'KLK', '1=C
+
+1. Di s|luruh dunia
+Roh Allah bekerja
+Di s|luruh dunia
+Seperti nabi berkata
+Di s|luruh dunia
+Ada ilham roh yang heran
+Tentang kemuliaan Tuhan
+Sperti air menutup lautan
+
+2. Di hati kami ...
+'), ('KLK306', '306', 'DIBERKATILAH', 'KLK', '1=E
+
+Diberkatilah orang
+Yang mengandalkan Tuhan
+Yang selalu berharaplah
+Hanya kepada Yesus
+Hanya kepada Yesus
+Hanya kepada Yesus'), ('KLK307', '307', 'TUHAN GEMBALAKU', 'KLK', '1=G
+
+1. Tuhan Gembalaku, aku dombaNya
+Dia menuntunku dengan kasih
+Ke tempat air tenang ku dimbimbingNya
+Dibaringkan di padang rumput
+Yang hijau
+
+2. Walau aku jalan di lembah kekelaman
+Meski melangkah di jalan musuh setru
+Ku tak takut kan bahaya
+Ku tak gentar spanjang masa
+Kar|na Tuhan Gembalaku
+Maha Kasih'), ('KLK308', '308', 'TAK PERNAH TUHAN JANJI', 'KLK', '1=A
+
+1. Tak pernah Tuhan janji
+Hidupku takkan berduri
+Tak pernah Dia janji
+lautan tenang
+Tetapi Dia berjanji Kan selalu sertaku
+Dan menuntun
+Jalan hidupku slalu
+
+Ref:
+JanjiNya Dia atur langkahku
+Janjinya Dia pegang tanganku
+Ku bersyukur
+Tuhan s|lalu p|liharaku u.. u..
+
+2. Ku tahu satu kali
+Awan gelapkan berlalu
+Sang surya bersinar
+Dengan megah
+Dan bulan dan bintang
+Menampakkan wajahNya
+Haleluya
+Tuhan puaskan jiwaku'), ('KLK309', '309', 'BAPA ENGKAU SUNGGUH BAIK', 'KLK', '1=E
+
+Bapa Engkau sungguh baik
+KasihMu melimpah di hidupku
+Bapa ku bert|rima kasih
+BerkatMu hari ini
+Yang Kau sediakan bagiku
+Ku naikkan syukurku
+Buat hari yang kau b|ri
+Tak habis-habisnya kasih
+Dan rahmatMu
+S|lalu baru dan tak pernah
+Terlambat pertolonganMu
+Besar setiaMu
+Di s|panjang hidupku'), ('KLK310', '310', 'ALLAH PEDULI', 'KLK', '1=E
+
+Banyak perkara
+Yang tak dapat ku mengerti
+Mengapakah harus terjadi
+Di dalam kehidupan ini
+Satu perkara
+Yang ku simpan dalam hati
+Tiada satupun kan terjadi
+Tanpa Allah peduli
+Allah mengerti, Allah peduli
+Segala persoalan yang kita hadapi
+Tak akan pernah dibiarkannya
+Ku bergumul sendiri
+S|bab Allah peduli'), ('KLK311', '311', 'HANYA SATU JALAN', 'KLK', '1=F
+
+1. Hanya satu jalan, jalan kehidupan
+Hanya satu jalan, jalan kes|lamatan
+Datanglah s|karang hai teman
+Datanglah s|karang pada Nya
+Yesus manis lembut, menunggu dipintu hatimu
+
+2. Hanya satu kasih, kasih yang setia
+Hanya satu kasih, kasih yang mulia
+Datanglah s|karang hai teman
+Datanglah s|karang padaNya
+Yesus manis lembut. mengasihi. menyayangimu
+
+3. Walau dunia gelap topan menderu
+Walau badai dan gelombang menerjang
+Perahu kapal takkan goncang
+Tak akan tenggelam
+Jangan takut jangan bimbang dan ragu
+Jangan takut jangan berputus asa
+Yesus nahkoda kehidupan jalan kes|lamatan
+'), ('KLK312', '312', 'HANYA DALAM KASIHMU TUHAN', 'KLK', '1=C
+
+Hanya dalam kasihMu Tuhan
+Hanya saja padaMu Tuhan
+Tempat ku berlindung
+Tempat ku berteduh, tempat ku mengadu
+Hanya dalam kuasaMu Tuhan
+Hanya saja namaMu Tuhan
+Tempat ku memohon
+Tempat ku meminta, tempat ku berdoa
+
+Ref:
+Trima kasih Tuhan, trima kasih Bapa
+Dalam lindunganMu, engkau pelihara
+Kami dengan kasih sayang
+T|rima kasih Tuhan, t|rima kasih Bapa
+Dalam kegelapan, Engkau menuntunku
+Dengan penuh kasih sayang'), ('KLK313', '313', 'BEBASKANLAH (LAGU LISOI)', 'KLK', '1=E
+
+1. Kasih setia Tuhan saja, pembimbingku
+Keperkasaan tanganNya, pengharapanKu
+Insan semesta tertebus, Pembimbingku
+Surga dan bumi menyatu, pengharapanku
+
+2. Bebas, bebas, bebaskanlah
+Oh pembebas, persatukan
+Persatukan, oh pemersatu
+Dari sengketa dan dari benci
+Yang memisahkan umatMu
+Jadikan kami abdi manusia
+Pembawa damaiMu suci
+'), ('KLK314', '314', 'YA TUHAN DENGARKANLAH', 'KLK', '1=G
+
+1. Ya Tuhan dengarkanlah
+Nestapa insan sejuta
+Menepi hidup ini dalam duka
+Terucap doa sembah
+Di ujung jalan derita
+PadaMu Kasih suci pasrah duru
+Bebaskanlah kami Tuhan
+
+2. Berkabung dalam sendu
+Memberat beban sengsara
+Terkapar tubuh lesu dalam papa
+Keman kan kau cari
+Ulurkan tangan memberi
+Mengharap dan menanti
+Tetes cinta
+Bebaskan kami Tuhan'), ('KLK315', '315', 'HOSANA (Oh Ina Ki Keke)', 'KLK', '1=B
+
+Hosana bagi Allah
+Dan bagi Roh Kudus
+Hosana bagi Yesus
+Sang Juruslamat
+Hosana Anak Allah
+Hosana pujilah
+Hosana Haleluya
+Hosana s|lamanya
+'), ('KLK316', '316', 'APA YANG DICARI ORANG', 'KLK', '1=E
+
+1. Apa yang dicari orang ? Uang
+Apa yang dicari orang ? Uang
+Apa yang dicari orang
+Siang malam pagi petang?
+Uang, uang, uang
+Uang, uang, uang
+
+2. Siapa yang dicari Tuhan ? saya
+Siapa yang dicari Tuhan ? saya
+Siapa yang dicari Tuhan ?
+Siang malam pagi petang
+Saya, saya, saya
+Orang yang berdosa'), ('KLK317', '317', 'PERGILAH DENGAN SEJAHT|RA', 'KLK', '1=C
+
+1. Pergilah dengan sejaht|ra
+Umat Tuhan
+Pergilah dengan damai
+Menurut kasih Tuhan
+
+2. Pergilah dan berbuatlah
+Umat Tuhan
+Kasih Tuhan besertamu
+Pergi Tuhan besertamu
+Pergi dan berbuatlah
+'), ('KLK318', '318', 'TUHAN MEMBERI TUHAN MENGAMBIL', 'KLK', 'Theo Tahitoe
+1=A
+
+1. Kini harus dia pergi
+Tinggalkan semua
+Oh yang sungguh dia kasihi
+Walau hati tak ingin
+Perpisahan ini
+Tuhan panggil harus ia ikut
+
+Ref:
+(Ku ta|u)
+Tuhan memberi, Tuhan mengambil
+Mau bagaimanalah
+jangan sedih jangan gelisah
+Kasih Yesus ada
+(Janganlah)
+Janganlah kesedihan terlalu
+Menemani hidupmu
+Ingatlah mereka yang di sisimu
+Yang masih harap kasihMu
+
+2. Kini lenyap sudah
+Suka maupun duka
+Yang dia rasa di dunia
+Bapa panggil dia pulang
+Ke tempat yang senang
+Ke istana rumah BapaNya
+'), ('KLK319', '319', 'KJ 363 BAGI YESUS KUSERAHKAN', 'KLK', '1=D
+
+1. Bagi Yesus kuserahkan hidupku seluruhnya; hati dan
+perbuatanku, pun waktuku milikNya. Bagi Yesus semuanya,
+pun waktuku milikNya. Bagi Yesus semuanya, pun
+waktuku milikNya.
+
+2. Tanganku kerja bagiNya, kakiku mengikutNya; mataku
+memandang Yesus; yang kupuji Dialah! Bagi Yesus semuanya,
+yang kupuji Dialah! Bagi Yesus semuanya, yang kupuji Dialah!
+
+3. Ya, sejak kupandang Yesus, kutinggalkan dosaku; pada Dia |ku terpaut,
+Dia Jurus|lamatku. Bagi Yesus semuanya, Dia Jurus|lamatku.
+Bagi Yesus semuanya, Dia Jurus|lamatku.
+
+4. O, betapa mengagumkan! Maharaja semesta mau memanggilku
+sahabat; aku dilindungiNya! Bagi Yesus semuanya aku dilindungiNya!
+Bagi Yesus semuanya; aku dilindungiNya!'), ('KLK320', '320', 'KJ 396 YESUS SEGALA-GALANYA', 'KLK', '1=E
+
+1. Yesus segala-galanya, Mentari hidupku. Sehari-hari
+Dialah Penopang yang teguh. Bila |ku susah, berkesah,
+Aku pergi kepadaNya: Sandaranku, Penghiburku, Sobatku.
+
+2. Yesus segala-galanya, Kawanku abadi; setiap datang padaNya,
+berkatNya diberi. Surya dan hujan berselang, hasil
+tanaman dan kembang: semuanya karunia Sobatku.
+
+3. Yesus segala-galanya, setia padaku; tak akan |ku
+menyangkalNya, Teman setiaku. BersamaNya |ku tak
+sesat, Ia menjagaku tetap: Ia tetap Kawan erat, Sobatku.
+
+4. Yesus segala-galanya, Temanku terdekat; padaNya aku
+berserah sekarang dan tetap. Hidupku indah mulia,
+bersanmaNya bahagia, hidup kekal, kar|na kenal Sobatku.
+'), ('KLK321', '321', 'KJ 408 DI JALANKU KU DIIRING', 'KLK', '1=E
+
+1. Di jalanku |ku diiring oleh Yesus Tuhanku.
+Apakah yang kurang lagi, jika Dia Panduku?
+Diberi damai sorgawi, asal imanku teguh.
+Suka-duka dipakaiNya untuk kebaikanku;
+Suka-duka dipakaiNya untuk kebaikanku.
+
+2. Di jalanku yang berliku dihiburNya hatiku;
+bila tiba pencobaan dikuatkan imanku.
+Jika aku kehausan dan langkahku tak tetap,
+dari cadas didepanku datang air yang sedap;
+dari cadas didepanku datang air yang sedap.
+
+3. Di jalanku nyata sangat kasih Tuhan yang mesra.
+Dijanjikan perhentian di rumahNya yang baka.
+Jika jiwaku membubung meninggalkan dunia,
+Kunyanyikan tak hentinya kasih dan pimpinanNya;
+Kunyanyikan tak hentinya kasih dan pimpinanNya.
+'), ('KLK322', '322', 'KJ 410 TENANGLAH KINI HATIKU', 'KLK', '1=D
+
+1. Tenanglah kini hatiku: Tuhan memimpin langkahku.
+Di tiap saat dan kerja tetap kurasa tanganNya.
+Tuhanlah yang membimbingku; tanganku dipegang teguh.
+Hatiku berserah penuh; tanganku dipegang teguh.
+
+2. Di malam yang gelap benar, di taman indah dan segar,
+di taupan dan di laut tenang tetap tanganku dipegang.
+Tuhanlah yang membimbingku; tanganku dipegang teguh.
+Hatiku berserah penuh; tanganku dipegang teguh.
+
+3. Tak kusesalkan hidupku, betapa juga nasibku,
+sebab Engkau dekat, tanganMu kupegang erat.
+Tuhanlah yang membimbingku; tanganku dipegang teguh.
+Hatiku berserah penuh; tanganku dipegang teguh.
+
+4. |Pabila tamat tugasku, kaub|rikan kemenanganMu;
+tak kutakuti maut eram, sebab tanganku Kaugenggam.
+Tuhanlah yang membimbingku; tanganku dipegang teguh.
+Hatiku berserah penuh; tanganku dipegang teguh.'), ('KLK323', '323', 'KJ 415 GEMBALA BAIK BERSULING NAN MERDU', 'KLK', '1=F
+
+1. Gembala baik, bersuling nan merdu, membimbing aku pada
+air tenang dan membaringkan aku berteduh di padang rumput
+hijau berkenan.
+O, Gembalaku itu Tuhanku, membuat aku tent|ram hening.
+Mengalir dalam sungai kasihku kuasa damai cerlang, bening.
+
+2. Kepada domba haus dan lesu Gembala baik memb|rikan
+air segar; ke dalam hati haus dan sendu dib|riNya
+air hidup yang benar.
+O, Gembalaku itu Tuhanku, membuat aku tent|ram hening.
+Mengalir dalam sungai kasihku kuasa damai cerlang, bening.
+
+3. Di jalan maut kelam sekalipun |ku tidak takut pada seteru,
+sebab Gembala adalah Teman dan Jurus|lamat bagi diriku.
+O, Gembalaku itu Tuhanku, membuat aku tent|ram hening.
+Mengalir dalam sungai kasihku kuasa damai cerlang, bening.'), ('KLK324', '324', 'KJ 418 BAHT|RA DI PANDU YESUS', 'KLK', '1=D
+
+1. Baht|ra yang dipandu Yesus, panji salib tandanya,
+itu baht|ra kes|lamatan bagi orang yang resah.
+Meskipun badai menyesah dan ombak menderu,
+Dipandu Tuhan baht|raNya ke pantai yang teduh.
+
+2. Hai pedosa, mari lihat panji salib terbentang!
+Ikut baht|ra Jurus|lamat, agar jangan tenggelam!
+Meskipun badai menyesah dan ombak menderu,
+Dipandu Tuhan baht|raNya ke pantai yang teduh.
+
+3. Matahari tampak lagi, badai topan pun reda;
+bunyi riak mengiringi lagu doa yang lega.
+Bersyukurlah dan angkatlah nyanyian yang merdu:
+Dipandu Tuhan baht|raNya ke pantai yang teduh!'), ('KLK325', '325', 'KJ 450 HIDUP KITA YANG BENAR', 'KLK', '1=Bes
+
+1. Hidup kita yang benar haruslah mengucap syukur.
+Dalam Kristus bergemar; janganlah tekebur.
+Dalam susah pun senang; dalam segala hal
+Aku bermazmur dan ucap syukur; itu kehendakNya!
+
+2. Biar badai menyerang, biar ombak menyerang,
+aku akan bersyukur kepada Tuhanku.
+Dalam susah pun senang; dalam segala hal
+Aku bermazmur dan ucap syukur; itu kehendakNya!
+
+3. Apa arti hidupmu? Bukankah ungkapan syukur,
+kar|na Kristus, Penebus, berkurban bagimu!
+Dalam susah pun senang; dalam segala hal
+Aku bermazmur dan ucap syukur; itu kehendakNya!
+
+4. Bertekun bersykurlah hingga suaraNya kaudengar:
+$Sungguh indah anakKu, ungkapan syukurmu.$
+Dalam susah pun senang; dalam segala hal
+Aku bermazmur dan ucap syukur; itu kehendakNya!
+
+5. Tuhan Yesus, tolonglah, sempurnakan syukurku.
+Roh Kudus berkuasalah di dalam hidupku!
+Dalam susah pun senang; dalam segala hal
+Aku bermazmur dan ucap syukur; itu kehendakNya!'), ('KLK326', '326', 'KJ 183 MENJULANG NYATA', 'KLK', '1=C
+
+1. Menjulang nyata atas bukit kala t|rang benderang salibMu, Tuhanku.
+Dari sinarnya yang menyala-nyala memancarkan kasih agung dan restu.
+Seluruh umat insan menengadah ke arah cahya kasih yang mesra.
+Bagai pelaut yang karam merindukan di ufuk timur pagi merekah.
+
+2. SalibMu, Kristus, tanda pengasihan mengangkat hati yang remuk redam,
+membuat dosa yang terperikan di lubuk cinta Tuhan terbenam.
+Di dalam Tuhan kami balik lahir, insan bernoda kini berseri,
+Teruras darah suci yang mengalir di salib pada bukit Kalvari.'), ('KLK327', '327', 'KJ 194 DIKAU YANG BANGKIT', 'KLK', '1=D
+
+1. Dikau, Yang Bangkit, mahamulia! Dikaulah abadi jaya dan megah!
+Turun malak sorga putih cemerlang; kubur ia buka, tanda Kau menang.
+Dikau, Yang Bangkit, mahamulia! Dikaulah abadi jaya dan megah!
+
+2. Lihatlah Dia, Yesus, Tuhanmu! Dialah Mesias; yakinlah teguh!
+Mari, umat Tuhan, bergembiralah! Bertekun maklumkan kemenanganNya!
+Dikau, Yang Bangkit, mahamulia! Dikaulah abadi jaya dan megah!
+
+3. Tuhanku hidup takut pun lenyap. Dia Junjunganku, Damaiku tetap.
+Yesuslah Kuatku, Kemenanganku, Yesus Hidupku, Kemuliaanku!
+Dikau, Yang Bangkit, mahamulia! Dikaulah abadi jaya dan megah!'), ('KLK328', '328', 'KJ 367 PADAMU TUHAN DAN ALLAHKU', 'KLK', '1=C
+
+1. PadaMu, Tuhan dan Allahku, kupersembahkan hidupku:
+dariMu jiwa dan ragaku, hanya dalamMu |ku teduh.
+Hatiku yang Engkau pulihkan padaMu juga kuberikan.
+
+2. Di dalam Yesus Kaunyatakan, ya Bapa, isi hatiMu:
+curahan kasih, kesukaan Engkau limpahkan bagiku.
+Andaikan orang menyadari, niscaya, Tuhan, Kau dicari.
+
+3. Kumuliakan kuasa kasih, yang dalam Yesus terjelma;
+|ku berserah sebulat hati di dalam arus rahmatNya.
+Diriku tak kuingat lagi, lautan kasih kuselami.
+
+4. Betapa Kau mencari aku, hatiMu rindu padaku.
+Kauraih aku kepadaMu membuat aku milikMu.
+Diriku sudah Kaukasihi, Kau jualah yang aku pilih.
+
+5. NamaMu, Yesus, suci agung, ya Sumber kasih kurnia;
+padamu datanglah umatMu mencari hidup yang baka.
+Yang bertelut bertadah-tangan, berlimpah-limpah Kaukenyangkan.
+
+6. Ya Yesus, namaMu kiranya dalam hatiku tertera, supaya
+dalam hidupku nyatalah: Seluruh kata dan
+kerjaku biar penuh dengan namaMu.
+'), ('KLK329', '329', 'KJ 387 KU HERAN ALLAH MAU MEMBERI', 'KLK', '1=D
+
+1. |Ku heran, Allah mau memb|ri rahmatNya padaku
+dan Kristus sudi menebus yang hina bagaiku!
+Namun |ku tahu yang kupercaya dan aku yakin
+|kan kuasaNya, Ia menjaga yang kutaruhkan hingga hariNya kelak!
+
+2. |Ku heran, oleh rahmatNya. Hatiku beriman
+dan oleh kuasa SabdaNya jiwaku pun tent|ram.
+Namun |ku tahu yang kupercaya dan aku yakin
+|kan kuasaNya, Ia menjaga yang kutaruhkan hingga hariNya kelak!
+
+3. |Ku heran, oleh Roh Kudus |ku sadar dosaku
+dan dalam Firman kukenal sipa Penebus.
+Namun |ku tahu yang kupercaya dan aku yakin
+|kan kuasaNya, Ia menjaga yang kutaruhkan hingga hariNya kelak!
+
+4. Seluruh jalan hidupku tetap rahasia
+seb|lum |ku jumpa ajalku dan nampak wajahNya.
+Namun |ku tahu yang kupercaya dan aku yakin
+|kan kuasaNya, Ia menjaga yang kutaruhkan hingga hariNya kelak!
+
+5. Ku tidak tahu harinya k|lak kembali Tuhanku,
+|ku sudah mati ataukah |ku langsung bertemu.
+Namun |ku tahu yang kupercaya dan aku yakin
+|kan kuasaNya, Ia menjaga yang kutaruhkan hingga hariNya kelak!'), ('KLK330', '330', 'KJ 425 BERKUMANDANG SUARA DARI SEBERANG', 'KLK', '1=G
+
+1. Berkumandang suara dari seberang, $Kirimlah cahyamu!$
+Banyak jiwa dalam dosa mengerang, $Kirimlah cahyamu!$
+Kirimlah pelita Injili menyentak yang terlelap.
+Kirimlah pelita Injili menyentak yang terlelap.
+
+2. Kita t|lah dengar jeritan dari jauh, $Kirimlah cahyamu!$
+Bantuanmu b|rikan, janganlah jemu, $Kirimlah cahyamu!$
+Kirimlah pelita Injili menyentak yang terlelap.
+Kirimlah pelita Injili menyentak yang terlelap.
+
+3. Jangan kita tinggal diam mendengar: $Kirimlah cahyamu!$
+Injil Tuhan haruslah kita sebar, $Kirimlah cahyamu!$
+Kirimlah pelita Injili menyentak yang terlelap.
+Kirimlah pelita Injili menyentak yang terlelap.'), ('KLK331', '331', 'KJ 457 YA TUHAN TIAP JAM', 'KLK', '1=G
+
+1. Ya Tuhan, tiap jam |ku memerlukanMu,
+Engkaulah yang memb|ri sejahtera penuh.
+Setiap jam, ya Tuhan, Dikau kuperlukan;
+|ku datang, Jurus|lamat, berkatilah!
+
+2. Ya Tuhan, tiap jam dampingi hambaMu;
+jikalau Kau dekat, enyah penggodaku.
+Setiap jam, ya Tuhan, Dikau kuperlukan;
+|ku datang, Jurus|lamat, berkatilah!
+
+3. Ya Tuhan, tiap jam, di suka-dukaku,
+jikalau Tuhan jauh, percuma hidupku.
+Setiap jam, ya Tuhan, Dikau kuperlukan;
+|ku datang, Jurus|lamat, berkatilah!
+
+4. Ya Tuhan, tiap jam ajarkan maksudMu;
+b|ri janjiMu genap di dalam hidupku.
+Setiap jam, ya Tuhan, Dikau kuperlukan;
+|ku datang, Jurus|lamat, berkatilah!
+
+5. Ya Tuhan, tiap jam kupuji namaMu;
+Tuhanku yang kudus, kekal |ku milikMu!
+Setiap jam, ya Tuhan, Dikau kuperlukan;
+|ku datang, Jurus|lamat, berkatilah!'), ('KLK332', '332', 'AKU HENDAK BERSYUKUR', 'KLK', '1=E
+
+1. Aku hendak bersyukur kepadaMu
+Dengan segenap hatiku
+Aku selalu bersujud
+Ke arah baitMu yang kudus
+
+Ref:
+Sebab kasih setiaMu Tuhan
+Sebab kasih setiaMu
+JanjiMu Tuhan
+Melebihi segalanya
+Dan ku bersyukur
+
+2. Aku hendak bersyukur
+Sebab setiaMu kepadaku
+Aku selalu bernyanyi
+Tentang perbuatan tanganMu
+Yang ajaib
+'), ('KLK333', '333', 'TUHAN AKU RINDU', 'KLK', '
+Tuhan aku rindu
+Tuhan aku siap
+Penuhi aku dengan RohMu
+Ku rindu lawatanMu
+Ku rindukan
+Kau hadir disini
+Saat ini Yesus
+Ku rindukan Rohmu mengurapi
+Saat ini Tuhan
+'), ('KLK334', '334', 'ALLAH ITU BAIK', 'KLK', '1=A
+
+Allah itu baik
+Sungguh baik bagiku
+Ditunjukkannya, kasih setiaNya
+Dia menyediakan
+Yang ku perlukan
+Menyatakan kebaikan
+Menyatakan kebaikan
+Menyatakan kebaikanNya padaku
+Kasih setiaNya
+Tak pernah berubah
+Dulu, s|karang
+dan selamanya
+Ajaiblah kuasa dalam NamaNya
+Yesusku luar biasa'), ('KLK335', '335', 'KALA KU CARI', 'KLK', '1=G
+
+Kala ku cari damai
+Hanya ku dapat dalam Yesus
+Kala ku cari ketenangan
+Hanya ku temui di dalam Yesus
+Tak satupun dapat menghiburku
+Tak seorangpun dapat menolongku
+Hanya Yesus jawaban hidupku
+Bersama Dia hatiku damai
+Walau dalam lembah kekelaman
+Bersama Dia hatiku tenang
+Walau hidup penuh tantangan
+Tak satupun dapat menghiburku
+Tak seorangpun dapat menolongku
+Hanya Yesus jawaban hidupku'), ('KLK336', '336', 'INDAH RENCANAMU TUHAN', 'KLK', '1=C
+
+Indah rencanaMu Tuhan
+Di dalam hidupku walau ku tak tau
+Dan ku tak mengerti semua jalanMu
+Dulu ku tak tau Tuhan
+Berat ku rasakan, hati menderita
+Dan ku tak berdaya
+Menghadapi semua
+
+Ref:
+Tapi ku mengerti sekarang
+Kau tolong padaku
+Kini ku melihat dan ku merasakan
+Indah rencanaMu
+(kembali ke reff:)'), ('KLK337', '337', 'INILAH YANG KURENUNGKAN', 'KLK', '1=G
+
+Ya Tuhanku
+Aku hendak bernyanyi bagiMu
+Selama ku hidup
+Ya Tuhanku aku hendak bermazmur bagiMu
+Selagi ku ada
+Inilah yang ku renungkan setiap waktu
+Nyanyian pujian dan
+Pengagungan, KepadaMu
+Biarlah manis Kau dengar Tuhan
+Manis Kau dengar Tuhan
+Dan hatiku bersuka karenaMu'), ('KLK338', '338', 'BAHASA KASIH', 'KLK', '1=E
+
+1. Andaikan aku lakukan
+Yang luhur mulia
+Tapi jika tanpa kasih
+Hampa tak berguna
+
+Ref:
+Ajarilah kami
+Bahasa kasihMu
+agar kami dekat padaMu
+Ya Tuhanku
+
+2. Kasih itu lemah lembut
+Sabar, sederhana
+Kasih itu murah hati,
+Rela menderita
+
+3. Andaikan aku pahami
+Bahasa semua
+Hanyalah bahasa kasih
+Kunci tiap hati'), ('KLK339', '339', 'BERTEMU DALAM KASIHNYA', 'KLK', '1=G
+
+Bertemu dalam kasihnya
+Berkumpul dalam anugerahNya
+Bersukacita semua
+Di dalam rumah Tuhan
+
+Ref:
+Oh saudaraku dan saudariku
+Tuhan cinta
+dan Mengasihimu
+Mari bersukacita semua
+Di dalam rumah Tuhan'), ('KLK340', '340', 'LEBIH TINGGI DARI GUNUNG', 'KLK', '1=G
+
+1. Lebih tinggi dari gunung
+Lebih dalam dari lautan
+Lebih luas dari samudera
+Itulah kasih Tuhanku
+
+2. Karuniai aku akan kasihMu
+Yang dunia tiada miliki
+AnugerahMu mengubah hidupku
+Seturut dengan kasihMu
+
+Ref:
+Hangatkanlah hati kami
+Ya Tuhan
+Dengan kasihMu
+Yang tulus dan suci
+Untuk mengabdi
+K|pada panggilanmu
+Di dalam kehidupan dunia ini
+KasihMu...
+Adalah segala-galanya
+KasihMu jawabannya'), ('KLK341', '341', 'SEKALIPUN POHON ARA', 'KLK', '1=C
+Hab.3.17-Hab.3.18
+
+Sekalipun pohon ara tidak berbunga
+Pohon anggur tidak berbuah
+Hasil pohon zaitun mengecewakan
+Ladang-ladang tidak menghasilkan
+Kambing domba terhalau dari kurungan
+Dan tidak ada lembu sapi dalam kandang
+Namun aku akan bersorak sorak
+di dalam Tuhan
+Beria-ria di dalam Allah
+Yang menyelamatkanku'), ('KLK342', '342', 'KASIH YANG ABADI', 'KLK', '1=C
+
+1. Kasih Yesus lebih dari semua
+Lebih dalam dari lautan
+Dan lebih lebar dari samudra
+Kasih Yesus lebih dari semua
+
+Ref:
+Tiadalah kasih yang lebih suci
+Tiada kasih lebih sempurna
+Tiada kasih yang lebih abadi
+Dari kasih Yesus Tuhanku
+
+2. Oleh kasih Yesusku ditebus
+Dengan menanggung genap sengsara
+Yesus mati menggantikan saya
+Sehingga kini ku bebaslah'), ('KLK343', '343', 'TONGKAT DAN MENARA', 'KLK', '1=A
+
+1. Mintalah tolongan dari TuhanMu
+Akan jalan kehidupanmu
+Mintalah dengan beriman yang teguh
+Tuhan klak kabulkan padamu
+
+Ref:
+TuhanHu sajalah
+Perlindunganmu
+Dialah Raja dan penolonganmu
+Selamanya Tuhan besertaku
+Jadi menara dan tongkat jalanku
+
+2. Yakinlah jalanmu penuh bahaya
+Dalam dunia yang indah mulia
+Kar|na itu cari Tuhan Bapamu
+Yang menjadi tongkat jalanmu'), ('KLK344', '344', 'OPO WANNA NATAS', 'KLK', '1=C
+
+1. Opo wana natase
+Tembone se mengalei-ngalei
+Tembone se mengalei-ngalei
+Pakatuan pakalawiren
+
+2. Kuramo kalalei langit
+Tentumo kalalei intana
+Kuramo kalalei untama
+Tentumo kalalei ta intou
+
+Ref:
+Nikita intou karia
+Enimapasu|at uman
+Enimapasuat uman karia
+Wia si opo wana natas
+Si opo wananatas
+Sia si matau ampeleng
+Sia si matau ampeleng
+Ma muali wiambawoin tana'), ('KLK345', '345', 'RUMAH DOA', 'KLK', '1=D
+
+Ku bawa hidupku skarang
+Ke tempat kudusMu Tuhan
+Di mezbahMu ku serahkan
+Seluruh hidupku
+Penuhi hatiku s|karang
+Dengan urapan yang baru
+Agar aku lebih lagi
+Mendengar suaraMu
+jadikan aku Tuhan
+Rumah doaMu
+Agar semua suku bangsa
+Datang menyembahMu
+'), ('KLK346', '346', 'KAU YANG TERINDAH', 'KLK', '1=G
+
+Kau yang terindah
+Di dalam hidup ini
+Tiada Allah Tuhan
+Yang seperti engkau
+Besar perkasa
+Penuh kemuliaan
+Kau yang termanis
+Di dalam hidup ini
+Ku cinta Kau
+Lebih dari segalanya
+Besar kasih setiaMu kepadaku
+
+Ref:
+Ku sembah Kau.... Ya Allahku
+Ku tinggikan NamaMu selalu
+Tiada lutut tak bertelut
+Menyembah Yesus
+Tuhan Rajaku
+Ku sembah
+Kau Ya Allahku
+Ku tinggikan, namaMu selalu
+Semua lidah kan mengaku
+Engkaulah Yesus Tuhan Rajaku
+Engkaulah Yesus Juruslamatku'), ('KLK347', '347', 'HANYA DEKAT KASIHMU BAPA', 'KLK', '1=G
+
+Hanya dekat kasihMu Bapa
+Jiwaku pun tentram
+Engkau menerimaku
+Dengan sepenuhnya
+Walau dunia melihat rupa
+Namun Kau memandangku
+Sampai kedalaman hatiku
+
+Ref:
+Tuhan inilah yang ku tahu
+Kau mengenal hatiku
+Jauh melebihi semua
+Yang terdekat sekalipun
+Tuhan inilah yang ku mau
+Kau menjaga hatiku
+Supaya kehidupan
+Memancar senantiasa'), ('KLK348', '348', 'BERTOBATLAH', 'KLK', '1=A
+
+Bertobatlah dan balik pada Bapa
+Dia tunggu kau dengan kesetiaanNya
+Tuhan mau mengampuni dosamu
+
+Ref:
+Oh baliklah pada Allah
+Oh baliklah pada Allah
+Jangan lambat hai sobatku
+Tuhan tunggu kepadamu
+Oh baliklah pada Allah'), ('KLK349', '349', 'MASA MUDA SUNGGUH SENANG', 'KLK', '1=A
+
+Masa muda sungguh senang
+Jiwa penuh dengan sukacita
+Bagai api yang tak kunjung padam
+Selalu membara dalam hati
+Masa muda
+Sungguh senang
+Ku b|rikan padaMu oh Tuhan
+Apa yang ada pada diriku
+Ku s|rahkan
+Untuk kemuliaanMu
+
+Ref:
+Masa mudaku
+Masa yang terindah
+Masa Tuhan memanggilku
+Masa mudaku
+Masa yang ku kenang
+Kutinggalkan semua dosaku
+Sya... la... la... la.. la'), ('KLK350', '350', 'KANAAN', 'KLK', '
+1. Kanaan, Kanaan, Kanaan
+Ke tempat yang indah senang
+Marilah kita ke seb|rang
+Ke negeri yang indah senang
+
+2. Yesus Tuhanku dialah saja
+Biar Dia pimpinku selamanya
+Waktu Dia usir awan yang gelap
+Lantas ku lihat Tuhan
+'), ('KLK351', '351', 'SUNGAI SUKACITA', 'KLK', '1=F
+
+Sungai sukacitaMu
+Mengalir dalamku
+Anggur sukacitaMu
+Melimpah dalamku
+Ku menari dan bersuka
+Puji Hu di setiap waktu
+Sebab sungai sukacitaMu
+ada dalamku
+
+Ref:
+Mengalir bersamaMu
+Bersuka di dalamMu
+MengikutiMu Tuhan
+Dalam kegerakanMu
+MelayaniMu Tuhan di dalam
+sukacitaMu
+S|bab hanya Tuhan
+Yang membuat sukacitaku penuh'), ('KLK352', '352', 'YESUS TUHAN DAN ALLAH KAMI', 'KLK', '1=D
+
+Yesus Tuhan dan Allah kami
+Engkau layak menerima pujian
+Hormat dan kuasa
+S|bab Kau t|lah ciptakan segalanya
+Oleh karena kehendakMu
+Semuanya itu telah ada
+Dan diciptakan untuk kemuliaanMu
+terpujial Tuhan
+Hosana... terpujilah Tuhan
+Terpujilah Tuhan Yesus
+Terpujilah Tuhan Yesus'), ('KLK353', '353', 'KEBAJIKAN KEMURAHAN', 'KLK', '1=C
+
+Kebajikan kemurahan
+Mengikuti aku
+sepanjang umur hidupku
+Ku kan diam dalam
+Rumah Tuhan selamanya
+Dan menikmati hidangan
+Yang disediakan
+Kebajikan, Kemurahan
+Mengikuti aku
+Sepanjang umur hidupku
+'), ('KLK354', '354', 'LAIN DULU LAIN SEKARANG', 'KLK', '1=G
+
+1. Dulu aku jauh jauh dari jalan Tuhan
+Orang yang terhilang serta penuh dengan dosa
+Tiba tiba ku dengar
+Suara Tuhan memanggilku
+Aku melangkah, menuju rumah Bapaku
+
+Ref:
+Lain dulu lain sekarang, kini ku hidup
+Di dalam Tuhan, yang penuh damai
+Dan penuh sentosa, ku merasakan
+lain dulu lain sekarang, kini ku hidup
+DI dalam Tuhan
+Berkat yang melimpah
+DiberikanNya, terima kasih Tuhan
+
+2. Bercak noda tlah hilang dari diriku
+Belenggu dosa, kini telah ku tinggalkan
+Yang terkasih, di dalam diriku
+Hilang sudah, kini ku datang
+Menghadap hadiratMu Tuhan'), ('KLK355', '355', 'PERSEMBAHAN YANG ATERO', 'KLK', '1=A
+
+1. Genap t|lah ku serahkan, ya Tuhanku
+Genap t|lah ku serahkan, padaMu
+Di mezbah terletak, kurban ku s|kalian
+Diluruskan Tuhan, ku berserah
+
+2. G|nap tlah ku serahkan, tubuh jiwa
+G|nap yang padaku, ya padamu
+Sabdalah padaku, ku mau iringi dikau
+S|karang dan selamanya, iring Tuhan
+
+3. G|nap t|lah ku serahkan ku milikMu
+G|nap t|lah ku serahkan penebusku
+Yang hidup di dalamku
+Semua yang dalam Mu
+Bukanlah ku ya Hu, hanya Dikau.'), ('KLK356', '356', 'KU SEMBAHYANG YA BAPA', 'KLK', '1=C
+
+Ku sembahyang ya Bapa
+Tolong aku anakMu
+Dunia penuh susah dan dosa,
+aduh kasihan jiwaku
+Aku sadar ya Bapa, Aku telah bersalah
+Kini aku rindu kembali
+Tuhan t|rimalah hambaMu'), ('KLK357', '357', 'KAU SANGAT KU CINTA', 'KLK', '1=A
+
+Besyukur selalu bagi kasihMu
+Di dalam hidupku
+Tak kan ku ragu atas rencanaMu
+Tuk masa depanku
+S|bagai Bapa yang baik
+Takkan pernah Kau melupakanku
+S|bagai Bapa yang sangat baik
+Takkan pernah Kau meninggalkanku
+
+Ref:
+Ku kan menari dan bersuka
+Kar|naMu oh Yesusku
+Dan ku kan minum airMu
+Bagai rusa rindu selalu
+Ku hidup dalamMu
+dan hidupMu di dalamku
+oh Yesusku
+Kau sangat ku cinta'), ('KLK358', '358', 'SATU HAL YANG KU RINDU', 'KLK', '1=G
+
+Satu hal yang ku rindu
+Berdiam di dalam rumahMu
+Satu hal yang ku pinta
+Menikmati baitMu Tuhan
+
+Ref: 
+Lebih baik satu hari di pelataranMu
+Daripada seribu hari di tempat lain
+MemujiMu menyembahMu
+Kau Allah yang hidup
+Dan menikmati
+Semua kemurahanMu'), ('KLK359', '359', 'KECAPLAH DAN LIHATLAH', 'KLK', '1=D
+
+Kecaplah dan lihatlah
+Betapa baiknya Tuhan itu
+Rasakan dan nikmati
+Kasih setia Tuhan (2x)
+
+Ref:
+Syukur bagiMu Tuhan,
+S|gala hormat bagiMu Tuhan
+Allah yang mengasihiku
+Allah yang memeliharaku
+Selamanya'), ('KLK360', '360', 'DIA SANGGUP', 'KLK', '1=F, 1=G
+
+Yesus Tuhan mulialah nama-Mu
+Yesus Allahku besar kuasa-Nya
+Dahulu, sekarang dan sampai selamanya
+Kuasa-Nya tak pernah berubah
+
+Ref:
+Dia sanggup Yesus sanggup
+Melakukan perkara yang besar
+Dia sanggup, Yesus sanggup
+Memulihkan yang terluka
+Menyembuhkan yang menderita
+Dia sanggup memulihkan hidupku'), ('KLK361', '361', 'TUNJUKKAN KUASAMU', 'KLK', '1=C
+
+Berdirinya negeri ini Tuhan
+Atas kehendakMu
+Tak tertutup di hadapnMu
+Ya Tuhan dukanya Tanah ini
+Bukankah Tuhan, melihat
+Di setiap hati yang resah
+Kekudusan yang punyaMu
+Semakin jauh jauh dari hidup ini
+
+Ref:
+Di negeri ini Tuhan, Di tanah ini Tuhan
+Bapa jangan biarkan
+Kabut cela noda dosa
+Seakan melebihi kuasaMu
+Tunjukkan kuasa yang ada di tanganMu
+Tunjukkanlah Tuhan
+Agar kami dapat mengerti dan mengerti
+Besar kuasaMu'), ('KLK362', '362', 'KU SADARI', 'KLK', '1=E
+
+1. Di saat kebimbangan, di saat ku tersesat
+Ku sadari gelapnya jalanku
+Semua tak menentu, Jalan hidupku ini
+Hanya Yesus terang dan jalanku
+
+
+2. Kini t|lah ku sadari
+Jalan yang ku lalui
+Semuanya hanya sementara
+Satu jalan yang pasti
+Hidup bersama Yesus
+Damai selalu iringi langkahku
+
+Ref:
+Kasihnya, setia bagiku
+Kasihnya, memberi pertolongan
+Kasihnya, tercurah setiap saat
+Saatku bimbang, saatku sesat
+Saat itu kasih Yesus datang'), ('KLK363', '363', 'AKU BERJANJI', 'KLK', '1=E
+
+Berderai airmata, mengenang masa lalu
+Yang hidup penuh kegelapan
+Menyesal kini daku
+Mengapa semua ini
+Terjadi di dalam kehidupanku
+
+Ref:
+Kini ku datang padaMu Tuhan
+Hamba yang hina, hamba yang sesat
+Bersujud memohon ampunMu
+Kini, ku harap dariMu Tuhan
+Kasih yang suci, terang abadi
+Mengiringi langkah hidupku
+Aku berjanji, padaMu Tuhan
+Hidupku melangkah
+Hanya di jalanMu'), ('KLK364', '364', 'BAPA YANG KEKAL', 'KLK', '1=C
+
+Kasih yang sempurna
+Telah ku trima dariMu
+Bukan karna kebaikanku
+Hanya oleh kasih karuniaMu
+Kau pulihkan aku, Layakkan ku
+Tuk dapat memanggilMu Bapa
+
+Ref:
+Kau bri yang ku pinta
+Saat ku mencari ku mendapatkan
+Ku ketuk pintuMu dan Kau bukakan
+S|bab Kau Bapaku,
+Bapa yang kekal
+Takkan Kau biarkan
+Aku melangkah hanya sendirian
+Kau selalu ada bagiku
+Sbab Kau Bapaku, Bapa yang kekal'), ('KLK365', '365', 'TIADA SOBAT YANG SEPERTI YESUS', 'KLK', '1=C
+
+Tiada sobat yang sperti Yesus
+Tiada sobat yang sebaik Dia
+Tiada sobat yang dapat selamatkan saya
+Oh betapa kasihNya'), ('KLK366', '366', 'PADAMU TUHAN', 'KLK', '1=E
+
+1. Padamu Tuhan, ku angkat jiwaku (2x)
+
+Ref:
+Allahku, Allahku ku percaya
+Janganlah ku malu dan
+Janganlah musuhku girang atasku
+
+2. Yang takut Tuhan, jadi sahabatNya (2x)
+'), ('KLK367', '367', 'YESUS ITULAH JURUS|LAMATKU', 'KLK', '1=C
+
+Yesus itulah, Jurus|lamatku,
+Yesus itulah Allahku
+Dia mati dan bangkit, T|rus ke surga mulia
+Dan sembahyang buat saya s|lamanya
+'), ('KLK368', '368', 'JANJIMU S|PERTI FAJAR', 'KLK', '1=F
+
+1. Ketika ku hadapi kehidupan ini
+Jalan mana yang harus ku pilih
+Ku tahu ku tak mampu
+Ku tahu ku tak sanggup
+Hanya Kau Tuhan tempat jawabanku
+Akupun tahu ku tak pernah sendiri
+S|bab Engkau Allah yang menggendongku
+TanganMu membelaiku
+CintaMu Memuaskanku
+Kau mengangkatku
+Ke tempat yang tinggi
+
+Ref:
+Janjimu sperti fajar pagi hari
+Yang tiada pernah terlambat bersinar
+CintaMu sperti sungai yang mengalir
+Dan ku tau betapa dalam kasihMu'), ('KLK369', '369', 'SELIDIKI AKU', 'KLK', '1=D
+
+Selidiku aku lihat hatiku
+Apakah ku sungguh mengasihiMu Yesus
+Kau yang Maha Tahu dan menilai hidupku
+Tak ada yang tersembunyi bagiMu
+
+Ref:
+T|lah ku lihat kebaikanMu
+Yang tak pernah habis di hidupku
+Ku berjuang sampai akhirnya
+Kau dapati aku tetap setia'), ('KLK370', '370', 'KASIHMU TIADA DUANYA', 'KLK', '1=A
+
+Belum pernah ada kasih di dunia
+Sanggup menerima diriku apa adanya
+Selain kasihMu Yesus
+Takkan ada lagi kasih s|perti ini
+Sanggup mengubahkan hidupku
+Menjadi baru selain kasihMu Yesus
+
+Ref:
+Kau ku kagumi dalam hati
+KasihMu tiada duanya
+Sampai kini ku akui
+KasihMu tiada duanya'), ('KLK371', '371', 'FIRMANMU P|LITA BAGI KAKIKU', 'KLK', '1=E
+
+FirmanMu p|lita bagi kakiku
+Terang bagi jalanku
+FirmanMu p|lita bagi kakiku
+Terang bagi jalanku
+
+Ref:
+Di waktu ku bimbang
+Dan hilang jalanku
+Tetaplah Kau di sisiku
+Dan takkan ku takut
+Asal Kau di dekatku
+Besertaku selamanya'), ('KLK372', '372', 'BANGKIT S|RUKAN NAMA YESUS', 'KLK', '1=E
+
+Bangkit s|rukan nama Yesus
+Maju nyatakan kuasaNya
+Kita buat iblis gementar
+Kalahkan tipu dayanya
+Dengan kuasa namaNya
+
+Ref:
+Nama Yesus
+Menara yang kuat
+Nama Yesus
+Kota benteng yang teguh
+Nama Yesus
+Kalahkan semua musuh
+Nama Yesus di atas s|galanya'), ('KLK373', '373', 'YESUS KEKASIH JIWAKU', 'KLK', '1=F
+
+Yesus kekasih jiwaku
+Sungguh ku percaya padaMu
+karena kasihMu padaku
+Kau tebus dosaku
+Dari terbitnya matahari
+Dan sampai terbenamnya
+Ku angkat lagu pujian
+Tinggikan NamaMu
+Dengan gendang ku puji ku puji
+dengan kecapi ho ho
+Ku bernyanyi... Haleluya
+Yesus Kekasihku
+Sayang sayang disayang
+Aku disayang Tuhan
+Aku diangkat jadi anakNya
+Aku disayang Tuhan
+Glory... Glory... Glory... Haleluya
+Glory... Glory... Glory... Puji Tuhan (2x)
+'), ('KLK374', '374', 'TANGAN TUHAN MERENDA', 'KLK', '1=A
+
+Apa yang kau alami kini
+Mungkin tak dapat, engkau mengerti
+Satu hal tanamkan di hati
+Indah semua yang Tuhan bri
+Tuhanmu tak akan memberi
+Ular beracun, pada yang minta roti
+Cobaan yang engkau alami
+Tak melebihi, kekuatanmu
+
+Ref:
+Tangan Tuhan, sedang merenda
+Suatu karya, yang agung mulia
+Saatnya, kan tiba nanti
+Kau lihat, pelangi kasihNya'), ('KLK375', '375', 'KU MASUK RUANG MAHA KUDUS', 'KLK', '1=G
+
+Ku masuk ruang Maha Kudus
+Dengan darah Anak domba
+Ku masuk dengan hati tulus
+Menyembah yang Maha Kuasa
+
+Ref:
+Ku menyembahMu
+Ku sembahMu
+Ku menyembahMu
+Ku sembahMu
+S|bab NamaMu Kudus
+Kudus Tuhan
+S|bab NamaMu Kudus,
+Kudus Tuhan'), ('KLK376', '376', 'JALANMU TAK TERSELAMI', 'KLK', '1=C
+
+JalanMu tak terselami
+Oleh setiap hati kami
+Namun satu hal ku percaya
+Ada rencana yang indah
+Tiada terduga kasihMu
+Heran dan besar bagiku
+Arti kehadiranMu s|lalu
+Nyata di dalam hidupku
+
+Ref:
+PenyertaanMu sempurna
+RancanganMu penuh damai
+Aman dan sejahtera
+Walau di tengah badai
+Ingin ku s|lalu bersama
+Rasakan keindahan
+Arti kehadiranMu Tuhan'), ('KLK377', '377', 'SAAT KU RENUNGKAN', 'KLK', '1=E
+
+Saat ku renungkan
+Hidup bersamaMu
+Seringkali ku melupakanMu
+Ku berjalan sendiri, seakan ku mampu
+Lalui tanpa kekuatnMu
+S|makin berat beban hidupku
+S|makin ku menjauh darimu
+
+Ref:
+Namun ada cinta
+Yang tak pernah berlalu
+Cinta yang ku dapat dariMu
+T|llah teruji lalui
+Rentangan sang waktu
+Kau mati bagiku
+Berkorban untuk diriku'), ('KLK378', '378', 'ENGKAULAH KEKUATANKU', 'KLK', '1=C
+
+Engkaulah kekuatanku
+Tempat perlindunganku
+Saat badai menerpa
+Aku tak akan goyah (2x)
+S|bab Kau sertaku
+
+Ref:
+Sejauh langit dari bumi
+Begitu besarnya kasihMu
+Penuhi hati kami
+Yang rindu menyembahMu
+Yesus
+Sejauh langit dari bumi
+Begitu besarnya kasihMu
+Kaulah Tuhan kekuatanku
+Sukacitaku'), ('KLK379', '379', 'KU B|RIKAN HATIKU', 'KLK', '1=D
+
+Inilah rinduku kepadaMu
+Segnap hatiku menyembahMu
+Seluruh hidupku memujiMu
+Ku memuliakanMu
+Ya Allahku
+Ku b|rikan hatiku dan jiwaku
+Semuanya bagiMu
+Di dalam hidupku
+Di setiap waktu
+Nyatakan jalanMu'), ('KLK380', '380', 'KAU TELAH MEMILIHKU', 'KLK', '1=E
+
+Kau telah memilihku
+Sebelum dunia dibentuk
+Betapa aku bersyukur padaMu
+Ya Tuhan, Allahku
+Kau telah memanggilku
+Sebagai alat k|rajaan-Mu
+betapa aku bersyukur padaMu
+Atas perbuatanMu
+Jadikan aku bait suciMu
+Yang kudus...
+Dan yang tiada bercela
+Jadikan aku mezbah doaMu
+Bagi keselamatan bangsaku
+'), ('KLK381', '381', 'SUJUD DI ALTARNYA', 'KLK', '1=F
+
+Bila hati terasa berat
+Tak seorangpun mengerti bebanku
+Ku tanya Yesus, apa yang harus ku buat
+Dia berfirman, mari datanglah
+Dia selalu perdulikan aku
+Ku datang Yesus
+Dia pikul s|gala bebanku
+
+Ref:
+Sujud di altarNya
+Ku bawa hidupku
+Ku t|rima anugerahNya
+Dia ampuniku dan bebaskanku
+Dia ubah hidupku, baharui hatiku
+Sesuatu terjadi
+Saat datang di altarNya
+Mujizat terjadi
+Pemulihan terjadi
+Saat di altarNya'), ('KLK382', '382', 'HIDUPMU BERHARGA BAGI ALLAH', 'KLK', '1=C
+
+Hidupmu berharga bagi Allah
+Tiada yang tak berkenan di hadapanNya
+Dia yang ciptakan kau s|turut gambarnya
+Sungguh terlalu indah kau bagi Dia
+Dia berikan kasihNya bagi kita
+Dia tlah relakan segala-galanya
+Dia di salib tuk tebus dosa kita
+Kar|na hidupmu
+Sangatlah berharga
+Bulu yang terkulai
+Tak kan dipatahkanNya
+Dia kan jadikan indah,
+Sungguh lebih berharga
+Sumbu yang tlah pudar,
+takkan dipadamkanNya
+Dia kan jadikan indah
+Untuk kemuliaaNya'), ('KLK383', '383', 'S|PERTI RUSA YANG HAUS', 'KLK', '1=D, 1=E
+
+S|perti rusa yang haus
+Rindu aliran sungaiMu
+Hatiku tak tahan menungguMu
+Bagai tanah gersang
+Menanti datangNya hujan
+Begitupun jiwaku Tuhan
+S|bab hanya Engkau
+Pribadi yang mengenal hatiku
+Tiada yang tersembunyi bagiMu
+Sluruh isi hatiku Kau tahu
+Dan bawaku |tuk lebih dekat lagi padaMu
+Tinggal dalam indahnya
+Dekapan kasihMu'), ('KLK384', '384', 'BAGI TUHAN TAK ADA YANG MUSTAHIL', 'KLK', '1=D
+
+1. Ku yakin saat Kau berfirman
+Ku menang saat Kau bertindak
+Hidupku hanya ditentukan
+Oleh perkataan Mu
+
+2. Ku aman karna Kau menjaga
+Ku kuat karna Kau menopang
+Hidupku hanya ditentukan
+Oleh kuasa Mu
+
+Ref:
+Bagi Tuhan tak ada yang mustahil
+Bagi Tuhan tak ada yang tak mungkin
+MujizatNya disediakan bagiku
+Ku diangkat dan dipulihkanNya'), ('KLK385', '385', 'HATIKU PERCAYA', 'KLK', '1=C
+
+Saat ku tak melihat jalan Mu
+Saat ku tak mengerti rencana Mu
+Namun tetap ku pegang janji Mu
+Pengharapanku hanya pada Mu
+
+Ref:
+Hatiku percaya (3x)
+S|lalu ku percaya'), ('KLK386', '386', 'BUKAN DENGAN BARANG FANA', 'KLK', '1=F, 1=G
+
+Bukan dengan barang fana
+Kau membayar dosaku
+Dengan darah yang mahal
+Tiada noda dan cela
+Bukan dengan emas perak
+Kau menebus diriku
+Oleh segenap kasih
+Dan pengorbananMu
+
+Ref:
+Ku telah mati dan tinggalkan
+Cara hidupku yang lama
+Semuanya sia-sia
+Dan tak berarti lagi
+Hidup ini ku letakkan
+Pada mezbahMu ya Tuhan
+Jadilah padaku
+Seperti yang Kau ingini'), ('KLK387', '387', 'S|MUA BAIK', 'KLK', '1=G
+
+Dari semula, t|lah Kau tetapkan
+Hidupku di tanganMu
+Dalam rencanaMU Tuhan
+Rencana indah, tlah Kau siapkan
+Bagi masa depanku
+Yang penuh harapan
+
+Ref:
+S|mua baik, s|mua baik
+Apa yang tlah Kau perbuat
+Di dalam hidupku
+S|mua baik... Sungguh teramat baik
+Kau jadikan hidupku berarti'), ('KLK388', '388', 'BESAR ANUG|RAHMU', 'KLK', '1=E
+
+Ku ada sebagaimana ku ada
+Berdiri menghadap tahtaMu Bapa
+S|mua karena anugrahMu
+Yang telah selamatkanku
+Ku hidup...
+Dalam segala kelimpahan
+Ku layak
+Untuk melayani Tuhan
+Semua karena anugerahMu
+Tercurah bagiku
+
+Ref:
+Besar anugerahMu
+Berlimpah kasihMu
+Semakin hari,
+S|makin bertambah
+Besar anugerahMu'), ('KLK389', '389', 'KAU BAPA YANG BAIK', 'KLK', '1=F
+
+Kau Bapa yang baik s|lalu besertaku
+Setiap detik, setiap waktu
+Kau perhatikanku
+Kau Bapa yang setia s|lalu menjagaku
+Kau angkatku bila ku jatuh
+Kau menopangku
+Ku b|rikan syukurku buat kebaikanMu
+Ku b|rikan syukurku buat pertolonganMu
+Sbab Kau jadikanku
+Berharga di mataMu
+Kau Bapa yang baik
+Ku mengasihiMu'), ('KLK390', '390', 'LEBIH DALAM LAGI', 'KLK', '1=E, 1=F
+
+Satu hal yang ku rindukan ya Tuhan
+S|lalu berada di dekatMu
+Dengan segenap hati
+Dengan segenap jiwa
+Ku menanti di hadiratMu
+
+Ref:
+Lebih dalam lagi
+Ku rindu Kau Tuhan
+Lebih dari segala yang ada
+Lebih dalam lagi
+Ku cinta Kau Yesus
+Ku mengasihiMu'), ('KLK391', '391', 'JANGAN LELAH', 'KLK', '1=F
+
+Jangan lelah bekerja
+Di ladangNya Tuhan
+Roh Kudus yang b|ri kekuatan
+Yang mengajar dan menopang
+Tiada lelah bekerja bersamaMu Tuhan
+Yang selalu mencukupkan
+Akan segalanya
+
+Ref:
+Ratakan tanah bergelombang
+Timbunlah tanah yang berlubang
+Menjadi siap dibangun
+Di atas dasar iman'), ('KLK392', '392', 'KEMULIAANNYA T|LAH TURUN', 'KLK', '1=G, 1=Ab
+
+KemuliaanNya t|lah turun
+Di tempat ini
+Gereja Tuhan disatukan
+G|napi firmanNya
+KemuliaanNya dinyatakan
+Atas segala bangsa
+Lawatan Tuhan terjadi di sini
+
+Ref:
+KuasaNya dicurahkan
+BerkatNya dilimpahkan
+Penuaian besar sungguh terjadi
+Segala bangsa kan datang
+Menyembah Yesus Tuhan
+Kemuliaan Tuhan t|lah turun'), ('KLK393', '393', 'INGAT KASIHNYA', 'KLK', '1=E, 1=Eb
+
+Ingat kasihNya, ingat kebaikanNya
+Dan anugerahNya, slamatkanku
+S|bab kasihNya setinggi langit
+Kasih setia Allah pada kita
+Besar kasih Allah pada kita
+
+Ref:
+Ku takkan lupa kasihNya
+Ku takkan lupa anugerahNya
+Dia penuhkan
+Dia penuhkan
+Dia puaskan hasratku
+Besar kasih Allah pada kita'), ('KLK394', '394', 'KU BAWA KEPADAMU', 'KLK', '1=G
+
+Ku bawa kepadaMu ya Tuhan
+Persembahanku ini
+Ku ingin Engkau menerima
+Korban syukurku melalui pujian
+
+Ref:
+Tak kan pernah ku bawa
+Selain yang terbaik
+Yang harum dan sejati
+Di hadapan takhtaMu
+Yesusku terimalah
+Korban syukurku ini
+Yang mengalir di hatiku
+S|bagai persembahanku'), ('KLK395', '395', 'NYANYI DAN BERSORAKLAH', 'KLK', '1=G, 1=A
+
+Yesusku, Penyelamatku
+Tiada yang s|perti Engkau
+Setiap hari ku memuji
+Keajaiban kasihMu
+Penghibur, Pelindung
+Menara kekuatan
+Biarlah semua, yang bernafas
+Tak berhenti menyembahMu
+
+Ref:
+Nyanyi dan bersoraklah bagiNya
+Puji dan hormat kuasa bagi Raja
+Gunung tunduk laut bergelora
+Mendengar namaMu
+Ku bersuka atas perbuatanMu
+S|lamanya ku kasihi Engkau Tuhan
+Tiada janji s|perti yang ada padaMu'), ('KLK396', '396', 'TIADA S|PERTI KAU', 'KLK', '1=F, 1=G
+
+Tiada seperti Kau
+Yang tlah menjamah segenap hatiku
+Tak seorangpun di dalam hidup ini
+S|perti Kau Tuhan
+
+Ref:
+KasihMu sperti sungai mengalir
+KuasaMu menyembuhkan
+Airmatapun Engkau hapuskan
+Tiada s|perti Kau'), ('KLK397', '397', 'KU BERSYUKUR', 'KLK', '1=F, 1=G
+
+Ku bersyukur padaMu
+Tuhan atas kasihMu
+Ku bermazmur bagi namaMu yang kudus
+S|bab Engkau kebenaranku
+padaMu ku percaya,
+Betapa mulianya Tuhanku
+Ku rindu menyatakan
+
+Ref:
+Tinggikan diriMu, mengatasi langit
+KemuliaanMu Tuhan, mengatasi bumi
+Tinggikan diriMu, mengatasi langit
+KebesaranMu Tuhan mengatasi bumi'), ('KLK398', '398', 'API KEMULIAANYA', 'KLK', '1=E, 1=F
+
+Dengarkanlah suara nafiri
+Memanggil semua umatNya
+Dari sluruh penjuru bumi
+Datanglah untuk menyembah Dia
+Dengarkanlah suara nafiri
+Memanggil semua umatNya
+Gereja Tuhan bersatu kini
+Mengangkat tinggi panjiNya
+Bersiap maju janganlah lengah
+Yesus panglima kita
+Gunakan semua senjata Allah
+Dalam kuasa Roh Kudus
+
+Ref:
+Api kemuliaanNya
+Tercurah dari surga
+Penuhi kami semua
+Bangkitlah gerejaNya
+Api kemuliaanNya
+Tercurah dari surga
+B|ritakan pada dunia
+Bahwa Yesuslah
+Raja s|gala raja'), ('KLK399', '399', 'ALLAH BANGKIT BERSORAKLAH', 'KLK', '1=G, 1=A
+
+Kerahkan kekuatanMu yang Allah
+Tunjukanlah kuasaMu ya Tuhan
+Serakkan musuhMu,
+S|lamatkanlah umatMu
+Allah dahsyat
+Di tempat kudusNya
+
+Ref:
+Allah bangkit bersoraklah
+Allah bangkit bernyanyilah
+Musuh dikalahkan
+Umatnya dibebaskan,
+Allah dahsyat di tempat kudusNya'), ('KLK400', '400', 'ALLAHKU DAHSYAT', 'KLK', '1=Eb
+
+Dari utara ke selatan
+Terdengar pujian bagi Allah
+Dari barat sampai ke timur
+Nama Yesus disanjung tinggi
+Dan pulau-pulau, lembah-lembah
+Gunung-gunung yang tinggi
+KemuliaanNya disaksikan
+KebesaranNya dic|ritakan
+Yesus, Yesus, Nama Yesus
+Nama Yesus disanjung tinggi
+Dari pulau-pulau
+Lembah-lembah
+Gunung-gunung yang tinggi
+
+Ref:
+Allahku dahsyat berkuasa
+S|luruh bumi sujud menyembah
+Tinggikan namaMu
+Ooo....(2x)'), ('KLK401', '401', 'SATUKAN KAMI', 'KLK', '1=E
+
+Satukan kami...
+Satu dalam kuasaMu
+Sebab kami bersaudara
+Biar kami satu,
+S|perti Kau dan Bapa satu
+Dunia lihat Kau dalam kami
+Jadikan kami sehati, sepikir
+Biar kehendakMu jadi
+Tuk menyatakan rahmatMu
+Jadikan kami satu'), ('KLK402', '402', 'KU KAN BANGKIT', 'KLK', '1=F, 1=G
+
+Mari kita semua umat pilihan Allah
+Dengarlah panggilanNya
+Tuk menggenapi FirmanNya
+Sekarang waktunya
+Tuk berdiri bagi bangsa ini
+Mari maju umat pemenang
+
+Ref:
+Ku kan bangkit nyatakan
+KemuliaanNya
+Ku kan bangkit
+Nyatakan kebesaranNya
+Sampai setiap lutut bertelut
+Semua lidah mengaku
+Yesus Kristus Dialah Tuhan
+Raja segala raja
+Dilah Raja, Dialah Tuhan'), ('KLK403', '403', 'BERSYUKURLAH KEPADA TUHAN', 'KLK', '1=E, 1=F
+
+Datanglah ke baitNya
+Dengan hati bersyukur
+Ke dalam pelataranNya
+Dengan hati bersuka
+Rasakan dan lihatlah
+Betapa baiknya Tuhan itu
+Bagi yang berlindung padaNya
+Akan bersorak sorai (2x)
+
+Ref:
+Bersyukurlah kepada Tuhan
+Sebab ia baik
+Bahwasanya tuk selamanya
+Kasih setiaNya'), ('KLK404', '404', 'YANG TERUTAMA', 'KLK', '1=G, 1=A
+
+Yang terutama di dalam hidup ini
+Memuliakan nama Yesus
+Yang terutama di dalam hidup ini
+Memuliakan NamaNya
+
+Ref:
+Haleluya, Haleluya
+Saya mau cinta Yesus
+Haleluya, Haleluya
+Saya mau cinta Yesus'), ('KLK405', '405', 'HARI-HARI KU LALUI', 'KLK', '1=G
+
+Hari-hari ku lalui bersama Yesus
+Suka duka ku jalani bersama Yesus
+Persoalan, pencobaan kan ku hadapi
+Bersama Yesus, Juruslamatku
+'), ('KLK406', '406', 'HANYA DEKAT ALLAHKU', 'KLK', '1=F, 1=G
+
+Hanya dekat Allahku
+Rasa tenang hatiku
+Kau sertai jalanku
+S|panjang hidupku
+Hanya dekat padaMu
+Ada kekuatan baru
+Kaulah perlindunganku
+Kes|lamatanku
+
+Ref:
+Ku ingin s|lalu
+Bersekutu denganmu
+Menikmati hadiratMu
+Biarkan RohMu tinggal
+Dalam hidupku
+Sungguh indah bersamaMu
+Selamanya'), ('KLK407', '407', 'KITA SO JANJI PA TUHAN', 'KLK', '1=E
+
+Kita so janji pa Tuhan
+Kita sayang pa ngana
+Kita lei ada ba janji pa Tuhan
+Kita lei sayang
+Tuhan beking torang jadi satu
+Kong nimbole bacere
+Kita lei tahu apa yang so taika
+Taika di dunia deng di sorga
+
+Ref:
+Torang salalu bersama
+Torang salalu berdua
+Di dalam susah deng senang
+Torang salalu tegar
+Torang salalu bersama
+Torang salalu berdua
+Di dalam susah deng senang
+Torang rasa Tuhan Yesus pe sayang'), ('KLK408', '408', 'JAO JAO TUHAN SO PILIH', 'KLK', '1=G
+
+Jao-jao Tuhan so pilih pa torang
+Kong pangge pa torang samua
+Tuhan mo beking torang pe hidop
+Bagi kemuliaan NamaNya
+Kase tu hidop kudus pa Tuhan
+Kong jangan ragu iko Depe mau
+Tuhan mo beking torang
+Sama deng Dia, hidop kudus tak bercela
+
+Ref:
+Mari jo torang samua datang
+Badekat-badekat deng Dia (2x)
+Dari Yesus...
+Torang ada kes|lamatan
+Dari Yesus ...
+Torang ada sukacita
+Dari Yesus ...
+Torang ada kedamaian
+Yesus sertai selamanya'), ('KLK409', '409', 'INDONESIA BAGI KEMULIAAN', 'KLK', '1=E
+
+Yesuslah Tuhan. Yang layak ditinggikan
+Layak disembah oleh suku-suku bangsa
+Dengan darahMu
+Kau telah tebus dosaku
+Genapi Tuhan FirmanMu
+Atas neg|riku
+
+Ref:
+Hatiku rindu
+Melihat kemuliaanMu
+Hatiku rindu
+Melihat curahan kuasaMu
+Di tanah tercinta, Neg|riku Indonesia
+Ku berdoa Indonesia
+Penuh kemuliaanMu
+Indonesia bagi kemuliaanMu'), ('KLK410', '410', 'ENGKAULAH KEKUATANKU', 'KLK', 'Yesus Domba Allah
+1=D
+
+1. Engkaulah kekuatanku
+Engkaulah kemuliaanku
+Engkaulah s|galanya
+Engkau Permata yang indah
+Tak |kan pernah ku lepaskan
+Engkaulah s|galanya
+
+Ref:
+Yesus Domba Allah
+Mulia NamaMu
+Yesus Domba Allah
+Mulia NamaMu
+
+2. Kau hapus s|gala dosaku
+S|gala cela dan maluku
+Engkaulah s|galanya
+Saat jatuh Kau angkatku
+Saat haus Kau pulihku
+Engkaulah s|galanya
+'), ('KLK411', '411', 'LINGKUPIKU', 'KLK', '1=A
+
+Lingkupiku dengan sayapMu
+Naungiku dengan kuasaMu
+
+Ref:
+Di saat badai bergelora
+Ku akan terbang bersamaMu
+Bapa Kau Raja atas semesta
+Ku tenang s|bab Kau Allahku
+Ku tenang s|bab Kau Allahku'), ('KLK412', '412', 'B|RI KU HATI', 'KLK', '1=C
+
+B|ri ku hati untuk menyembahMu
+B|ri ku hati untuk mengasihiMu
+B|ri ku hati memujiMu
+Dan mengasihi Engkau
+Seperti wanita
+Yang datang mengurapiMu'), ('KLK413', '413', 'DI BAWAH KEPAK SAYAPMU', 'KLK', '1=D
+
+Aku ingin selalu
+Berada di hadiratMu
+Aku ingin selalu
+Berlindung dalam naunganMu
+Di bawah kepak sayapMu
+Kau bawaku terbang tinggi
+Melintas langit biru
+Bagaikan rajawali
+
+Ref:
+Bagai rajawali melintasi gunung tinggi
+Bagai rajawali melintasi badai hidup
+Di bawah kepak sayapMu
+Kau bawaku terbang tinggi
+Melintasi langit biru
+Bagaikan rajawali'), ('KLK414', '414', 'BAGAIKAN TANAH KERING', 'KLK', '1=D
+
+Bagaikan tanah kering
+Yang merindukan air
+Demikianlah jiwaku
+Haus akan Engkau
+Ku rindu selalu
+HadirMu di hidupku
+Memulihkan jiwaku
+Hapuskan airmataku
+Mengalirlah kuasa Roh Kudus
+Mengalirlah di tempat ini
+Mengalirlah oh Roh Kudus
+Pulihkanku'), ('KLK415', '415', 'ORANG YANG BERHARAP TUHAN', 'KLK', '1=Eb
+
+Orang yang berharap Tuhan
+Memberbaharui kuatnya
+Terbang naik dengan sayap rajawali
+Berlari tiada penat
+Berjalan tiada lelah
+Ajarku harap Kau Tuhan'), ('KLK416', '416', 'NKB 1 HAI KRISTEN, NYANYILAH', 'KLK', '1=A
+
+1. Hai Kristen, nyanyilah � Haleluya! Amin!
+Rajamu pujilah � Haleluya! Amin!
+Padukan suaramu di dapan Tuhanmu,
+nyanyikanlah merdu � Haleluya! Amin!
+
+2. Hatimu angkatlah � Haleluya! Amin!
+Mari bersoraklah � Haleluya! Amin!
+Tuhan Sahabatmu tinggal bersamamu,
+kasihNya pun teguh � Haleluya! Amin!
+
+3. Sanjung Mukhalismu � Haleluya! Amin!
+Walau bah menyerbu � Haleluya! Amin!
+Di sorga yang baka kita menyembahNya,
+bernyanyi s|lamanya � Haleluya! Amin!'), ('KLK417', '417', 'NKB 2 HAI MARI SEMBAH', 'KLK', '1=D
+
+1. Hai mari sembah Yang Maha besar,
+nyanyikan syukur dengan bergemar.
+Perisai umatNya Yang Maha Esa,
+mulia namaNya, takhtaNya megah!
+
+2. Hai masyhurkanlah keagunganNya;
+cahaya terang itu jubahNya
+Gemuruh suaraNya di awan kelam;
+berjalanlah Dia di badai kencang.
+
+3. Buana penuh mujizat ajaib,
+ya Khalik, Engkau membuatnya baik.
+Engkau memisahkan daratan dan laut
+dengan kuasa firman: besarlah Engkau!
+
+4. PengasuhanMu betapa megah;
+udara dan t|rang menyatakannya,
+embun bertetesan dan hujan sejuk,
+lembah maupun bukit cermin kasihMu!
+
+5. UmatMu lemah dan dari debu,
+tetap memegang janjiMu teguh.
+Kasih setiaMu berlimpah terus,
+ya Khalik, Pembela dan Kawan kudus!
+
+6. Ya Mahabesar, kekal kasihMu;
+malaikat memb|ri pujian merdu,
+pun kami makhlukMu kecil dan lemah,
+mengangkat pujian serta menyembah.
+'), ('KLK418', '418', 'NKB 13 OH ALLAHKU JENGUKLAH DIRIKU', 'KLK', '1=F
+
+1. O Allahku, jenguklah diriku,
+ujilah hati dan pikiranku.
+Aku telah berdosa dan cemar,
+sucikan dan jadikan |ku benar.
+
+2. Pujianku tetaplah bagiMu,
+kar|na |Kau hapus dosa-dosaku.
+Nyatakanlah firmanMu yang kudus,
+agar |ku junjung namaMu terus.
+
+3. Ya Tuhanku, hidupku t|rimalah;
+kasih yang murni, o curahkanlah.
+Taklukkanlah dendam dan nafsuku,
+tinggallah |Kau tetap di hatiku.
+
+4. O Roh Kudus, bangkitkan jiwaku;
+mari berkarya dalam hidupku.
+FirmanMulah tumpuan yang teguh,
+dan |ku dambakan rahmatMu penuh.
+'), ('KLK419', '419', 'NKB 20 BATU KARANG YANG TEGUH', 'KLK', '1=Es
+
+1. Batu Karang yang teguh, |Kau tempatku berteduh,
+Kar|na dosaku berat dan kuasanya menyesak.
+Oh, bersihkan diriku, oleh darah lambungMu.
+
+2. Walau aku berjerih dan menangis tak henti,
+apapun usahaku tak menghapus dosaku.
+Hanya oleh korbanMu, |Kau s|lamatkan diriku.
+
+3. Tiada lain |ku pegang, hanya salib dan iman;
+dalam kehampaanku, |ku dambakan rahmatMu
+Tanpa Dikau, Tuhanku, tak |kan hidup jiwaku.
+
+4. Bila tiba saatnya |ku tinggalkan dunia
+dan |Kau panggil diriku ke hadapan tahtaMu.
+Batu Karang yang teguh, |Kau tempatku berteduh.
+'), ('KLK420', '420', 'NKB 89 KU TAHU MUKHALISKU HIDUP', 'KLK', '1=A
+
+1. |Ku tahu: Mukhalisku hidup dan k|lak berdiri di dunia.
+Dan Tuhan b|ri hidup abadi, rahmat dan kasih milikNya.
+
+Ref:
+|Ku tahu: Yesus itu hidup kelak berdiri di dunia.
+Hidup abadi diberiNya, rahmat dan kasih milikNya.
+
+2. |Ku tahu bahwa janji Tuhan tetap tepat, bukan semu.
+Kendati tubuh ini hancur, k|lak kami akan bertemu.
+
+3. |Ku tahu disediakanNya tempat tinggalku abadi.
+Dan aku k|lak |kan dijemputNya: kasihNya tidak terperi.
+'), ('KLK421', '421', 'NKB 140 BILA KU BERDOA', 'KLK', '1=Es
+
+1. Tuhan sambut jiwaku, bila |ku berdoa;
+Dia dan |ku bertemu, bila |ku berdoa.
+
+Ref:
+Bila |ku berdoa, bila |ku berdoa,
+Tuhan sambut jiwaku, bila |ku berdoa.
+
+2. Tiada bimbang dan gentar, bila |ku berdoa;
+hatiku pun bergemar, bila |ku berdoa.
+
+3. Yesus tahu dan mengerti, bila |ku berdoa;
+pengampunan diberi, bila |ku berdoa.
+'), ('KLK422', '422', 'NKB 189 KU INGIN SELALU (PEGANG TANGANKU)', 'KLK', '1=D
+
+1. |Ku ingin selalu dekat padaMu,
+ikut |Kau Tuhan tiada jemu;
+Bila |Kau pimpin kehidupanku,
+tak |kan |ku ragu, tetap langkahku.
+
+Ref:
+O Jurus|lamat, pegang tanganku,
+BimbinganMu yang aku perlu;
+B|ri pertolongan dan kuasaMu,
+o Tuhan Yesus, pegang tanganku.
+
+2. Gelap perjalanan yang aku tempuh,
+namun cerah berseri jiwaku;
+susah kecewa di dunia fana,
+damai menanti di sorga baka.'), ('KLK423', '423', 'NKB 196 KU BEROLEH BERKAT', 'KLK', '1=C
+
+1. |Ku beroleh berkat yang tak kunjung lenyap,
+yang tidak dib|ri dunia;
+Di relung hatiku, walau sarat beban,
+ada damai sejaht|ra baka.
+
+Ref:
+Yesus yang selalu tinggal serta;
+Ia di dalamku, |ku dalamNya.
+$Aku senantiasa menyertaimu$
+Itulah janjiNya kepadaku.
+
+2. Saat damai penuh masuk di hatiku,
+dunia menjadi cerah.
+Kesusahan lenyap, g|lap berganti terang:
+Yesus Tuhan, agung, mulia!
+'), ('KLK424', '424', 'NKB 197 BESARLAH UNTUNGKU', 'KLK', '1=G
+
+1. Besarlah untungku jika Yesus milikku,
+bersuka jiwaku kar|na damai yang penuh.
+meskipun angin k|ras badai dunia menderu,
+tak goyah hatiku kar|na Yesus milikku.
+
+Ref:
+Benar, benar, besarlah untungku.
+Benar, benar, besarlah untungku.
+Benar, benar, besarlah untungku.
+Ketika Yesus sungguhlah tetap milikku.
+
+2. Kendati tiadalah hartaku di dunia,
+hatiku tak resah, tak bersungut, berkesah.
+Kar|na |ku sungguh tahu jika Yesus milikku,
+tak sia-sialah segenap usahaku.
+
+3. Meski tumpuanku pada Yesus, Tuhanku,
+tidaklah aku jauh dari susah dan keluh.
+Di dunia yang fana |ku |kan tahan berperang,
+di sorga yang baka dengan Yesus |ku menang.
+
+4. Sekarang hidupku sungguh mulia benar
+di dalam kasihNya |ku selalu bergemar.
+JanjiNya |ku dengar kar|na Yesus milikku:
+$ |Ku sambut datangmu dalam rumah BapaKu$
+'), ('KLK425', '425', 'NKB 199 SUDAHKAH YANG TERBAIK KU BERIKAN', 'KLK', '1=D
+
+1. Sudahkah yang terbaik |ku berikan
+kepada Yesus Tuhanku?
+Besar pengurbananNya di Kalvari!
+DiharapNya terbaik dariku.
+
+Ref:
+Berapa yang terhilang t|lah |ku cari
+dan |ku lepaskan yang terbelenggu?
+Sudahkah yang terbaik |ku berikan
+kepada Yesus, Tuhanku?
+
+2. Begitu banyak waktu yang terluang
+sedikit |ku b|ri bagiNya.
+Sebab kurang kasihku pada Yesus;
+mungkinkah hancur pula hatinya?
+
+3. Telah |ku perhatikankah sesama,
+atau |ku biarkan tegar?
+|Ku patut menghantarnya pada Kristus
+dan kasih Tuhan harus |ku sebar.
+
+4. |Ku tak mau lebih lama dalam jurang,
+|ku panjat dindingnya terjal.
+Dunia yang |kan binasa memerlukan
+berita kasih Allah yang kekal.
+'), ('KLK426', '426', 'NKB 203 ADAKAH TEMPAT BAGINYA', 'KLK', '1=G
+
+1. Adakah tempat bagiNya, yang menanggung dosamu?
+Yesus t|lah ketuk hatimu; sambutlah Penebusmu!
+
+Ref:
+B|rikanlah tempat bagiNya dan dengarkan sabdaNya!
+Bukalah pintu hatimu, sambut Dia segera!
+
+2. Bila hanya nikmat dunia |kau kejar selalu t|rus,
+k|lak tempat pun tiada lagi bagi Yesus, Penebus.
+
+3. Adakah tempat bagiNya, yang mencurahkan berkat?
+Hari inilah saatnya, hari Tuhan t|lah dekat!
+
+4. Hari rahmat hampir lalu, baik serahkan hidupmu;
+Nanti hatimu tertutup bagi Yesus, Rajamu.'), ('KLK427', '427', 'NKB 204 DI DUNIA YANG PENUH CEMAR', 'KLK', '1=G
+
+1. Di dunia yang penuh cemar; antara sesamamu
+hiduplah saleh dan benar. Nyatakan Yesus dalammu.
+
+Ref:
+Nyatakan Yesus dalammu, nyatakan Yesus dalammu;
+sampaikan Firman dengan hati teguh, nyatakan Yesus dalammu.
+
+2. Hidupmu kitab terbuka dibaca sesamamu;
+apakah tiap pembacanya melihat Yesus dalammu?
+
+3. Di sorga |kau kelak senang berjumpa sahabatmu,
+berkat hidupmu dalam t|rang. Nyatakan Yesus dalammu.
+
+4. Hiduplah kini bagiNya, berjiwa tetap teguh;
+bimbinglah orang tercela melihat Yesus dalammu.
+'), ('KLK428', '428', 'DI TENGAH OMBAK DAN GELOMBANG', 'KLK', '1=A
+
+1. Di tengah ombak dan gelombang
+dan ribut menderu
+T|lah hilang harap
+Si penumpang
+Hatikupun debar
+Tiba-tiba ku dengar suara
+Hai anakKu, b|rilah kepadaku
+Seg|ra tanganmu
+
+2. Syukurlah Tuhan t|lah datang
+Mengulurkan tangan padaku
+Mau melepaskan dan rindu
+Mengangkatkan hambaMu
+Kalau tak Tuhan menolong
+Meluputkan diriku
+Pastilah celaka tubuh jiwaku
+'), ('KLK429', '429', 'BADAI MENGAMUK', 'KLK', '1=G
+
+1. Badai mengamuk ya Tuhan
+Gelombangpun menderu
+Dan kabut gelap menakutkan
+Kemanaku berteduh
+Akan celakalah aku
+Tuhan terus lelap
+Takkan lama ku ini tertarik
+Ke dasar samud|ra g|lap
+
+2. Gelombang dan topan tenanglah
+Diamlah laut yang gemuruh dan menderu
+Dan iblis yang ganas berbagai set|ru
+Tak dapat merusakkan bahtera
+Sebab Tuhan Allah ikut serta
+Semuanya taatkan printahNya
+Diamlah 2x
+Semuatnya taatkan printahNya
+Diamlah
+
+3. Hatiku goncang ya Tuhan
+Serasa remuk redam
+Guruku sadarlah dan tolong
+Ku takut kan tenggelam
+Badai dosa mengamuk
+Memukul jiwaku
+Akan karmlah aku ya Tuhan
+Peganglah kemudiku
+'), ('KLK430', '430', 'S|LAMAT JALAN', 'KLK', '1=D
+
+1. S|lamat jalan saudara-i
+Dari dunia yang fana
+Tuhan menyambutmu
+Bila tiba di seb|rang
+
+Ref:
+Habis sudah deritamu
+Dalam kehidupanmu
+Jadi itulah berkatNya
+Bagi orang percaya
+
+2. Hidup kita manusia
+S|perti bunga berkembang
+Bila panas menerpa
+Akan layulah seg|ra
+
+3. Kami yang ditinggalkan
+Bersyukur kepadaNya
+Tuhanlah yang memb|ri
+Tuhanlah yang mengambil
+'), ('KLK431', '431', 'O MAWU RUATA', 'KLK', 'Versi 1
+1. Oh Mawu Ruata, talentuko ia
+Napene u rosa, rosa masaria
+
+2. Tentiroko sia
+Daleng mapia
+Panata elangu
+SU rararengangku
+
+
+Versi 2
+1. Ya Tuhan Allahku
+Kasihani daku
+Yang penuh kesalahan
+Dan dosa yang berat
+
+2. Pimpinlah kan daku,
+ke arah yang benar
+Tuntunlah hambaMu diperjalananku'), ('KLK432', '432', 'O MAWU MALONDO', 'KLK', '1=C
+
+Versi 1
+1. Oh Mawu Malondo,
+Ruata iamang
+Elangu megogho, maki ambang
+
+2. Tulung ampunge Mawu
+Haghieng dalawangku
+Dan durhakaku sutengonu
+
+Versi 2
+1. Oh Tuhan Pengasih,
+Yang Maha Kuasa
+HambaMu memohon pertolongan
+
+2. Tolong ampuni Tuhan
+Segala kesalahanku
+Dan durhakaku di hadapanMu.
+'), ('KLK433', '433', 'MAWU RENDINGANE', 'KLK', '1=F
+
+1. Oh mawu rendingane, Ikami manga ellang
+Sutempo kandentane
+Oh Mawu Kasalaheng
+
+2. Baik darodo matelang
+Tembonang kawanua
+Ahako suylalengu su ike kapulunu'), ('KLK434', '434', 'BILA KU INGAT CINTA TUHANKU', 'KLK', '1=G
+
+1. Bila ku ingat cinta Tuhanku
+Ku tidak mau mundur lagi
+Bila ku ingat cinta Tuhanku
+Ku tidak mau mundur lagi
+
+2. Sungguh tidak mau
+Ku tidak mau mundur lagi
+Sungguh tidak mau
+Ku tidak mau mundur lagi'), ('KLK435', '435', 'HANYA TUHAN YANG TAHU', 'KLK', '1=Es
+
+Hanya Tuhan yang tahu semuanya
+Hitamnya jalan yang kita lalui
+Kering merana
+Pohon ara tak berbuah
+Tiada lagi berguna
+Hanya Tuhan
+Yang dapat mengampuni
+Walau dosa merah bagai kermizi
+Menjadi putih bagaikan salju
+Tuhan memberkati
+Yesus terang pelita hidupku
+Yesus mutiara sanubariku
+Jurus|lamat permata batinku
+Pelipur duka laraku
+Aku cinta padaMu oh Tuhan
+Aku rindu belaian KasihMu
+Dengan airmata yang menetes ini
+Ku bernyanyi ku berdoa
+Dengan airmata keharuan ini
+Ku memuji namaMU Yesus'), ('KLK436', '436', 'BILA KAU PERGI', 'KLK', '1=D
+
+1. Bila kau pergi
+Ke tempat yang jauh
+Yesus s|lalu besertamu
+Kau dibimbingNya,
+Kau dituntunNya,
+S|lamat seluruh langkah hidupmu
+
+Ref:
+Biar curam g|lap
+jalan kau tempuh
+Hatimu sedih mengerang
+Takkan kau penat
+Takkan kau sesat
+bila Yesus menyertaimu
+
+2. Bila kau lelah, bila kau lesu
+Yesus slalu besertamu
+Kau dibujukNya, kau dihiburNya
+Slamat kau sluruh jalanmu
+
+3. Biar jauh tempat yang kau tuju
+Biar susah mencapainya
+Kau disambutNya kau disapaNya
+Berbahagia kau disisiNya
+'), ('KLK437', '437', 'UJILAH AKU TUHAN', 'KLK', '1=G
+
+Ujilah aku Tuhan... Cobalah aku Tuhan
+Selidiki batinku dan hatiku
+Mataku tertuju padaMu
+Aku cinta padaMu Tuhan
+Aku rindu hadiratMu Tuhan
+Aku ingin selalu dekat padaMu
+Menikmati kehadiranMu
+
+Ref:
+Ku nyanyi Hosanna
+Bagi Rajaku yang duduk di takhta
+Aku muliakan dan kuagungkan
+Kau layak disembah'), ('KLK438', '438', 'OH TUHAN YANG MAHA KUASA (Pengakuan Dosa)', 'KLK', '1=C
+
+1. Oh Tuhan Yang Maha Kuasa
+Kami datang padaMu
+Mengaku dosa kami
+Dengan sepenuh hati
+
+2. Kami sering melalaikan
+PetunjukMu ya Tuhan
+Kami hanya turuti
+Kata hati sendiri
+
+Ref:
+Tuhan Yang Maha Kasih
+Ampunilah kami
+Berilah ku mengerti...
+KasihMu selalu
+Kini pimpinlah kami
+Ya Tuhan,
+Pada jalan yang benar
+Menurut kehendakMu
+Kini dan selamanya'), ('KLK439', '439', 'BIMBINGLAH DAKU YA YESUS', 'KLK', '1=E
+
+Bimbinglah daku ya Yesus
+Di sepanjang jalan hidupku
+FirmanMu bagaikan suluh
+Agarku tak sesat di jalan
+
+Ref:
+Tanpa Yesus di sisiku
+Tanpa Yesus membimbingku
+Tanpa Yesus menopangku
+Ku kan jatuh
+Dengan Yesus di sisiku
+Dengan Yesus membimbingku
+Dengan Yesus menopangku
+Ku tak jatuh'), ('KLK440', '440', 'KATAKAN YESUS TERBESAR', 'KLK', '1=C
+
+Katakan Yesus terbesar
+Katakan Dia cintaku
+Dia sembuhkan, Dia ampuni
+Dan b|ri pertolongan
+Katakan Yesus terbesar
+(2x)
+'), ('KLK441', '441', 'Naper II CERITAKAN SAJA', 'KLK', '1=D
+
+1. C|ritakan saja pada Yesus
+Smua yang engkau rasalah
+Segnap beban
+Dan tindisan dosa
+C|ritakan Yesus,
+C|ritakan
+
+Ref: 
+C|ritakan saja kepada Yesus
+Segala susah dukamu
+C|ritakan saja kepada Yesus
+Lalah Sobat jiwamu
+
+2. C|ritakan saja kepada Yesus
+Janganlah takut dan segan
+Segala salah, aib dan dosa
+C|ritakan Yesus hai teman
+
+3. C|ritakan saja kepada Yesus
+janganlah tutup mulutmu
+Meski di hati saratlah dosa
+KasihNya cukup bagimu
+'), ('KLK442', '442', 'MANA-MANA TUHAN PANGGIL', 'KLK', '1=G
+
+1. Mana-mana Tuhan panggil (3x)
+Untuk kerja...
+Di ladangNya Tuhan
+
+Ref:
+Saya kerja, saya kerja
+Saya kerja di ladangNya Tuhan (2x)
+
+2. Muda mudi Tuhan panggil (3x)
+
+3. Mati hidup buat Tuhan (3x)
+
+4. Tuhan panggil aku ada (3x)
+'), ('KLK443', '443', 'INDAH SEBAGAI DI EDEN', 'KLK', '1=C
+
+1. Indah sebagai di Eden
+Pada permulaan
+Hutan dan rimba berbunga
+Tampak sedap senang
+
+Ref:
+Marilah hari mulia
+Hari penuh khalas
+Di tengah kerjaku
+Ku harap
+Kau datang lekas-lekas
+
+2. Orang yang timpang berlimpat
+yang tuli dengarlah
+Orang yang buta melihat
+Pujilah kerjaNya
+'), ('KLK444', '444', 'TUHAN YESUS TIDAK BERUBAH', 'KLK', '1=A
+
+Tuhan Yesus tidak berubah
+Tidak berubah, tidak berubah
+Tuhan Yesus tidak berubah
+Tak berubah selama-lamanya
+Haleluya, Haleluya (2x)
+'), ('KLK445', '445', 'OBOR PEMBANGUNAN', 'KLK', '1=E
+
+Di atas satu iman
+Pemuda g|reja ber-esa
+Menjadi saksi Tuhan
+Ketiga yang esa
+Sadarkan jiwa kita
+Pada tugas panggilanNya
+Nyatakan sungguh-sungguh
+Kristus Panglimamu
+Jadilah kau
+Umat yang bekerja
+Dengan semua
+Greja Tuhan yang esa
+Kita maju dan bekerja
+Dalam Kristus kita menang
+(Ayolah)
+Membangun dunia baru
+Sejaht|ra dan bersatu
+Bangkitkan jiwa ragamu
+Bagi umat dan manusia
+Pemuda gereja jadilah
+Obor pembangunan
+'), ('KLK446', '446', 'ABINAR GONAR GANER', 'KLK', '<i>There|ll Be No Sorrow</i>
+1=G
+
+1. Abinar gonar ganer, mana kureka
+Mana kureka, mana kureka
+Abinar gonar ganer, ana kureka
+Kokowa, kokowa, kokowa
+
+2. Sana tiada susah, di rumah BapaKu
+Di rumah BapaKu, dirumah BapaKu
+Sana tiada susah, dirumah BapaKu
+Senanglah, senanglah disana
+'), ('KLK447', '447', 'ALANGKAH INDAHNYA', 'KLK', '1=E
+
+Alangkah indahnya hari ini
+Hari yang tak ku lupa
+Setelah ku keliling dalam glap
+Ku dapat Juruselamat
+Betapa bahagia hatiku
+Ku dapat yang ku rindu
+Kesusahan dan kegelapan hilang
+Diganti kesukacitaan
+
+Ref:
+Sorga turun bahagia jiwaku
+Di salib Yesus sucikan daku
+Dosaku ditebus
+Kegelapan jadi terang
+Sorga turun bahagia jiwaku'), ('KLK448', '448', 'ZAMAN SEKARANG', 'KLK', '1=C
+
+1. Zaman sekarang berjagalah
+Di tengah dunia bergelora
+Kedengaran sini sana
+Banyak kabar menggemparkan
+Berlindunglah dalam sabda Allah
+
+2. Zaman sekarang berdoalah
+Di tengah dunia bergelora
+Kedengaran sini sana
+Banyak kabar menakutkan
+Berlindunglah dalam sabda Allah
+'), ('KLK449', '449', 'SENTUH HATIKU', 'KLK', '1=C
+
+1. Betapa ku mencintai, segala yang t|lah terjadi
+Tak pernah sendiri, jalani hidup ini
+Selalu menyertai
+
+2. Betapa ku menyadari, didalam hidupku ini
+Kau s|lalu memberi, rancangan terbaik
+Oleh karena kasih
+
+Ref:
+Bapa sentuh hatiku, |ubah hidupku
+Menjadi yang baru
+Bagai emas yang murni
+Kau membentuk bejana hatiku
+Bapa ajarku mengerti,
+Sebuah kasih
+yang selalu memberi
+Bagai air mengalir
+Yang tiada pernah berhenti'), ('KLK450', '450', 'TERTINDIH DENGAN BEBAN BERAT', 'KLK', '1=D
+
+Tertindih dengan beban berat
+Dosa dunia menjerat
+Lalu kudatang pada Yesus
+Dia rubah seluruh hidupku
+
+Ref:
+Yesus jamah s|gnap hidupku
+Dan beri damai dihatiku
+S|mua telah berubah dan aku tau
+Yesus jamah ku jadi baru (sembuh)'), ('KLK452', '452', '452 DIA SEPERTI AIR', 'KLK', '1=E
+
+Dia seperti air yang mengalir di hatiku
+Dia seperti air yang mengalir saat ini
+Dia menjamah hatiku, juga menjamah hatimu
+Dia seperti air yang mengalir
+O... Yesus, ya Yesus
+Curahkan jamahan kasihMu
+O... Yesus, ya Yesus
+Jamalah dengan kuasa Roh kudus'), ('KLK453', '453', 'KAU YANG PERTAMA', 'KLK', '1=D
+
+Bagai burung rajawali,
+Ku akan terbang tinggin
+Mengatasi topan badai,
+Yang kan ku hadapi
+Dipimpin tangan perkasa
+Allah Yang Maha Tinggi
+Ku tak takut, ku tak gentar
+S|mua kan ku hadapi
+Kaulah harapanku
+Kaulah kekuatanku
+Padamu Yesus ku|srahkan hidupku
+Kaulah yang pertama,
+Kaulah satu-satunya
+Di dalam hidupku, didalam hidupku
+Tiada yang sepertiMu
+Kau selalu ada dihatiku
+Dan tak akan pernah berubah
+KasihMu Yesus didalam hidupku
+'), ('KLK454', '454', 'OPO WANA NATAS', 'KLK', '1=C
+
+Opo| wana natas
+Empung renga-rengan
+kakasanitemi, pakakelangan
+patombo-tombolen, peteru-terungan
+pakendi-kendiren, numikelangan
+Sunku-sungkuleni
+Baya |m pamandungen
+Tambe-tamberani
+Wo kama-kamangen
+Laka-lakereni, toro-toroni
+Umbaya mekaaruyen mekapa|aren
+Wia pateu-teuan
+Pa-ka-tu|an, pa-ka-lo-wi-ren'), ('KLK455', '455', 'BESARKAN NAMA TUHAN', 'KLK', '1=D, 1=E
+
+1. Besarkan nama Tuhan pujilah Dia
+KemurahanNya besar tiada terbilang
+Aku tak dapat balas betapa besar kasihNya
+Oh... besarkanlah namaNya
+
+Ref:
+Tuhan yang ajaib
+Tuhan yang kuasa
+Tuhan yang menolong hidupku
+Tuhan yang ajaib, Tuhan yang kuasa
+Jiwaku ditebus olehNya'), ('KLK456', '456', 'HATI S|BAGAI HAMBA', 'KLK', '1=E, 1=D
+
+1. Ku tak membawa apapun juga
+Saat ku datang ke dunia
+Ku tinggal semua pada akhirnya
+Saat ku kembali ke surga
+
+Ref:
+Inilah yang kupunya
+Hati s|bagai hamba
+Yang mau taat dan setia
+PadaMu Bapa
+Ke mana pun ku bawa
+Hati yang menyembah
+Dalam roh dan kebenaran
+Sampai s|lamanya'), ('KLK457', '457', 'KU KAGUM AKAN ENGKAU', 'KLK', '1=G
+
+1. Kau sungguh indah tiada taranya
+Sungguh menakjubkan
+Sungguh ajaib tuk dimengerti
+Lebih dari s|mua yang ada
+
+2. HikmatMu tiada terselami
+KasihMu dalam tak terduga
+Kau sungguh indah tiada taranya
+Mulia dan berkuasa
+
+Ref:
+Ku kagum, hormat akan Engkau (2x)
+Kau Allah yang layak dipuji
+Ku kagum akan Engkau'), ('KLK458', '458', 'ADA SUKACITA', 'KLK', '
+Ada sukacita... dalam melayani Tuhan
+Sukacita dari Rohul Kudus
+
+Ref:
+Hati penuh damai
+Kar|na Yesus beserta
+Dalam kita melayani Tuhan'), ('KLK459', '459', 'KASIH YANG TERINDAH', 'KLK', '
+Kasih yang terindah
+Hati yang mulia
+Hanya ku temukan
+Di dalamMu Yesusku
+Pujian dari hatiku
+Selalu di setiap waktuku
+Tiada pernah berubah kasihMu
+
+Ref:
+Karya terbesar, dalam hidupku
+PengorbananMu, yang s|lamatkanku
+Engkaulah harta yang tak ternilai
+Yang ku miliki dan ku hargai
+Yesus... Engkau ku kagumi'), ('KLK460', '460', 'MUJIZAT ITU NYATA', 'KLK', '
+Tak terbatas
+KuasaMu Tuhan
+Semua dapat Kau lakukan
+Apa yang kelihatan
+Mustahil bagiku
+Itu sangat mungkin
+BagiMu
+
+Ref:
+Di saat ku tak berdaya
+KuasaMu yang sempurna
+Ketika ku percaya
+Mujizat itu nyata
+Bukan karena kekuatan
+Namun RohMu Ya Tuhan
+Ketika ku berdoa
+Mujizat itu nyata'), ('KLK461', '461', 'AKU MAU MENGIKUT YESUS', 'KLK', '1=E
+
+1. Aku mau mengikut Yesus
+Dalam hidup (2x)
+Aku mau mengikut Yesus
+Dalam hidup
+
+Ref:
+Dalam hidup
+Dalam hidup
+Aku mau mengikut Yesus
+Dalam hidup
+
+2. Dalam hidup diganti dihatiku
+'), ('KLK462', '462', 'DALAM DAN LEBAR', 'KLK', '
+Dalam dan lebar
+Dalam dan lebar
+Cinta Yesus dalam dan lebar
+(2x)'), ('KLK463', '463', 'ALANGKAH INDAH HIDUP RUKUN', 'KLK', '1=G
+
+1. Alangkah indah hidup rukun
+berdampingan penuh damai
+Tanpa memandang
+Suku bangsa
+Kedudukan, kehormatan
+Di mata Tuhan kita sama
+Tiada ada yang berbeda
+Kita semua dicintaiNya
+Disayang siang dan malam
+
+2. Torang samua basudara
+Basudara di dalam Tuhan
+Baik si miskin
+Atau yang kaya
+Yang kuat atau yang lemah
+Jangan ada di dalam hati
+Rasa iri dan rasa dengki
+Ciptakanlah hati yang damai
+Penuh cinta kasih sayang'), ('KLK465', '465', 'DIA MENGERTI', 'KLK', '1=Bes
+
+Terkadang kita merasa,
+Tak ada jalan terbuka
+Tak ada lagi waktu
+Terlambat sudah
+Tuhan tak pernah berdusta
+Dia s|lalu pegang janjiNya
+Bagi orang percaya
+Mujizat nyata
+
+Ref:
+Dia mengerti, Dia peduli
+Persoalan yang sedang terjadi
+Dia mengerti, Dia peduli
+Persoalan yang kita alami
+Namun satu yang Dia minta
+Agar kita percaya
+Sampai mujizat menjadi nyata'), ('KLK466', '466', 'MESKI OMBAK DAN GELOMBANG', 'KLK', '1=A
+
+Meski g|lap sengsara,
+Ribut topan menderu
+Prahu tampak mara,
+Goncang hatiku
+jangan hilang daya
+Tahan saja hai teman
+Sungguh dayung payah
+Hanya singgah s|nang
+
+Ref:
+Meski ombak dan gelombang
+Naik tinggi dan pecah
+Dayung saja jangan bimbang
+Suka dan senang akhirnya'), ('KLK467', '467', 'AKU MAU MELAYANI TUHAN', 'KLK', 'Versi 1
+
+Aku mau melayani Tuhan
+Aku mau melayani Yesus
+Dunia tak dapat menghalangi
+Karena ku tahu Dia sertaku
+Aku mau melayani Tuhan
+Meski sempit jalan
+Yang ku tempuh
+Aku mau melayani Tuhan
+B|rikanlah kuasa Roh KudusMu
+
+Ref:
+Nyatakanlah Tuhan akan janjiMu
+Nyatakanlah Tuhan
+Rahasia FirmanMu
+Ku mau melayani Tuhan
+Biar gunung-gunung kan ku daki
+Nyatakan Tuhan akan janjiMu'), ('KLK468', '468', 'KENANGAN NATAL', 'KLK', '1=G
+
+Jauh di dusun yang kecil
+Di sana rumahku
+Lama sudah ku tinggalkan
+Aku rindu
+Tahun-tahun t|lah berlalu
+Menambah rinduku
+Nantikan kedatanganku Dusunku
+Ku ingin mengulang lagi
+Kenangan masa kecilku
+kenangan hari natal
+yang bahagia
+Ku nyalakan lilin-lilin
+Ku nyalakan lenteraku
+Kenangan Natal
+Di dusun yang kecil'), ('KLK469', '469', 'SELAMAT HARI NATAL', 'KLK', '1=G
+
+Selamat hari natal (3x)
+dan Tahun baru
+
+Ref:
+Salam bagimu sekalian
+Selamat hari natal dan tahun baru'), ('KLK470', '470', 'KINI TIBA SAATNYA', 'KLK', '1=F
+
+Kini tiba saatnya
+Kita untuk berpisah
+S|lamat tinggal tahun yang lama
+penuh kenangan
+S|moga di tahun yang baru
+Tuhan memberkati
+Kebahagiaan yang lebih
+dari tahun yang silam'), ('KLK471', '471', ' HATI HAMBA', 'KLK', '
+Ku tak dapat lupakan kebaikan yang ku trima
+PengorbananMu yang mulia, jadikanku berharga
+Kau tulus menerima aku apa adanya
+Kekuatan kasihMu nyata memulihkan hidupku
+
+Ref:
+Kau bukan Tuhan yang melihat rupa
+Kau bukan Tuhan yang memandang harta
+Hati hamba yang s|lalu Kau cari
+Biar Kau temukan di dalamku
+S|lama ku hidup, ku mau menyembahMu
+S|bab Engkau sangat berarti bagiku
+Yang terbaik yang ada padaku
+Kupersembahkan kepadaMu Yesusku'), ('KLK472', '472', 'MELAYANI YESUS', 'KLK', '
+Tiada lebih indah kumelayani Yesus
+Walaupun berat dan susah jalanNya
+Takkan aku mundur seb|lum berakhir hidupku
+Karna ku tahu apa arti hidupku
+Terindah dalamku telah ku lepaskan
+Keakuanku telah ku tinggalkan
+Asal hati Yesus merasa senang selalu
+Karna ku tahu apa arti hidupku
+
+Ref:
+Ku melayani Yesus, itu lebih indah dari semua
+Ku melayani Yesus, itu lebih indah dari semua'), ('KLK473', '473', 'TERIMA KASIH KU UCAPKAN', 'KLK', '1=C
+
+Terima kasih ku ucapkan padaMu
+Atas dia yang Kau b|rikan padaku
+Sekian lamanya ku berdoa menunggu
+Menanti-nanti janjiMu Tuhan
+
+Ref:
+Tulang rusuk yang aku nantikan
+Kini kudapat mendampingimu
+Tulang rusuk yang aku nantikan
+Kini berdua menjadi satu
+Kita berdua menjadi satu
+Dalam kasihNya menjadi satu
+Kita berdua menjadi satu
+Melayani Tuhan selama-lamanya'), ('KLK474', '474', 'KU PANDANG HARI ESOK', 'KLK', '1=C
+
+Ku pandang hari esok dengan segala harapan
+Dan ku takkan takut, menghadapi hidup ini
+S|bab ku tahu hari esok, ada dalam tanganNya
+Yesus menjamin, bagi yang mau percaya
+
+Ref:
+Haleluya, haleluya
+Yesus sumber pengharapanku
+Haleluya, haleluya
+Mulia dan Agung kasihNya'), ('KLK475', '475', 'DA|I TANU UNGKASENANGTA', 'KLK', '1=D
+
+(Hidup Rukun dan Damai)
+Da|i tanu ungkasenangta, sama leos-leosan
+Witu umpatuarian, akad ka ure-ure
+Da|i tanu ungkasenangta, sama leos-leosan
+'), ('KLK476', '476', 'SAKAENG', 'KLK', '1=D
+
+(Baht|ra yang dipandu)
+Sakaeng su taghaloang mesesenggo mapia
+Nangkodane kai i tuang, apis|u taikahia
+Maning selihe maiha, belade gaghuwu
+I kau tawe mekapu, nangkoda nu Mawu
+
+Ref:
+Baneha su palalaheng, nibawewe u Mawu
+Talialang patingdagheng, kai kuruis|u Mawu
+I saing mededea sirung, mededea kellung
+Sellung su wanehe ene, malindung-lindung sene'), ('KLK477', '477', 'MABU MANINAGE SI KAU', 'KLK', '
+(Tuhan Allah Beserta Engkau) - Bantik
+Mabu maninage si kau, maidao kita mahisabu
+Age gilridi ni Kristus, Mabu maninage si kau
+
+Ref:
+Maidao kite mahisabu
+Maidao mahisabu kasau
+Maidao kite mahisabu,
+Mabu maninage si kau');
