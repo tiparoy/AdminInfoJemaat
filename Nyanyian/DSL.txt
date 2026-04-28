@@ -1,0 +1,558 @@
+('DSL001', '1', 'INJIL ITU PENAKA NYANYIAN PADA JIWA', 'DSL', 'Nyanyian satu ada,
+yang selamanya tiada Kau rasa habis manis
+yang esok, lusa, tula dan sesehari pula
+sesudah tau  kau nyanyilah
+
+Bunyinya bukan orang
+di dunia pun mengarang yang kurang tinggi hikmatnya
+di karang dalam surga  di nyanyi dulu juga
+disitu, baru sinilah
+
+Isinya pengasihan 
+yang bawa perdamaian seperti fajar bawa trang
+di tengah keegelapan dan susah kehidupan
+lagunya merdu bri senang
+
+Ket: 
+Penaka=Bagaikan, Sebagai
+Tula=Hari seberikutnya setelah lusa'), ('DSL002', '2', 'PENGASIHAN TUHAN', 'DSL', 'Ku sembah pada pengasihan
+yang nyata dalam Almaseh
+
+Membawa diri yang kasian,
+dimana kasih terlebih
+
+Ku hendak b|renti ingat diri
+Agar klak Tuhan Aku Cari
+
+Kasih Mu Tuhan amat sangat
+PadaMu aku indahlah
+
+Ku heran tapi dengan kuat
+Seg$nap hatiku rasalah
+
+Syukurlah Tuhan yang hartawan
+Pilihlah aku yang kasian'), ('DSL003', '3', 'JAWAB ATAS PANGGILAN TUHAN', 'DSL', 'Ku dengar Tuhanku!
+Kau panggil : Marilah,
+klak dengan darah
+yang kudus
+jiwaku sucilah.
+
+Sioh ya Tuhan b|ri
+hati yang keji
+dengan darah
+yang kudus
+klak disucikan trus.
+
+Ku datang penebus, ku sakit dan lemah
+Kuatkan dan sembuhkanlah
+Hatiku yang lemah (refr)
+
+Kudatang : Engkaulah
+Muchalis, yang menang,
+yang angkutlah
+tanggungan b|rat
+dan akan bri senang.
+(Reff................)'), ('DSL004', '4', 'KEKASIH JIWA', 'DSL', 'Kekasih jiwa dekatlah
+Mukhalis kami Yesus,
+yang rasa b|rat tangggungannnya
+dipanggil oleh Yesus
+
+Baik Malak menyanyilah.
+Puji Yesus, Tuhannya,
+boleh engkau pun meggah.
+Kekasihku Yesus
+
+Pujian, hormat dan syukur
+Keliling bagi Yesus
+Tahlil, nyanyian, dan mazmur
+Kekal kepada Yesus'), ('DSL007', '7', 'HALELUYAH', 'DSL', 'Gemarla akan Huw hai jemaat segnap
+
+Gemarla| akan Huw
+hai jemaat seg|nap
+kar|na ni|mat Ilahmu
+padamu tetap
+
+Haleluyah, puji Tuhan
+Haleluyah, gemar
+Haleluyah, puji Tuhan
+kasihNya besar
+
+---
+
+Gemarla| akan Huw
+kar|na Anak, yang t|lah
+masuk dunia
+agar dosa
+diangkutkannya
+
+Haleluyah, puji Tuhan
+Haleluyah, gemar
+Haleluyah, puji Tuhan
+kasihNya besar
+
+---
+
+Gemarla| akan Huw
+kar|na Roh yang kudus
+Roh pengantar
+kepada Anak Huw, Penebus
+
+Haleluyah, puji Tuhan
+Haleluyah, gemar
+Haleluyah, puji Tuhan
+kasihNya besar'), ('DSL011', '11', 'NAMA TUHAN', 'DSL', 'Jangan lupa nama Tuhan
+ya menara yang teguh,
+nama itu perteduhan
+bagi jiwa yang keluh.
+
+Indahlah namaHu
+perlindungan yang teguh.
+Indahlah namaHu
+perlindungan yang teguh.'), ('DSL032', '32', 'PERSEMBAHAN HATI', 'DSL', 'Bilang padaku hari ini.
+Barang yang patut kub$ri
+Hati yang berdosa begini.
+Bolehkah Tuhan tergli!
+Meski dosamu pun banyak, Tuhan sucikan.
+Hati, yang Engkau, hai anak hendak
+membawa dan bri'), ('DSL047', '47', 'DOA DAN KELUH', 'DSL', 'Do$aku dan keluhku Hu naik ke hadapanMu
+Sahutilah yang berseru dan bri tolonganMu
+Yah Tuhan alam glap bri RohMu bawa trang
+Jadikan yang lemah tegap
+dan jadikan yang kesah senang'), ('DSL065', '65', 'KENDATI JAUH BERJALAN JUGA', 'DSL', 'Ku carilah tanah yang khas,
+negri rohku mulia dan trang,
+rumah Bapa, istana khalas
+perhentian, kekal dan senang.
+
+Meski jauh, amat jauh
+ku tuju neg$ri yang senang ;
+meski jauh, amat jauh,
+amat jauh, kucarilah rumah
+yang t$rang.'), ('DSL093', '93', 'MALAM LENYAP', 'DSL', '1) Sekarang malam t$lah lenyap
+Dan diganti siang terang ;
+Lenyaplah takutku genap.
+Hatiku merasa senang
+
+Reff:
+Sukacita dalam dunia,
+trus ke surga yang baka.
+Ku jadi milik Tuhanku :
+Hai betapa indahnya!
+
+2. Segala air mataku
+tlah disapu habislah ;
+Didalam susah dukaku
+dapat aku bermegah.
+(Reff.)
+
+3. Dahulu batinku gelap.
+Tapi Tuhan brilah t$rang
+Sekarang ku rasa sdap;
+batinku beroleh s$nang. (Reff.)
+
+4. Kuasa maha - Tuhanku
+yang b$ri akulah menang
+Ya darah maha Tuhanku
+itu beri kesucian. (Reff.)
+
+Dan jika sukar jalanku,
+aku tinggal bergemar
+Sebab diatur langkahku,
+dengan sayang dan sabar (Reff.)'), ('DSL096', '96', 'IRING TUHAN', 'DSL', 'Iring dikau saja Tuhan,
+ada damai sepenuh
+Tidak lain jalan selamat ,
+Cuma oleh darahMu
+
+Reff.
+Aku hendak iring dikau
+Yang melindungi jiwaku
+Akan jadi sama Tuhan
+Itu rindu jiwaku'), ('DSL099', '99', 'PIKUL SALIB', 'DSL', 'Hendaklah kau iring Yesus
+pikul salib, jangan takut
+dan belisah ikut tabib.
+
+Pikullah salibmu, serta
+pandang tetap.
+Hingga dapatlah
+mahkota sukar lenyap
+
+Tuhan tuntut
+kerendahan Pikul Salib,
+kalau rasa kelemahan
+ikut tabib.
+
+Apapun juga mau tegahkan
+tinggal tetap,
+Tuhan Yesus klak
+teguhkan hingga genap.'), ('DSL102', '102', 'MAJU PAHLAWAN', 'DSL', 'Maju Hai Pahlawan turut Sultanmu,
+Maju serta pandang tunggul Tuhanmu
+Buat apa juga, Ia berpesan
+musuh akan kalah Kalau beriman
+
+Reff.
+Maju hai Pahlawan Turut Sultanmu
+maju serta pandang Tunggul Tuhanmu
+
+Bila hendak berangkat ini katanya
+Sungguh tiada kurang susah sukarnya
+Tapi ingat dunia aku t$lah menang
+Ia akan coba dikau dan berperang
+'), ('DSL104', '104', 'APA YANG KUTAHU', 'DSL', 'Takku mengerti apakah
+sebabnya Tuhanku
+menunjuk rahmat padaku
+seorang berseteru.
+
+Hanya inilah aku tahu
+yang ia Tuhan yang maha kuasa
+yang akan menyempurnakan
+dalam aku maksud-Nya
+'), ('DSL108', '108', 'Roh, jiwa serta tubuh', 'DSL', 'Roh, jiwa serta tubuh
+Ku bawa Tuhanku
+Selaku persembahan
+Yang ada milikmu
+
+DimezbahMu , tertaruh
+Iman dan penebus
+Ku nanti akan dikau
+Dan api yang kudus
+
+Kuduskan hati aku
+Maka aku mustahak
+Dan menyerahkan daku
+Kepada yang al-Hak
+
+Mukhalisku yang kuat
+Yang ada kuatku
+Khalasmu aku nanti
+Ku harap firmanmu
+
+Beri api ni$mat Tuhan
+Yang dari pihakmu
+Menyalahkan nyawa
+Beri daku geratku'), ('DSL109', '109', 'API MAHA TUHAN', 'DSL', 'Ya Yesus, t$rang dan kuatku
+Brikanlah, Brikanlah apiMu
+Baik masuk dalam hatiku
+Brikanlah, Brikanlah apiMu
+Bersihkanlah daku AlMaseh
+Supaya hati yang keji
+Menjadi suci dan jernih
+Brikanlah, Brikanlah apiMu
+
+Hai jika hilang harapmu
+Mintalah, mintalah apinya
+Yang menggerakan hatimu
+Itulah, itulah apinya
+Saudara, biar bangunlah
+Sebagaimana darahnya
+Menyucikan begitulah
+Ia bri, ia bri apinya'), ('DSL114', '114', 'Ya Tuhan yang maha kudus', 'DSL', 'Ya Tuhan yang maha kudus
+Yang tumpah darahMU
+Supaya aku tertebus
+Dan turut tapakMu
+Yang pimpin aku dengan senang
+Sepanjang jalanMu
+Berilah agarku menang
+Meniru contohMu
+Meniru contohMu
+Meniru contohMu
+Pri jinak, serta pri rendah
+Meniru contohMu'), ('DSL115', '115', 'PUTIH BERSIH', 'DSL', 'Ya Tuhanku dengarlah Doaku dan sembahyangku,
+Hai mari tinggallah didalam gnap batinku
+Jadilah daku anakmu, Yang dengar-dengaran
+teguh Baik darahmu kudus
+
+Reff. Bersihkan sehingga terus Putih Bersih,
+Putih bersih. Bri Tuhan darahmu kudus
+Bersihkanlah aku terus'), ('DSL118', '118', 'SAMBUTLAH', 'DSL', 'Tuhan datang padamu,
+Sambutlah!
+Jangan buang Tuhanmu,
+sambutlah!
+
+Ia pun berdirilah
+dan ketuk tak brenti-Nya
+Harap sampai maksudnya.
+Sambutlah!
+
+Buka pintu hatimu,
+Sambutlah!
+Jangan tunggu waktumu,
+Sambutlah!'), ('DSL129', '129', 'Mukhalis itu tongkatku', 'DSL', 'Mukhalis itu tongkatku
+Yang bantuan dari susah kras
+Dan dari kubur dan setru
+Ditolongnya dibri lepas
+
+Ya yesus batu karang
+Keluputan,keluputan, keluputan
+Suatu tempat lindung
+Yang senang dan tempat kelepasanku
+
+Mukhalis, rindu dendamku
+Yang hentarlah kepangunan
+Dan mata air yang sejuk
+Ya, aku tak dilupakan'), ('DSL133', '133', 'NIKMAT BESAR', 'DSL', 'Ni$mat Maha Tuhanku
+aku puji berseru,
+karna rindu hatiku
+Ni$mat besar.
+
+Dari surga yang baka
+masuk dunia yang fana
+tanggung dosa atasNya
+Ni$mat besar.
+
+Ni$mat besar,
+ni$mat besar
+tidak terduga dan
+luas benar. Ni$mat besar
+'), ('DSL135', '135', 'Tongkatlahku Tuhan', 'DSL', 'Tongkat|lahku Tuhan !
+Dan jaga langkahku
+Dalam malam kabut.
+Seorang diriku
+janganlah Kau tinggal
+aku tersesat.
+
+Berkembara dalam susah,
+sukar dan penat
+
+Bapa hentarlah,
+Tongkat|lah daku;
+agar habis Ku berperang,
+Kau beri mahkotaku.
+'), ('DSL136', '136', 'JAM SEMBAHYANG', 'DSL', 'Jam sembahyang yang kudus
+Bila engkau keluh pada Tuhan
+yang tahu kesusahanmu. Dengan
+hati beriman Biar dia pergi segra
+
+Reff.
+Klak kau rasa sentosa, duduk disitulah
+Bersembahyanglah Pada Bapanya
+Dengan nama Yesus Turut kehendaknya
+'), ('DSL138', '138', 'JALAN DITERANG', 'DSL', 'Iringlah Tuhan dalam trang,
+keluar dari gelap.
+Dan ingat apa wajibmu,
+dan turutlah tetap.
+
+Reff.
+Berjalan diterang (3x)
+Berjalan di dalam terang.
+
+Iringlah Tuhan dalam terang
+senantiasa hatimu
+setia lurus dan benar,
+menunjuk kasihMu.
+
+(Reff.................)'), ('DSL139', '139', 'HAI ANAK DOMBA ALLAH', 'DSL', '1. Hai Anak Domba Allah yang t値ah datang. Menghapuskanlah dosa dunia g地ap!
+Seperti rusa cari air batang, begitu jiwaku pun rindu Kau tetap!
+
+Reff: Biar hidupku Ku taruh Tuhanku! Di bawah kakimu, Hai, Jurus値amatku!
+
+2. Ku tangis kar地a dosaku ceraikan. Kau Tuhan, hingga jiwaku kelam,
+kutinggalkan semua yang tegakan, Ku datang padamu; baik beri kesucian! (Reff)
+
+3. Hai, Ruh Kudus! B池i tolong dan membongkar kerjanya iblis dalam hatiku,
+Terangkan jalanku seraya hantar dan lengkap hatiku kepada Tuhanku! (Reff)
+
+ '), ('DSL156', '156', 'INTAN PERMATA', 'DSL', 'Engkau cari intankah
+Guna tajuk Al-Maseh
+ingat dalam limbahan,
+ada intan yang permai.
+
+Reff.
+Intan-intan dan permata
+jiwa-jiwa Tuhanmu
+biar cari lalu bawa
+Guna Tajuk Sultanmu.
+
+Jiwa yang telah sesat
+Dari Hu sebab lemah.
+Ada panggil dan seru
+bantu dari sukarnya. (Reff)
+
+Bawalah kepada-Nya
+intan yang disucikan
+dengan darah yang kudus
+hingga suci cemerlang.(Reff)'), ('DSL158', '158', 'JANGAN KELU', 'DSL', 'Carilah orang terhilang
+domba yang sudah sesat.
+Ajarkan dia mengerti
+maksudnya Tuhan tepat.
+
+Jika yang papa menderita
+biar kutaruh belas.
+Tunjukan ni$matnya
+Tuhan utangnya
+sudah jelas.
+
+Hai, jangan kelu.
+Jangan kelu, jangan kelu.
+Hai jangan menyangkal
+Mukhalis, biar mengaku teguh'), ('DSL164', '164', 'PENGASIHAN ALLAH', 'DSL', 'Sio Tuhan Engkau tuntut
+cinta kasihku seg|nap
+hidupku ku persembahkan
+dan mengiring Kau tetap
+
+Karena hiang keberatan
+serta sakit susahku
+asal saja aku tau
+Engkau ada sertaku
+
+Reef:Tuhan aku minta
+brilah cinta aku cinta
+Engkau saja terlebih 
+ya Tuhan Almasih
+
+Sio Tuhan bri ku rasa
+kuatnya pengasihan
+briku hidup bagi Dikau
+tolong hingga ku memang
+
+bri pengasihan menolak
+susah serta sukarku
+bri pengasihan berubah
+hatiku dan batinku (Reef)'), ('DSL165', '165', 'Di dalam Tuhan Yesus, ku dapat sobatku', 'DSL', 'Di dalam Tuhan Yesus, ku dapat sohbatku
+Yang terkasih diantara s$laksaan
+
+Dan bakung yang dilembah
+Yaitu Tuhanku, yang bri
+Ampun dari g$nap persalahan
+
+Bri hibur dalam duka
+Bri kuat dalam p$rang
+Di tanggungnya segnap kebratanku
+
+Bunga bakung yang dilembah
+dan bintang timur Trang
+Ia sajalah kekasih bagiku
+
+Yang tanggung sengsara
+dan siksa dosaku
+dan beri kuat dalam
+gnap pencobaan
+
+kutinggalkan semua
+yang telah tunjuk nimat
+pagi dan petang'), ('DSL173', '173', 'JANGAN TAKUT', 'DSL', 'Jangan kamu takut Aku adalah
+Itu Tuhan janji biar ingatlah
+Itu pun bri hibur kalau tak senang.
+Lagi punbri kuat
+Bila engkau masih masuk prang.
+
+Mawar lagi bakung layu segenap
+kebesaran dunia tak pernah tetap
+Tapi mawar saron Ya|ni Tuhanku
+tak pernah terluruh tinggal tetap padaMu
+
+Reff.
+Hai tidak pernah hai tidak pernah
+Klak ia tinggalkan dikau bahkan tiada pernah'), ('DSL176', '176', 'MUSIM PENUAIAN', 'DSL', 'Selaku orang pengetam
+yang rajin kami himpunkan
+Gandum dan bawa masuk trus
+ke lumbung Tuhan yang Kudus.
+Dan Yesus pun ku pujikan
+Yang TuhanNya penuaian
+yang berilah berkat
+bahkan pun yang matilah
+sepri gandum.
+
+Reff.
+Pergi dan bekerjalah kamu satu-satu
+Tuhan panggil bersegra
+jangan sayup waktu.
+Baik cepat-cepat teman
+skarang waktu mengetam
+maju dengan nama Tuhanmu
+
+Dan kami pun mengumpul terus
+dan ingat kata Penebus
+Bekerja dengan rajin dan sabar
+Sebab penuaian besar
+daN kurang orang bekerja
+Hai lihat habis putihlah
+Pergi kepada bendangku
+bekerja dengan rajinmu.'), ('DSL181', '181', 'TABURLAH', 'DSL', '1) Yang menabur dengan tangis,
+sambil harap Tuhan Hu.
+Mengetam klak
+dengan sorak
+slamat yang
+kekal penuh.
+
+Reff.
+Embun surga pun mendiris,
+matahari membenas.
+Hingga sarat tangkai pulur.
+Jadi masaklah lekas.
+
+2) Tegal itu jangan lalai,
+biar taburlah segera
+pada musim pengetaman,
+engkau klak bersoraklah.
+(Reff.............)
+
+3) Pandang gandum yang diladang.
+Hai betapa suburnya
+masing-masing bri seratus,
+meski iblis mencegah.
+(Reff............)'), ('DSL184', '184', 'JAGA DAN BERDOA', 'DSL', 'Biar berjagalah,
+pendeklah waktumu.
+ Musuh mengintailah
+dan cari salahmu.
+
+Pri dagingmu lemah,
+carilah, Tuhanmu.
+Niscaya kau menang
+di atas musuhmu.
+
+Reff.     
+Berjagalah, berdoalah !
+Baik malam gelap,
+baik siang terang harus ingatlah
+'), ('DSL185', '185', 'BERPERANG HINGGA MENANG', 'DSL', 'Kita berseru ; Haleluya!
+Kibarkan tunggul Tuhanku
+Kita tampil kemuka, hingga
+Br$enti dirumah Bapa Hu
+
+Reff.     
+Tinggallah teguh pada Rajamu
+Musuh akan tewaslah
+Jangan bercerai dari Al - Maseh
+K$lak sebentar Haleluya
+Kita berseru haleluya !
+Iblis hampirlah termenang
+Maut dan neraka akan kalah
+Kau dimanakah ? Hai teman ?'), ('DSL201', '201', 'SOBAT YANG BENAR', 'DSL', 'Yesus ada sobat kita
+amat tulus dan benar.
+Ia dengan sukacita
+hentar kita bergemar.
+Banyak kali dosa untung,
+serta damai hilanglah,
+karna tidak minta tolong
+pada sobat itulah.
+
+Jika ada pencobaan 
+kacau balau hidupku
+Lari saja pada Yesus 
+sobat kita yang benar
+Sobat itu memb|ri obat
+jika kita sakitlah
+Ia juga memb|ri kuat 
+jika kita berlelah'), ('DSL216', '216', 'UTUSLAH AKU', 'DSL', 'Dengar maha Tuhan panggil
+Marilah kebendangku
+ gandum sudah jadi putih
+Baik ketamlah gandumku
+
+Tuhan panggil
+dengan sangat
+ dan besarlah untungku
+Biarlah dengar dan menjahut
+Utusl$ Aku Tuhanku'), ('DSL221', '221', 'TUHAN SERTA KITA', 'DSL', 'Tuhan harus serta
+aku kalau tidak ku sesat,
+Sama-sama dengan
+Tuhan baru langkahku tepat
+
+Reff :     
+Maka jiwaku teduh
+ pada jalan dan lebuh,
+dengan tidak lagi tanya
+Aku iring Tuhanku.
+
+Tuhan harus serta aku,
+baru ringanlah beban
+tidak lagi rasa takut.
+Dan berjalan dengan senang');
