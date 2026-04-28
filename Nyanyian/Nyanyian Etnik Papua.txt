@@ -1,0 +1,255 @@
+('ETN001', '1', 'Ra|a Mana Refo (Maybrat)', 'ETN', 'Ra|a mana refo, Ra|a mana refo
+Ra|a siwan Yesus Ra|a siwan Yesus
+Ra|a mana refo, Ra|a mana refo
+Ra|a siwan Yesus Ra|a siwan Yesus
+
+Nema semo rait, nema heyu tait 
+Borbaro wer wer, Borbaro wer wer
+Nema semo rait, nema heyu tait 
+Borbaro wer wer, Borbaro wer wer
+
+Re non maut, nteratot maut
+Yesus yawe yama, ati ayo maut
+Re non maut, nteratot maut
+Yesus yawe yama, ati ayo maut
+
+Umat yang berhimpun, umat yang berhimpun
+menantikan Yesus, menantikan yesus
+Umat yang berhimpun, umat yang berhimpun
+menantikan Yesus, menantikan yesus
+
+Mari sembah Dia, mari puji dia
+Sekarang ini.. Sekarang ini...
+Siang telah tiba, Yesus tlah bersabdah
+Dia akan datang, dari arah timur.
+
+Sumber: Tata Ibadah GKI Martin Luther Wermit'), ('ETN002', '2', 'Monggo Sami Nderek Gusti (Bahasa Jawa)', 'ETN', '(Bahasa Jawa)
+Monggo-monggo sami nderek gusti; 
+monggo sami nderek gusti
+gusti Yesus juru wilujeng
+monggo-monggo sami nderek gusti 
+
+(Bahasa Indonesia)
+Mari kawan ayo ikut Tuhan; 
+ayo ikut Tuhan Yesus; 
+Tuhan Yesus juru selamat 
+ayo kawan mari ikut Tuhan 
+
+
+Sumber: Tata Ibadah GKI Martin Luther Wermit'), ('ETN003', '3', 'Singgo Rakhcko - Tehit', 'ETN', '(Bahasa Tehit)
+
+Singgo rakhcko- singgo rakhcko 
+talihin wowa-talihin wowa
+fafgan marok-fafgan marok 
+fahek fe sisi-fafek fe sisi
+
+Singgo rakhcko talihin wowa
+fafgan marok fehen fesisi
+singgo rakhcko- singgo  rakhcko 
+nago fe tali
+
+(Bahasa Indonesia)
+
+hari ini-hari ini 
+harinya Tuhan-harinya Tuhan
+mari kita-mari kita 
+bersukaria-bersukaria
+hari ini harinya Tuhan
+mari kita bersukaria
+hari ini-hari ini 
+harinya Tuhan
+
+
+Sumber: Tata Ibadah GKI Martin Luther Wermit'), ('ETN004', '4', 'Nosola Nago Wefit Tkedih (Tehit)', 'ETN', '(Bahasa Tehit Naswa)
+
+Nosola Nago wefit tkedih
+nosola Nago wefit e....,
+nosola Nago wefit tkedih
+nosola Nago wefit e....
+ooo nahinla....ooo nahinla...
+nosola nago wefit tkhedih eee
+ooo nahinla.
+
+(Bahasa Indonesia)
+
+Dengar dia panggil nama saya
+dengar dia panggil namamu
+dengar dia panggil nama saya, juga dia panggil namamu
+ooo giranglah, ooogiranglah
+yesus amat cinta pada saya 
+ooo giranglah
+
+
+Sumber: Tata Ibadah GKI Martin Luther Wermit
+'), ('ETN005', '5', 'Tali Ngameris (Tehit Gemna)', 'ETN', '(Bahasa Tehit Gemna)
+1. Namarok mari msi kafit mefit
+    Mana Nagow Tali Ngameris
+    Mase wisya roro khow wana, faf
+
+Reef: 
+Faf-faek fe eri, Faf-famu mana eri.
+Faf motmor mana eri, 
+Faf fen dando mana eri
+Nago Tali Nggameris wisya rere wana faf (2x)
+             
+2. Nari nena khohok khrema
+    Warun wambe mameri key
+    Mase wisya roro kho wana faf (Reef)
+
+
+Sumber: Tata Ibadah GKI Martin Luther Wermit'), ('ETN006', '6', 'Yesus Wfe Hen Om Mais (Tehit)', 'ETN', '
+Tet tfe Ye-sus wfe hen om mais
+Mak rie-re Gol-go-ta
+Hra yai-si yba fe lek o-li
+w-fe ni si-ga ei ydain
+w- fe ni si ga ei ydain (2x)
+hra Yei-si yba-fe-lek o-li
+w-fe ni si-ga ei ydain
+
+(Bahasa Indonesia)
+Tercurah darah Tuhanku
+Dibukit Golgota
+Yang mau bertobat di tebus 
+Terhapus dosa (3x)
+Yang mau bertobat ditebus, terhapus dosanya.
+
+
+Sumber: Tata Ibadah GKI Martin Luther Wermit'), ('ETN007', '7', 'Sia Hamba', 'ETN', 'Sia hamba kukan nyen kuen kos
+sia hambe kukan nyen kuenkos 
+Sia hamba kukan nyen kuen kos
+sia hambe kukan nyen kuenkos 
+Sia hamba-sia hamba oooh 
+sia hamba kukan nyen kuenkos
+
+Nakha fefain foli Nago whak
+nakha fefain foli Nago whak
+Nakha fefain foli Nago whak
+nakha fefain foli Nago whak
+Nahka fefain-nakha fefain oooh 
+nakha fefain foli Nago whak
+
+Anu bemo rio fro Allah
+anu bemo rio fro Allah 
+Anu bemo rio fro Allah
+anu bemo rio fro Allah 
+Anu bemo-anu bemo ooo... 
+Anu bemo rio fro Allah
+
+Kita jalan dalam t|rang Tuhan, 
+kita jalan dalam t|rang Tuhan 
+Kita jalan, ayo kita jalan, ooo 
+kita jalan dalam t|rang Tuhan
+
+
+
+Sumber: Tata Ibadah GKI Martin Luther Wermit'), ('ETN008', '8', 'Nago wawua om maka mak wiko (Tehit Imian)', 'ETN', '(Bahasa Tehit Imian)
+
+Nago wawua om maka mak wiko
+Nago wawua om mhnak bot man faf kei
+Om le mbot, om le mlua om le mhnak sal fe faf
+Hra Nago wbahe mahin ago maka
+Nen nbatdak nabri om mse Nago wawua mak
+Nen nbatdak nabro om nsamorik man Yesus
+Nwaliskat la mam key, nhnak la fle man mam 
+midiaen kohok mafle mahin Nago
+
+(Bahasa Indonesia)
+Roh Kudus Kau hadir di sini
+Roh kudus ku mengasihi-Mu
+Kau lembut, manis, kaulah penghiburku, penolongku diutus Bapaku
+Ku buka hati untuk Roh Mu Tuhan
+Kubuka hati menyembah-Mu Yesus
+Jamahlah kami, penuhi kami
+Dengan kuasa Allah maha tinggi
+
+
+Sumber: Tata Ibadah GKI Martin Luther Wermit'), ('ETN009', '9', 'Remo Yerusalem', 'ETN', 'Remo ramo remo Yerusalem, 
+remo romof (2X)
+Taja nama teme nama 
+Tao tanu nama anu bemo remo Yerusalem
+
+
+Sumber: Tata Ibadah GKI Martin Luther Wermit'), ('ETN010', '10', 'Lonceng Gareja Su Babunyi (Melayu Maluku)', 'ETN', 'lonceng gareja su babunyi gandong e
+mari bakira katorang maso jua e
+duduk badiam di kaki yesus manise
+sio dengar firman puji yesus manise
+mari samua orang yang pu tanggungan b|rat
+sio yesus panggil katong samua datang e
+lonceng gareja su babunyi gandonge
+jang ale tunggu lama lae
+
+Reef
+jang pastiu deng dunia pu sanang
+sadiki lai yesus su mau datang
+mari jua, sio gandonge yesus tunggu
+buka hati tarima yesuse, tinggal dalam katorang pu hidop
+cuma dalam tuhan yesus katong s|lamat
+
+Sumber: Tata Ibadah GKI Martin Luther Wermit'), ('ETN011', '11', 'Pangkei |Puang Tuambe|ta (Toraja)', 'ETN', '(Bahasa Toraja)
+pangkei|puang Tuambe|ta, 
+pangkei|Anak Tungga|Na
+pangkei| tupe-naa ma-sal-lo|, 
+tal-lu sang bu-a ban-nang
+ha-le-lu-ya, ha-le-lu-ya, tal-lu sang bu-a ban-nang
+
+(Bahasa Indonesia)
+Hormat bagi Allah Bapa,
+hormat bagi AnakNya
+hormat bagi Roh Penghibur 
+Ketiganya Yang Esa
+haleluya-haleluya Ketiganya Yang Esa.
+
+
+Sumber : Tata Ibadah GKI Martin Luther Wermit'), ('ETN012', '12', 'Van Mano Kho (Tehit)', 'ETN', '(Bahasa Tehit)
+Van mano kho, mlis sonat te, tetdo... taintali ana, ndo...sinlah, van ra tai kho me, kawake, tetapi nenak dado anae (2x)
+Reef. 
+O Nago Yesus, nensotlah tetke, ndosin, vanra tai khome, o nago Yesus nensotlah tetke..e...e 
+kawak e tetapi nenak dado ana e...e.
+
+(Bahasa Indonesia)
+Perjalanan jauh ke surga, aku rindu ke sana
+Tun-jukan jalan bagiku, sampai ku berjumpa dikau diseb|rang sana
+Oh Tuhan Yesus, tolonglah aku, tunjukan jalan bagiku
+Oh Tuhan Yesus tolonglah daku, sampai ku berjumpa Dikau di seb|rang sana.
+
+
+Sumber: Tata Ibadah GKI Martin Luther Wermit
+'), ('ETN013', '13', 'Nago wawua om maka mak wiko (Tehit Imian)', 'ETN', '(Bahasa Tehit Imian)
+Nago wawua om maka mak wiko
+Nago wawua om mhnak bot man faf kei
+Om le mbot, om le mlua om le mhnak sal fe faf
+Hra Nago wbahe mahin ago maka
+Nen nbatdak nabri om mse Nago wawua mak
+Nen nbatdak nabro om nsamorik man Yesus
+Nwaliskat la mam key, nhnak la fle man mam
+midiaen kohok mafle mahin Nago
+
+(Bahasa Indonesia)
+Roh Kudus Kau hadir di sini
+Roh kudus ku mengasihi-Mu
+Kau lembut, manis, kaulah penghiburku,
+penolongku diutus Bapaku
+Ku buka hati untuk Roh Mu Tuhan
+Kubuka hati menyembah-Mu Yesus
+Jamahlah kami, penuhi kami
+Dengan kuasa Allah maha tinggi
+
+Sumber: Tata Ibadah GKI Martin Luther Wermit'), ('ETN014', '14', 'Tercurah Darah Tuhanku (Tehit Imian)', 'ETN', '(Bahasa Tehit Imian)
+Mam mdi-har ka-wuak le man nen
+Tet tsa, mo-rik man nen,
+Msa.-mor’k mabe mam mhes ka.-myi,
+Na.-go nmro. Fe mam
+Koor : Yesus Tuhan, noso sikafit
+Na wat mre fot nen nataren
+Nen nain sros dait e
+
+(Bahasa Indonesia)
+Tercurah darah Tuhanku
+Dibukit Golgota;
+Yang mau bertobat ditebus,
+Terhapus dosanya,
+Reef:
+Terhapus dosanya,
+Terhapus dosanya
+Yang mau bertobat, ditebus,
+Terhapus dosanya');
