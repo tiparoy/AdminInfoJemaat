@@ -1,0 +1,314 @@
+('SRM001', '1', 'Dari Ombak Besar', 'SRM', 'do=es 3/4
+
+D-ri om-bak be-sar, da-ri Lau-an Te-duh a-da ber-
+be-nyi nya-nyi-an pu-ji de-ngan su-ra mer-du, un-tuk
+ta-nah mu-li-a, un-tuk ta-nah yang baik, yang pan-tai-nya
+pu-tih, yang gu-nungnya naik sam-pai ke-a-wan yang ter
+ting-gi di-langit te-rang. Be-gi-tu-lah ta-nah,
+tem-pat |ku se-nang, I-tu-lah ta-nah-ku Pa-pu-a
+
+Dari awal rendah dari purba gelap,
+aku terpanggil, aku tertangun da berdiri tetap,
+dan melihat ke muka dengan maksud benar;
+hutan rimba terbuka, hasil tanah besar!
+Karena anakku semua sehati teguh
+menanggung usaha dan panggilanku,
+Hiduplah tanahku hai Papua!
+
+Ke benua yang jauh, darimu tercerai,
+ku mengembara lihat negara yang ganjil permai.
+Lautan luas yang biru, gunung rimba gelap,
+kaki langit yagn baru memanggil tetap.
+Tapi, hai tanahku, kemanapun jalananku,
+tentu aku pulang kelak |padamu.
+S|lamatoo! Tanahku hai Papua!
+'), ('SRM002', '2', 'Hai Tanahku Papua', 'SRM', 'do=g 4/4
+
+Hai ta-nah ku pa-pu-a, kau ta-nah-la-hir-ku,
+Kau hen-dak ku-ka-sih-i se-hing-ga a-jal-ku.
+
+Kukasih pasir putih di pantaimu senang,
+dimana lautan biru berkilat dalam t|rang.
+
+Kukasih bunyi ombak, pemukul pantaimu,
+nyanyian yang selalu senangkan hatiku.
+
+Kukasih gunung-gunung, besar, mulialah,
+dan awan yang melayang-layang keliling puncaknya.
+
+Kukasih hutan-hutan, selimut tanahku
+|Ku suka mengembara dibawah naunganmu
+
+Kukasih engkau, tanah, yang denan buahmu
+membayar kerajinan dan pekerjaanku
+
+Syukur bagimu, Tuhan: Kaub|rikan tanahku,
+b|ri aku rajin juga sampaikan maksudMu.'), ('SRM003', '3', 'Ma|lumkanlah', 'SRM', 'do=c 4/4
+
+Ma|-lum-kan-lah kaum mu-da ter-se-dar, dan hen-dak me-me
+Gang, de-ngan ha-ti se-nang, pe-ker-ja-an-nya yang be-sar.
+Ku-at te-guh! Ang-kat-kan-lah be-ban Mes-ki-pun le-lah, ki-ta
+tak me-nge-sah; ki-ta pu-nya za-man de-pan! Pan-du naik ke
+pun-cak gu-nung, ca-ri ha-wa yang se-gar, ma-ta-mu hen-dak li-hat
+rin-tis di se-mak nan-ti tin-jau-an a-kan menggem-bi-ra-kan
+Sia-pa su-ka naik-kan pan-ji a-fas pe-ker-ja-an-nya, ber-te-guh-te-gap, i-ngat jan-ji-nya te-tap: |Ku si-ap-lah!'), ('SRM004', '4', 'Kupilih Jalan Pandu', 'SRM', 'do=es 6/8
+
+Ku-pi-lih ja-lan pan-du di-hi-dup-ku, yang nun-tut da-ri
+a-ku tu-gas pe-nuh. Hen-dak |ku ber-u-sa-ha,
+se-la-ma-nya. Ki-ra-nya Tu-han to-long: |Ku si-ap-lah!
+
+Melayan turut janji, aku gemar;
+bersungguh hati jadi pandu benar.
+Hendak |ku berusaha, selamanya.
+Kiranya Tuhan tolong: |Ku siaplah!'), ('SRM005', '5', 'Gerombolan Pandu', 'SRM', 'do=f 4/4
+
+Ge-rom-bol-an pan-du yang mu-da se-gar, gem-bi-ra ke-
+mu-ka te-rus Per-jan-ji-an, sa-tri-a sung-guh be-nar de-
+ngan ci-ta-ci-ta ku-dus. Ti-a-da yang la-lai ber-
+ha-ti le-mah, se-bab tu-rut jan-ji te-guh di-b|ri o-leh
+pan-du per-to-long-an-nya di-ma-na ker-ja-nya per-lu.
+
+Debar jantung hidup dan langkah cepat,
+semuanya ikut serta,
+dengan tulus ikhlas, beban sama b|rat,
+tiadalah tinggi rendah.
+Setialah pandu kepada teman,
+bersiul dan tak mengeluh,
+membuat yang wajib dan tidak segan,
+dimana kerjanya perlu.'), ('SRM006', '6', 'Pabila Hari Mulai', 'SRM', 'do=g 4/4
+
+Pa-bi-la ha-ri mu-lai g|lap dan ma-lam pun te-duh, ke-
+rit-kan ga-ris se-ge-ra dan pa-sang a-pi-mu. Dan da-ri ran-ting-
+nya ter-bit ca-ha-ya nya-la ber-be-lit, yang me-rah ber-be-lit!
+
+Kau duduk dicahaya t|rang, kau tahu artinya:
+merancang baru dan senang dengar ceritera.
+Dan dari lingkarmu terbit nyanyian nyala berbelit, yang merah berbelit!'), ('SRM007', '7', 'Bumi Menunggukan', 'SRM', 'do=g 4/4 3/4
+
+Bu-mi me-nung-gu-kan ki-ta, jauh ter-bu-ka lu-as-nya.
+ma-ri, ber-gan-denga-an ta-ngan maksud baik tu-ju-i-lah.
+Ten-ta-ra pu-te-ri leng-kap; ki-ra-nya ku-at-nya ge-nap
+mem-bri bu-mi su-ka-ci-ta, da-mai sung-guh yang te-
+tap. Ben-de-ra da-mai, ti-ga se-tang-kai,
+se-ha-ri-ha-ri ting-gi-kan-lah! Dan ci-ta-ci-ta
+se-ri-kat ki-ta: se-jah-te-ra di-du-ni-a!
+
+akan janji serta syarat dan semboyan: siaplah,
+kitapun tetap setia; zaman baru merekah!
+Terang mengkilatkan embun; lenyaplah malam lamapun.
+Bendera damai, .......
+
+Kidungkita bersuara diseluruh dunia.
+Berkasihan dan berani kita akan bekerja.
+Terpanggillan kecil besar, menjadi pandu yang benar,
+yang menurut suara Tuha, kuat, suci dan segar.
+Bendera damai,.....'), ('SRM008', '8', 'Meskipun Tofan', 'SRM', 'do=g 4/4
+
+Mes-ki-pun to-fa me-me-kik, ke-mu-ka ki-ta
+ju-a! Ke-mu-ka ki-ta me-nye-rang, wa-lau-pun ja-lan
+tak se-nang, me-nyong-song fa-jar t|rang! Me-nyong-song fa-jar t|rang!
+
+Rintangan tidak menengah di jalan yang di muka.
+Bahagia, kesukaan
+sedia di zaman depan
+Menyongsong fajar t|rang! 2x
+
+Beban pun tak terlalu b|rat di atas bahu muda.
+Di hutan kita meretas,
+bertindak b|rani dan tegas
+Menyongsong fajar t|rang! 2x'), ('SRM009', '9', 'Kita Muda', 'SRM', 'do=f 4/4
+
+Ki-ta mu-da, ki-ta ku-at, dan ter-bu-ka du-ni-a.
+Pang-gil-an-nya: ma-ri, bu-at tu-gas-mu dan beker-ja!
+Ka-lau ha-rap mu mau hilang, ja-ngan du-duk ge-me-tar,
+li-hat si-ang ber-ge-mi-lang! Ki-ta mu-da dan se-gar!
+
+Dibelakang gunung itu tanah baru terletak.
+mari, ikutlah ke situ; kita harus bergerak.
+Laut dan darat ada tunggu, sampai kita tersedar.
+Kita cari hidup sungguh! Kita muda dan segar!
+
+Kita maju siang hari dalam rimba dan semak.
+Bintang sudi menyinari jalan yang gelap kelak,
+Hujan tak menggangu kita, meski banjirnya besar!
+Nyanyi dengan sukacita: Kita muda dan segar!'), ('SRM010', '10', 'Tongkat dan Kaleng', 'SRM', 'do=g 2/4 4/4
+
+Tong-kat dan ka-leng be-kal-an leng-kap, Hei-la, hi-
+ho! t|rus me-ngem-ba-ra se-ha-ri ge-nap.
+Hei-la, hi-ho! Di-pan-tai laut da-lam a-ngin se-juk,
+da-lam t|rang fa-jar ber-ki-lat te-luk. Ung-gas me-nya-nyi ber-
+gi-rang-ge-mar; ki-ta ber-so-rak ber-su-ra be-sar:
+Hei-la, hi-ho! Hei-la, hi-ho! Hei-la, hi-ho!
+
+Mendaki batu yang tajam, keras! Heila, hiho!
+Arungi sungai yang dingin, deras, Heila, hiho!
+Masuk ke hutan gelap dan lebat,
+naik sama-sama dan jangan sesat.
+Baru di puncak berhenti senang,
+kita meninjau ke dunia terang. Heila, hiho 3x
+
+Mari kembali ke bawah seg|ra! Heila, hiho!
+Turun ke jurang dengan kolamnya. Heila, hiho!
+Loncat dan mandi di air yang terjun,
+habis lelah dan keringatmu pun.
+Jangkrik beribu keti berkerik;
+kitapun pulang dengan bertempik: Heila, hiho! 3x'), ('SRM011', '11', 'Meskipun Gunung', 'SRM', 'do=c 4/4
+
+Mes-ki-pun gu-nung ting-gi, ki-ta men-da-ki-nya.
+Naik le-bih ting-gi la-gi, sam-pai ke-pun-cak-nya.
+Mau men-de-ngar a-sal a-ngin se-gar, li-hat per-hing-ga-an
+bu-mi be-sar. A-lang-kah lu-as bu-mi, a-lang-hak lu-as-nya!
+
+Air dingin berpancar, lalu terjun-terjun.
+Angin putih melancar, suka menyanyi pun.
+Dan langit biru melambai tetap:
+$Hai, kamu naik dari hutan gelap!$
+Alangkah luas bumi, alangkah luasnya!
+
+Sudah sampai ke atas, pohonnya ditebang
+dan dengan tak berbatas kita melihat t|rang .
+Heranlah kita siapa tahu
+tanjung dan puncak dan pulau yang jauh.
+Alangkah luas bumi, alangkah luasnya!'), ('SRM012', '12', 'Majulah P|rahuku', 'SRM', 'do=c 4/4
+
+Ma-ju-lah, p|ra-hu-ku; ma-ju-lah! Ma-ju-lah, p|ra-hu-ku, ma-ju-
+lah! Da-lam ru-mah-nya ten-tu tung-gu har-ta ha-ti-ku.
+Ma-ju-lah, p|ra-hu-ku, ma-ju-lah! ma-ju-lah!'), ('SRM013', '13', 'Siapa Tolong', 'SRM', 'do=d 4/4
+
+Sia-pa to-long mem-ba-ngun-kan hi-dup se-hat dan se-gar,
+i-kut da-lam per-jan-ji-an, mak-sud ka-mi yang be-nar!
+Se-ge-ra, i-kut-lah! Ku-at-mu per-lu un-tuk ta-nah-mu.
+Ber-ge-rak dan te-gak, mak-mur ta-nah-mu ke lak!
+
+Jangan malas, jangan mabuk;
+pakai kuatmu penuh.
+Tiap hari garu tunjuk
+kesungguhan maksudmu.
+Tahanlah bekerja!
+Rumah tanggamu haruslah sembuh;
+cukupkan makanan,
+tambahkan kesehatan!
+
+Jangan kamu buang kuat
+sampai rusak hidupmu!
+Pakai gaji kamu buat
+rumah sehat dan teguh.
+Dantentu, cintamu
+harus suci dan bersetiawan.
+Sungguhlah olehnya
+tanah berbahagia!'), ('SRM014', '14', 'Tutupkanlah Susah Kamu', 'SRM', 'do=g 2/4
+
+Tu-tup-kan su-sah ka-mu di-pe-ti dan ter-se-nyum!
+ja-lan ke-ma-na ka-mu meng-er-ti, a-tau-pun be-lum.
+A-pa gu-na me-nge-luh? Ten-tu per-cu-ma, ja-di:
+Tu-tup-kan su-sah ka-mu di-pe-ti dan ter-se-nyum!'), ('SRM015', '15', 'Dengarlah, Hai Bangsa', 'SRM', 'do=g 2/4
+
+De-ngar-lah, hai bang-sa se-mu-a, de-ngar; hen-
+dak ber-ke-ru-mun dan ra-mai. Ber-him-pun dan ja-di
+se-ri-kat be-sar dan i-kutlah ten-ta-ra da-mai.
+ber-hen-ti pe-rang dan ber-ba-tah-ban-th;
+pe-cah-kan me-riam dan be-dil.
+Ker-ja-kan se-jah-t|ra dan tu-rut pe-rin-tah
+Pang-li-ma yang baik dan a-dil.
+
+Hai, pukullah tambur dan gung pegerah.
+Benua semua sedia.
+Serikat sejaht|ra dan tentaranya
+berdiri lengkap dan setia.
+Tak boleh merombak dan mengeratkan,
+Yang wajib yuitu kerja,
+persatukan bangsa, mengadakan damai,
+mencari selamat baka.
+
+Pedang dan meriam tak berguna besar:
+pembawa celaka dan duka.
+Senjata sejaht|ra berlainan benar
+dan injil berjalan di muka.
+Berilah berbunyi dimana-mana
+perkakas di darat dan laut.
+Dan dirikan benteng selamat dan kasih,
+melawan keg|lapan dan maut.'), ('SRM016', '16', 'Sesudah Pekerjaan', 'SRM', 'do =es4/4
+
+1. Sesudah Pekerjaan semua selesai,
+berkumpul kawan-kawan, membuang kelelahan
+di taman yang permai, di taman yang permai
+Slamat bertemu sobat-sobatku
+Beramai kemari, bertari
+
+2. Kerja selama siang sekuat-kuatnya,
+supaya kemudian engkau berhati ***nang,
+sedang barbagia, (2x)
+Panggil kawanmu, sobat-sobatku!
+Bermailah kemari, bertari!
+
+3. Bunyikan seruling, petik gitar-gitar!
+Penari berkeliling di rumput hidjau kuning
+berkeliaran besar (2x)
+Nyanyi kidungmu, sobat-sobatku!
+Beramailah kemari, bertari!'), ('SRM019', '19', 'Sebagai Biduk Perak', 'SRM', '1. Sebagai Biduk Perak
+Melancar bulan terang
+di dalam air biru 
+samudera tenang
+Tak ada ribut lagi 
+dan hujanpun teduh
+di hutan kedengaran 
+suara yang merdu
+
+2. Yang tua di serambi
+bercakap-cakapan
+Yang muda mau menari
+dengan teman-teman 
+Loncatan gaba-gaba
+tuk-tuk, tak-tak, tuk-tuk
+Berbunyo ramai-ramai
+di hawa yang sejuk 
+
+3. Melihat dari atas 
+tempat kesukaan
+kepala yang melambai
+berbisik-bisikan
+jikalau bersehati, 
+manusia senang 
+Sejahtera mau diam 
+di hati yang terang'), ('SRM026', '26', 'Hawa Tengang Sore Sabtu', 'SRM', '1. Hawa tentang sore sabtu
+Barat berwarna permai
+Kita menyukai waktu
+Tugas kerja selesai 
+
+Ref:
+Lonceng berbunyi 
+menyiarkan jauh 
+besoklah minggu
+hendak kamu tahu
+Lonceng bernyanyi terus
+bukalah hari kudus
+
+2. Turun senja bersejahtera
+Mulailah bintang gerlap
+Jadi perhiasan tahta 
+Tuhan yang jaga tetap 
+
+3. Habis Kerja kau berhenti
+Inilah tanda teguh 
+Ada perhatian nanti
+Dalam tempat Tuhanmu
+'), ('SRM037', '37', 'Sedang Senja', 'SRM', 'Sedang Senja dengar gema 
+seruling yang segar
+seruling yang segar
+suara jauh  dibukit mau
+menurut bergemar 
+menurut bergemar
+
+Meski gelap lebih sedap
+Berbau bungaku
+Berbau bungaku
+Dan air terju menirupun
+seruling yang merdu
+seruling yang merdu
+
+Bahagia Sejahtera
+Di hatiku genap 
+Dihatiku genap 
+Dan pikiran kesusahan 
+semuanya lenyap 
+semuanya lenyap');
