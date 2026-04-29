@@ -1,0 +1,900 @@
+('SGB001', '1', 'Nyanyian Gembira', 'SGB', 'do = f 4/4
+
+Nyanyian gembira kami
+naikla nyaring dan merdu
+Tuhan anakMu menyanyi
+karena kebaikanMu
+Marilah nyanyilah
+Haleluya, Haleluya
+Puji Tuhan nyanyilah
+
+Dari harapan dan doa
+PemberianMu lebih
+kasih dan gembira jua
+balasan yang kami b|ri
+Marilah, Nyanyilah!
+Haleluya, haleluya,
+Puji Tuhan nyanyilah!
+
+Dari pada malak sorga
+Kau terima pujian
+akan kidung anak juga
+hati Tuhan berkenan
+Marilah, nyanyilah!
+Haleluya, haleluya,
+Puji Tuhan, nyanyilah!'), ('SGB002', '2', 'Ting-Ting-Ting', 'SGB', 'do = d 4/4
+
+1. Ting-ting-ting gemercing
+lonceng perak suaranya,
+Lagumu yang merdu
+anakku kau nyanyilah
+
+2. Nyanyilah menyembah
+Bapamu yang bergemar,
+dan tentu doamu
+hari - hari didengar
+
+3. Ingatlah KasihNya
+jangan hatimu gelap
+jadi t|rang dan senang
+karna kasihNya tetap'), ('SGB003', '3', 'Beramailah', 'SGB', 'do = bes 3/4
+
+1. Beraimailah, bernyanyi bagi Tuhan
+disukaiNya nyanyian dan pujian
+Beramailah, bernyanyilah
+
+2. Berkidunglah, kumpulan anak muda
+dan ingatlah, yang sudah
+diberikanNya selamanya.
+
+3. Di takhta-Nya di kemuliaan Sorga
+dilihat-Nya segala anak juga
+dan lagunya didengarnya'), ('SGB004', '4', 'Tuhan, Raja Maha Baik', 'SGB', 'do=es 4/4
+
+1. Tuhan Raja Maha Baik
+Trima pujian yang baik
+di seluruh dunia
+Kami turut menyembah
+
+2. Bala sorga berseru
+dikelilingi tahta-Mu
+$Tuhanlah Kudus Benar!$
+Hormat kami pun besar
+
+3. Imam, raja dan nabi
+semuanya memberi
+persembahan pujian,
+Kami pun bernyanyian
+
+4. Saksi Tuhan yang telah
+habis perjuangannya
+Menggerakkan kami pun
+|Kau berjuang bertekun
+
+5. Tuhan kami, tolonglah
+kami yang kecil-rendah
+dalam tentara besar
+jadi hamba-Mu benar'), ('SGB005', '5', 'Ucap Syukur', 'SGB', 'do=bes 4/4
+
+u-cap syu-kur, syu-kur ki-ta naik ke-pa-da
+Tu-han yang ka-sih Nya ba-ka se-la-ma-la-ma-nya yang ka-sih-
+Nya ba-ka se-la-ma la-ma-nya
+
+Tunduk sembah, b|ri hormat kudus dan selamanya
+Nam-Nya disebut dengan sembah-sujud.
+Nama-Nya disebut dengan sembah-sujud.
+
+Hai jiwaku, b|ri pujianmu muliakan Tuhan
+dan jangan kau lupakan kebajikan-Nya
+dan jangan kau lupakan kebajikan-Nya
+
+Nyanyikanlah gembira gemar bersukaria.
+Pujianmu tentu dit|rima Tuhanmu.
+Pujianmu tentu dit|rima Tuhanmu.'), ('SGB006', '6', 'Gembala Bermalam', 'SGB', 'do=g 6/5
+
+Gem-ba-la ber-malam ber-ga-ring dan du-duk di pa-dang se-nya,
+Men-ja-ga-i dom-ba-dan kaum-bing dan bin-tang ke-cil ge-merlap
+hai de-ngar se-ga-la ma-lai-kat ber-ki-dung per-mai dan mer-du
+Gem-ba-la se-mu-a ber-ang-kat, ke-ge-ran-an dan ke-lu.
+
+Setiba di Betlehem, lantas
+berpancarlah sinar cerah:
+yang satu terbit dari atas,
+yang lain di palungan rendah.
+Dan nyala di mata gembala
+menyinari bayi lembut.
+Mereka menunduk kepala.
+menangis dan bertelut.
+
+Ya Anak, ya Anak, yang kini terlahir di kandang kecil,
+Kau bimbinglah hambamu
+ini di jalan benar dan adil.
+Sekalian kaum Kau berkati,
+Kejahatan dusta lenyap.
+Kuasa kasih-Mu di hati
+menang dan tegak tetap.'), ('SGB007', '7', 'Gembala Sekeliling', 'SGB', 'do=g 6/8
+
+Gem-ba-la se-ke-li-ling yang di-lem-bah, hai ma-ri-lah!
+Gem-ba-la se-ke-li-ling, i-kut ke Bet-le-hem!
+Ma-lam le-nyap na-da ge-lap. Ter-
+de-ngar nya-nyi-an mer-du, gem-ba-la ba-wa su-ling mu!
+
+Gembala sekeliling yang di lembah,
+hai, marilah! Gembala sekeliling.
+ikut ke-Bethlehem!
+Yesus kecil
+Tuhan adil
+Gembala baik di dunia
+dan kamu jadi dom-Nya
+
+Gembala sekeliling yang di lembah
+semuanya, gembala sekeliling,
+kami ke-Betlehem!
+Kamu dengar
+sabda benar
+dan kamupun dipimpin-Nya
+ke taman sorga yang baka!'), ('SGB008', '8', 'Terlahirlah Seorang Anak', 'SGB', 'do=f 3/4
+
+Ter-la-hir-lah se-o-rang Ba-yi Ku-dus ter-la-hir-lah
+se-o-rang ba-yi Ku-dus O-leh-Nya bu-mi hen-
+dak di-te-bus, o-leh-Nya bu-mi hem-dak di-te-bus.
+
+Terbaring Bayi dalam kandang rendah.
+palungan ini tempat tidur-Nya
+
+Terlahir Ia bagi orang sesat
+dengan menanggung salib yang berat.'), ('SGB009', '9', 'Kasihan Bayi', 'SGB', 'do=g 6/8
+
+Ka-sih-an ba-yi yang di-ngin a-duh! Li-hat-lah
+Ba-dan-nya gi-gil meng-gi-gil. De-ngar-lah ta-ngis-an-nya
+ter-se-du. Na-na na na na na a - nak lem-
+but: i-ni-loah i-bu-mu, ja-ngan ke-jut.
+
+Mari gembala, seg|ra marilah.
+pergi ke kandang dan bunyikan suling,
+manis dan halus merdu suaranya
+na na na na na na anak lembut,
+inilah sobatmu, jangan kejut.
+
+Mari, malaikan kecil, marilah,
+nyanyian kidung merdu bagi Raja,
+sampai tenang dan senang tidurnya
+na na na na na na, anak lembut,
+inilah hambamu, jangan kejut.'), ('SGB010', '10', 'ya, sorga Put|ra', 'SGB', 'do=es 6/8
+
+Ya Sor-ga Pu-t|ra yang lem-but, te-nang kau ti-dur-lah ma-
+lai-kat ba-nyak ber-te-lut mer-du nya-nyi-an-nya gem-
+ba-la mis-kin pun ten-tu me-nya-nyi ku-dung ba-gi-Mu.
+S|la-mat. s|la-mat. Sor-ga Pu-t|ra s|la-mat
+
+Dijagai Maryam tentulah Kau aman dan senang.
+Tak b|rani Yusuf bergerak, pelitanya terang.
+Segala dombapun kelu disamping tempat tidurMu.
+S|lamat, s|lamat, Sorga Put|ra, s|lamat.
+
+Ah, nanti atas Golgota, tertumpah darahMu.
+supaya kaum manusia selamat dan sembuh
+Gembala miskin inilah selalu hendak menyembah
+S|lamat, s|lamat, Sorga Put|ra, s|lamat.'), ('SGB011', '11', 'Ya, Bintang Timur', 'SGB', 'do=g 4/4
+
+Ya, Bin-tang Ti-mur, ter-bit-lah kem-ba-li de-ngan ca-
+ha-ya peng-hi-bur se-nang, se-per-ti o-rang ber-
+il-mu se-ka-li kau-b|ri di ja-lan-nya si-nyar te-rang.
+
+Tunjukkan kami tempat Tuhan jadi.
+Sungguhkah kandang yang hina kecil
+rumah kelahiran Raja Abadi?
+Itulah Raja penyayang adil.
+
+Membawa mur dan emas kehormatan
+orang berilmu berlutut sembah.
+Apakah harta yang kupersembahkan?
+hati terbuka, lembut dan rendah.'), ('SGB012', '12', 'Anak Di Yerusalem', 'SGB', 'do=es 4/4
+
+A-nak di Ye-ru-sa-lem ba-wa pu-ji-an sa-lam
+ba-gi na-ma Ra-ja-nya: ki-ta-pun ber-nya-nyi-lah!
+De-ngar-lah! su-a-ra yang be-sar, de-ngar-lah su-a-ra yang be-sar
+ya. Ho-san-na, ya, Ho-san-na. A-nak Da-ud yang be-nar!
+
+Kita tahu kasihNya.
+kita juga menyembah
+nama Yesus yang kudus,
+kar|na la Penebus,
+
+Tua-muda, marilah.
+orang tinggi dan rendah
+mari dan bersoraklah
+sampai langit bergema'), ('SGB013', '13', 'Dilar Tembok Negeri', 'SGB', 'do=es 4/4
+
+Di-lu-ar tem-bok ne-ge-ri di-bu-kit yang ren-dah
+Ter-gan-tung Ye-sus di sa-lib un-tuk ma-nu-si-a.
+
+Siapa tahu sakitNya
+dan susah yang berat?
+Tetapi kasihNya memb|ri
+anug|rah dan berkat.
+
+Oleh salibNya hati k|ras
+dan bumi yang gelap
+terbuka bagi kasihNya
+dan damai yang tetap.
+
+Dibukit itu saya pun
+berlutut menyembah
+yang memulangkan hatiku
+kepada BapaNya.'), ('SGB014', '14', 'Kristus Sudah Bangkit', 'SGB', 'do=c 4/4
+
+Kris-tus su-dah bang-kit. Ter-ha-pus-kan du-ka dan
+du-ni-a ter-bu-ka un-tuk t|rang dan su-ka. Hal-
+le-lu-ya! Tan-pa ke-bang-kit-an ke-kal-lah ke-ma-
+ti-an, te-ta-pi o-leh bang-kit-Nya pen-ja-ra-maut di-
+Rom-bak-Nya. Hal-le-lu-ya! Se-jah-t|ra ke-se-nang-an
+o-leh ke-me-nang-an! Hal-le-lu-ya!'), ('SGB015', '15', 'Mujizat Yang Besar', 'SGB', 'do=es 4/4
+
+Mu-ji-zat yang be-sar Mu-ji-zat yang be-sar! bah-wa
+maut su-dah ka-lah bah-wa maut su-dah ka-lah ter
+bu-ka du-ni-a a-gar ma-suk-lah Roh Al-lah
+
+Terang kudus terbit!
+Terang kudus terbit!
+Beban dosa diangkut!
+Beban dosa diangkut!
+kehidupan menang,
+kar|na Yesus sudah bangkit!'), ('SGB016', '16', 'Awan Suci', 'SGB', 'do=d 4/4
+
+A-wan su-ci men-ce-rai-kan Tu-han Ye-sus yang di-naik-kan da-ri pa-da du-ni-a da-ri pa-da du-ni-a.
+
+Ia naik ke atas takhta.
+tidak tampak bagi mata
+suci kerajaanNya.
+
+Para bangsa bumi buka
+hati kamu dengan suka
+t|rima FirmanNya kudus.
+
+Biar lidah kamu juga
+menghormati Raja sorga,
+Anak Allah Penebus.
+
+Tuhan Yesus berkuasa
+atas tempat, atas masa.
+kita pun dipimpinNya.
+
+Untuk kita Ia mati,
+bangkit dan membuka hati bagi Roh yang bekerja.'), ('SGB017', '17', 'Pada Hari Pentakosta', 'SGB', 'do=c 4/4
+
+Pa-da ha-ri Pen-ta-kos-ta pa-ra mu-rid Ye-sus
+pun a-da du-duk ber-se-ha-ti dan ber-do-a ber-te-
+kun sung-guh ha-rap-nya be-sar; jan-nji Tu-han-nya be-nar.
+
+Tiba-tiba kedengan
+angin ribut menyerbu
+dan menggonjang alasan
+rumah baru yang teguh.
+Kar|na Roh Kudus telah
+turun dengan apiNya!
+
+Murid berbahasa asing
+membesarkan TuhanNya.
+kata petrus: Hai, saudara,
+Yesus Kristus, Anak Daud,
+sungguh bangkit dari maut.'), ('SGB018', '18', 'Siarkan Ke Benua', 'SGB', 'do=es 4/4
+
+Si-ar-kan ke-be-nu-a se-du-ni-a be-sar, ke-kam-pun-
+nya se-mu-a. t|rang In-jil yang be-nar. T|rang In-jil yang be-nar.
+
+B|ritahu kepada bangsa, siapa Bapanya
+yang memberi sentosa dengan sejahtera.
+
+Jatuhkanlah berhala, rombaklah kuilnya:
+dirikan Rumah Allah. |kan tempat menyembah.
+
+Yang buta |kan melihat, yang tuli mendengar,
+yang lumpuhpun melompat, yang bingung tersedar
+
+Penjaramu terbuka, T|rang Tuhan masuklah;
+hendak bersuka-suka, terimakasihNya.
+
+Siarkan ke benua sedunia besar,
+ke kampungnya semua, t|rang Injil yang benar.'), ('SGB019', '19', 'Anak Satu Bapa', 'SGB', 'do=c 4/4
+
+A-nak sa-tu Ba-pa. gan-deng ta-ngan-mu,
+a-pa ju-ga kam-pung a-tau ta-nah-mu!
+Ba-nyak-lah ba-ga-sa dan per-be-da-an
+a-nak sa-tu Ba-pa ki-ta se-ka-li-an'), ('SGB020', '20', 'Ya Timur-Bara Tiadalah', 'SGB', 'do=es 4/4 3/4
+
+Ya Ti-mur-Ba-rat tia-da-lah di Kris-tus dan te-lah
+U-ta-ra dan Se-lat-an pun ber-sa-tu da-lam-Nya.
+
+Persekutuan yagn kudus mengikat dunia
+dengan pertalian emas yaitu KasihNya.
+
+Dan apa juga bangsamu, saudara, marilah,20
+yagn jadi anak Bapaku sekawan adanya.
+
+Meskipun angin dunia bertiup berempat.
+tetapi satu saja Roh di segenap tempat.'), ('SGB021', '21', 'Bagi Yesus Kita Juga', 'SGB', 'do=es 4/4
+
+Ba-gi Ye-sus ki-ta ju-ga su-ka ra-jin be-ker-ja
+Ki-ta tak ter-la-lu mu-da ba-gi Ke-ra-ja-an-Nya
+Sam-pai ki-ni Ye-sus ma-sih a-da ha-dir di je-maat
+dan be-gi-tu p`rin-tah ka-sih bu-kan p`rin-tah yang be-rat.
+
+Anak-anak jadi juga
+hamba dalam kasihNya
+Bagi kita tidak sukar
+kata pengajaranNya.
+Susah tidak mengatasi
+Kuasa Yesus di Jemaat
+dan begitu p`rintah kasih
+bukanp`rintah yang berat'), ('SGB022', '22', 'Sabda Tuhan masih Hidup', 'SGB', 'do=as 6/8
+
+Sab-da Tu-han ma-sih hi-dup, sab-da Tu-han ma-sih hi-dup
+Sab-da Tu-han ma-sih hi-dup, i-tu cu-kup ba-gi-ku.
+
+Sabda itu menghiburkan, *)
+itu cukup bagiku.
+
+Sabda itu pengharapan,
+itu cukup bagiku.
+
+Sabda Tuhanku yang hidup
+cukup juga bagimu.'), ('SGB023', '23', 'Seorang Anak Yang Kecil', 'SGB', 'do=g 4/4
+
+Se-o-rang a-nak yang ke-cil, b|lum tu-rut be-ker-ja
+mau bu-at a-pa-kah yang baik ke-pa-da Tu-han-nya?
+
+Dengarlah saja kataKu,
+yang sungguh dan senang,
+dan buka saja hatimu,
+supaya jadi t|rang
+
+Kasihi ibu-bapamu,
+saudara dan teman,
+supaya sinar kasihKu
+tetap kau hamburkan.
+
+Terbitlah dari kasihKu
+kerja yang baik tetap.
+Tetapi jangan hatimu
+tertutup dan gelap'), ('SGB024', '24', 'Gembala Muda', 'SGB', 'do = bes 4/4
+
+1. Gembala muda bersenang
+di rumput di lembah
+sedang menjaga dombanya
+menyanyi kidungnya
+Kecapinya merdu-merdu
+berbunyi bergema
+gembala itu siapakah
+O, Daud namanya
+
+2. Gembala muda itupun
+dipanggil segera
+dan di istana raja saul
+berbunyi kidungnya:
+$selalu Hu, Gembalaku,
+bri hatiku senang
+di padang hijau di tepi
+telaga air tenang
+
+3. Mendengar itu raja Saul
+menangis tersedu,
+tetapi ribut hatinya
+berhenti dan teduh
+Seisi rumah rasa pun
+berkata bergemar:
+$Nyanyian anak Bethlehem
+berisi roh benar!$'), ('SGB025', '25', 'Pulang sama Bapa', 'SGB', 'do=bes 4/4
+
+Pu-lang sa-ma Ba-pa ma-sih bo-leh-kah? Sa-ya su-dah
+la-ri da-ri ru-mah-nya. ha-ti-ku ter-tu-tup. Me-nge-
+luh-nge-sah; sa-ya bu-ta tak me-li-hat ka-sih-
+Nya. sa-ya bu-ta tak me-li-hat ka-sih-Nya.
+
+Saya main dan minum
+berkemewahan.
+warisan yang indah
+saya boroskan
+Sampai kelaparan.
+susahku besar.
+di antara babi saya tersedar.
+
+Saya yang berdosa
+sama Bapaku.
+tidak layak lagi
+jadi anak Mu.
+Biar saya jadi
+budak bagiMu,
+asal saja kau ampunkan dosaku
+
+S|lamat datang, anak,
+pandang mataKu.
+kinikah kau lihat
+kasih Bapamu?
+Lihat, ini cincin
+bagi jarimu.
+Engkau bukan budak,
+tapi anakku'), ('SGB026', '26', 'Kasih Tuhan Allah', 'SGB', 'do=es 4/4
+
+Ka-sih Tu-han Al-lah a-kan du-ni-a
+me-me-luk se-ga-la a-nak a-nak-Nya.
+
+Ia memberikan hasil di kebun
+sagu tambah ikan dari laut pun.
+
+Kita tidak takut. Tuhanlah dekat.
+Dia kita ikut, kita tak sesat.
+
+Kita mau percaya, Bapa tidak jauh
+Untung dan bahaya. Bapa juga tahu.
+
+Dan di mana-mana didengarkan-Nya
+suara anak-anak dalam dunia.'), ('SGB027', '27', 'Sudah Kau Hitung Bintang', 'SGB', 'do=f 3/4
+
+
+Su-dah-kah kau hi-tung bin-tang yang di la-ngit ge-mer-lap?
+B|ra-pa jang-krik ri-ang ri-ang da-lam hu-tan yang ge-lap?
+Da-ri ri-bu ri-bu-an-nya Tu-han ju-a tahu na-ma-nya
+yang di-i-ngat-Nya te-tap yagn di-i-ngat-Nya te-tap
+
+B|rapa burung beterbangan
+di udara yang cerah?
+B|rapa ikan berenangan
+dalam air samudera?
+Dari ribu-ribuannya
+Tuhan ju tahu namanya,
+jalannya dan hidup nya,
+jalannya dan hidupnya.
+
+Sudahkah kau tahu berapa
+anak-anak meyembah
+dan memanggil Allah Bapa
+di seluruh dunia?
+Akan ribu-ribuannya
+diberiNya kasihanNya,
+saya pun dilihatNya,
+saya pun dilihatNya.'), ('SGB028', '28', 'Tuhan Kau Piara', 'SGB', 'do=g 4/4
+
+Tu-han Kau pi-a-ra se-ga-la mah-luk Mu
+di-la-ngit laut dan bu-mi dan hi-dup-ku
+
+Kau piara bunga
+dan buah di kebun
+dan hewan, burung, ikan,
+dan saya pun.
+
+Jalan matahari
+dan bulan, bintang Mu,
+Kau pimpin semuanya dan kakiku.'), ('SGB029', '29', 'Kar|na Cuaca Baik Terang', 'SGB', 'do= g 4/4
+
+Kar-na cu-a-ca baik te-rang, t|ri-ma ka-sih. Ba-pa Sor-ga; dan
+la-ut bi-ru yang se-nang, t|ri-ma ka-sih Ba-pa Sor-ga. Kar-na
+bu-nya ga-bus se-ka-li-an, kar-na bu-rung yang ber-nya-nyi -an
+dan bin-tang ri-bu ri-bu-an, t|ri-ma ka-sih, Ba-pa Sor-ga.
+
+Kar|na makanan yang sedap,
+t|rima kasih, Bapa Sorga;
+Dan buah yang Kau b|ri tetep,
+T|rima kasih, Bapa Sorga.
+Kar|na berkat-berkat-Mu harian
+yang ku t|rima berkelimpahan,
+pun kalau tak kelihatan,
+t|rimakasih, Bapa Sorga.
+
+Kar|na setia-Mu teguh, t|rima kasih,
+Bapa Sorga; kar|na Kau b|rikan
+Anak-Mu, t|rima kasih. Bapa Sorga.
+Jesus memeluk dengankasih-Nya
+anak-anak yang kecil rendah,
+tetaplah ia sobatnya;
+t|rima kasih, Bapa Sorga.'), ('SGB030', '30', 'Seorang Sobat Anak', 'SGB', 'do=es 4/4
+
+Se-o-rang so-bat a-nak yang tak ke-li-hat-an men-
+ja-lan-i se-la-lu ne-g|ri se-ka-li-an.
+U-tus-an Tu-han I-a-lah dan sor-ga ta-nah a-sal-nya.
+
+Ke rumah Ia masuk dan tahu siapakah
+yang mengasihi Tuhandan ibu bapanya
+dankanak-kana itulah selamanya dijaga-Nya.
+
+Katanya: $Bergembira bermain selama t|rang
+Dan malam jangan takut. kamu tidurlah senang.
+Selalu ingat Sobatmu, percaya pertolonganKu.$'), ('SGB031', '31', 'Dimana Diam Tuhanku', 'SGB', 'do=es 3/4
+
+Di ma-na di-am Tu-han-ku de-ngan se-ti-a-Nya te-guh?
+Di-sor-ga di-is-ta-Nya dan da-lam ha-ti yang ren-dah;
+di -sor-ga di -is-ta-na-Nya dan da-lam ha-ti yang ren-dah
+
+Dimana saya bertempat
+disitu Tuhanku dekat.
+Dan siang-malam Tuhanlah
+menjaga anak-anakNya
+
+Segala burung pipit pun
+dan sayur hijau dikebun,
+meskipun hina dan rendah
+semua dipiaraNya.
+
+Meski rupanya Tuha jauh,
+tak bimbang saya, kar|na tahu;
+Tak gugur rambut sehelai
+diluar maksudNya yang baik.'), ('SGB032', '32', 'Anak-Anak yang Muda', 'SGB', 'do=es 3/4
+
+A-nak-a-nak yang mu-da ka-mi hi-dup se-nang.
+s|per-ti bu-rung yang ra-mai ber-ci-cit dan ter-bang
+
+Dari piara dan kasih Tuhan tidak lelah,
+pemberian ribuan yang dihamburkanNya.
+
+Tiap pagi t|rang siang dan bangun tetap,
+Kami cari dan dapat makan-minum sedap.
+
+Kalau bulan purnama pada malam terang,
+kami main dan menari dan menyanyi tenang.
+
+Oleh main dan kerjaan kami rasa lelah,
+lalu tidur selamat sampai t|rang merekah.
+
+Tuhan Allah yang ramah memb|ri banyak berkat;
+jangan lupa kasihNya selalu dekat.'), ('SGB033', '33', 'Perahu Awan Putih', 'SGB', 'do=a 6/8
+
+Pe-ra-hu a-wan pu-tih ter-bu-ka ja-lan-nya.
+Si-a-pa ju-ru mu-di yang ta-hu ja-lan-nya?
+Si-a-pa ju-ru mu-di yang ta-hu ja-lan-nya?
+
+Ke mana awan maju, siapakah yang tahu?
+Ke mana angin laju ke sana juga p|rahu.
+
+Perahu seangkatan, searah jalannya,
+meski tak kelihatan juragan siapakah.
+
+Siapakah jurumudi perahu hidupmu?
+Yang memegang kemudi yaitu Tuhanku.'), ('SGB034', '34', 'Sesehari Turunlah', 'SGB', 'do=g 3/4
+
+Se-se-ha-ri tu-run-lah man-na un-tuk o-rang-Nya.
+Ka-sih Tu-han mem-be-ri se-se-hari re-ze-ki.
+
+Sesehari kata-Nya $Dalam aku kuatlah,
+Firmanku dan rezeki, itu manna yang Ku b|ri.$
+
+Tuhan, perjanjian-Mu memenuhi hatiku
+dengan kepercayaan, angkat kekuatiran'), ('SGB035', '35', 'Sehari-hari Tuhanku', 'SGB', 'do=d 6/8
+
+Se-ha-ri ha-ri Tu-han-ku me-li-hat a-nak -Nya
+dan ta-hu a-pa yang per-lu di-b|ri ke-pa-da-nya
+
+Dilihat-Nya siapa yang haus atau laparkah,
+siapa kuat dan senang, siapa yang lemah.
+
+Roh kebohongan yang gelap dengan hobatnya,
+kesia-siaan genap, tak ada isinya.
+
+Dan oleh hikmatNya ajaib dan kasih-Nya besar,
+semua itu jadi baik di jalan yang benar
+
+Tak ada setan di kebun di hutan dan di laut, tak hantu atau suanggi pun yang mendatangkan maut
+
+Kemana juga kau pergi dan apapun tempat kau
+duduk dalam negeri, Gembalamu dekat.'), ('SGB036', '36', 'Terima Kasih, Bapaku', 'SGB', 'do=g 4/4
+
+Te-ri-ma ka-sih Ba-pa-ku se-bab kau ja-gai ti-dur-ku,
+Se-la-mat sa-ya dan se-nang sam-pai kem-ba-li si-ang t|rang
+Be-ri-lah sa-ya, a-nak-Mu. ber-ja-lan-lah di ja-lan-Mu.
+se-nang-lah be-ker-ja dan main de-ngan me-no-long o-rang lain.'), ('SGB037', '37', 'Emas T|rang Siang', 'SGB', 'do=f 3/4
+
+E-mas t|rang si-ang b|ri ha-ti ri-ang, t|rang ma-ta ha-ri
+yang me-nyi-nar-i kam-pung-ku de-ngan te-na-ga se-gar.
+Ku ti-dur a-man se-ma-lam ma-lam-an Ba-ngun-lah sa-ya ber
+ri-ri su-pa-ya ku-sam-but si-ang ber-su-ka be-nar.
+
+Marilah kita bersukacita,kar|na selamat bawalah hormat
+kepada Bapa setia kekal. Dipersembahkan yang kita kerjakan
+kepada Tuhan dan tanpa keluhan Anak setiawan tak menyesal.'), ('SGB038', '38', 'Perhentian Malam', 'SGB', 'do=a 4/4
+
+Per-hen-ti-an ma-lam dan se-jah-te-ra
+tu-run a-tas a-lam de-ngan ber-kat-nya.
+
+Habislah kerjaan dalam negeri.
+Allah setiawan tidak berhenti.
+
+Biarlah kuatir Hatimu teduh
+Tuhan ada hadir dalam rumahmu'), ('SGB039', '39', 'Tuhan, Saya Tutup Mata', 'SGB', 'do=f 4/4
+
+Tu-han, sa-ya tu-tup ma-ta sa-ya li-pat ta-ngan-ku,
+pan-dang sa-ya, Ba-pa sor-ga de-ngan ka-sih ma-ti-mu.
+Mes-ki sa-ya ma-sih mu-da, t|ri-ma ju-ga do-a-ku;
+B|ri-lah da-lam ka-wan Tu-han sa-ya ja-di dom-ba-Mu
+A-min'), ('SGB040', '40', 'Tuhan, Lihat Anakmu', 'SGB', 'do=g 6/8
+
+Tu-han li-hat a-nak-Mu sa-ya tu-tup ma-ta-ku.
+Da-lam ma-lam yang ge-lap. Tu-han ja-ga-lah te-tap.
+
+Ampunkanlah salahku dengan kasih sayang-Mu.
+Berkatmu sekalian jangan saya lupakan.
+
+Tolong ibu-bapaku dengan Roh dan KuatMu.
+B|rilah sobat dan teman tak kena kesusahan.
+
+B|rilah oleh berka-Mu orang sakit pun sembuh
+anak lain sekalian jangan berkekurangan.
+
+Besok pagi bangunkan anak-Mu sekalian,
+hingga kami bergemar memberi syukur benar.'), ('SGB041', '41', 'Biarlah Tanganmu, ya Bapa', 'SGB', 'do=f 2/4
+
+B|ri-lah ta-ngan-Mu, ya Ba-pa mem-ber-ka-ti ti-dur-ku,
+ja-ngan sa-ya ta-kut a-pa da-lam per-lin
+dung-an-Mu, da-lam per-lin-dung-an-Mu.
+
+Jangan kupercaya bohong suanggi, hantu, doti g|lap.
+Bapa, Engkaulah menolong sampai hatiku tetap.
+
+Jangan pikiran yang salah mengharukan hatiku.
+Saya tidur, yang Gembala, aman oleh jagaMu'), ('SGB042', '42', 'Para Ibu Membawa Anak-anaknya', 'SGB', 'do=bes 4/4
+
+Pa-ra i-bu mem-ba-wa a-nak-a-nak sa-ma Ye-sus la-lu
+ka-ta mu-rid-mu-rid-Nya: Per-gi, a-yo, Per-gi!$
+Ta-pi Ye-sus yang me-li-hat-nya ber-sab-da de-ngan ra-mah-nya:
+$Bi-ar-kan a-nak -a-nak da-tang ke-pa-da-Ku.$
+
+Aku suka menyambut serta memeluk mereka;
+Aku jadi bagi dombaku Gembalanya ayng baik
+Tiap anak yang b|ri hatinya Ku b|ri selamat hidupnya.
+$Biarkan anak-anak datang kepada-Ku.$
+
+Para akan di bumi harus tahu nama Yesus,
+serta datang dan melihat pun betapa ramah-Nya.
+Dari mana-mana marilah, percaya sabda kasih-Nya;
+$Biarkan anak-anak datang kepada-Ku.!$'), ('SGB043', '43', 'Sudah kau Kenal Gembala', 'SGB', 'do=g 3/4
+
+Su-dah kau-ke-nal Gem-ba-la? su-dah ta-hu tong-kat-kah
+yang di-b|ri-kan o-leh Ba-pa kan me-mim-pin dob-ba-Nya?
+
+Kalau domba satu lari, jauh dari kawannya
+T|rus Gembala Baik mencari
+
+Dalamjurang Ia dapat domba, sakit dan penat,
+dan Gembala Baik mendukung bawa pulang yang sesat.
+
+Kami suka di piara. Tuhan Yesus, oleh Mu
+DombaMu diribut bumi hidup aman dan teduh.'), ('SGB044', '44', 'Saya Cari Yesus', 'SGB', 'do=cis 4/4
+
+Sa-ya ca-ri Ye-sus, yang meng-bi-bur-kan,
+o-leh sua-ra-nya le-nyap ke-su-sah-an
+De-ngan Ye-sus sa-ya ber-ba-ha-gi-a
+A-nak mu-da dan ke-cil di-pang-gil-nya.
+
+Saya cari Yesus dengan doaku.
+ia mendengar siapa berseru.
+Dengan Yesus saya berbahagia
+Anak muda dan kecil dipanggilNya
+
+Saya cari Yesus; oelh tanganNya
+Sayapun dipimpin ke neg|ri baka.
+Dengan Yesus saya berbahagia.
+Anak muda dan kecil dipanggilNya.'), ('SGB045', '45', 'Kasih Yesus Nyatalah', 'SGB', 'do=es 4/4
+
+Ka-sih Ye-sus nya-ta-lah ba-gi-ku di-Ki-tab-Nya.
+ha-ti-Nya me-nga-sih-i a-nak ti-ap ne-ge-ri.
+T|rang ka-sih Ye-sus. t|rang ka-sih Ye-sus.
+Trang ka-sih Ye-sus di-Ki-tab nya-ta-lah.
+
+Tuhan Yesus menyebut dengan suara yanglembut
+nama saya dan telah saya jadi milikNya. T|rang kasih Yesus...
+
+Yesus, tolong anak Mu, sampai dengan kasihku
+saya b|ri pertolongan sama sobat dan teman. Trang kasih Yesus ...'), ('SGB046', '46', 'Yesus Ramah, Tuhanku', 'SGB', 'do=f 3/4
+
+Ye-sus ra-mah, Tu-han-ku. i-ni sa-ya, a-nak-Mu.
+s|per-ti a-nak-a-nak lain, sa-ya pun ge-mar ber-main.
+
+Banyaklah kesukaan dengan sobat dan teman
+dan senang dan bagus pantai, hutan dan kebun.
+
+Tapi heran rasaku mendengar ceritaMu,
+pukata indah dan benar dari BukuMu besar.
+
+Dalam t|rang cerita Engkau masuk dunia;
+hatiku merasa t|rus: $Itu Tuhan Yang Kudus!$
+
+Yesus dengan kasihMu, tinggal dalam hatiku.
+Kalau hatiku terang, baru hidupku senang.'), ('SGB047', '47', 'Yesus, Saya MilikMu', 'SGB', 'do=g 4/4
+
+Ye-sus sa-ya mi-lik-Mu: ber-gem-bi-ra ha-ti-ku.
+kar|-na Eng-kau-lah ke-pa-la de-ngan ka-sih-an gem-ba-la.
+Dom-ba-Mu yang Kau-ke-nal. kau b|ri hi-dup yang ke-kal!
+
+Hanya oleh tongkatMu saya lihat jalanku,
+sampai isi hidup saya dapat suka dan cahaya.
+kasihMu di dalamnya b|ri kerjaku pun baka.
+
+Saya tahu namaMu, Engkau tahu namaku.
+DombaMu bersama-sama suka membesarkan Nama
+Tuhan dan Gembalaku. yesus, saya milik-Mu.'), ('SGB048', '48', 'Perahu yang Dijagai Yesus', 'SGB', 'P`ra-hu yang di-ja-gai Ye-sus ber-sa-lib di la-jar-nya
+i-tu bah-te-ra se-la-mat di-te-ngah sa-mu-de-ra
+Mes-ki-pun ro-fan me-nyer-bu dan ting-gi om-bak laut
+per-ca-ya ju-ga Tu-han-mu dan ja-ngan ta-kut maut
+
+Anak Bapa yang menumpang; s`lamatlah pelajaran,
+kar`na ia menentukan arah kepelabuhan.
+Meskipun tofan menyerbu dan tinggi ombak laut,
+percaya juga Tuhanmu dan jangan takut maut.
+
+Orang yang kena celaka hendak dilepaskanNya,
+jadi anak p`rahu Yesus s`lamat dalam bahtera.
+Bernyanyilah dan berseru diatas ombak lau;
+$Besar kuasa Tuhanku yang mengalahkan maut.$'), ('SGB049', '49', 'Disorga Ada Sobat Satu', 'SGB', 'do=f 3/8
+
+Di-sor-ga a-da So-bat sa-ru, di-si-ni tia-da
+ta-ra-Nya. se-bab se-o-rang tak be-gi-tu se-ti-a
+da-lam du-ni-a. Di-a-tas so-bat lalu ten-tu ku-pang-gil Ye-sus So-bat-ku.
+
+Manusia serupa ombak, tetapi bukan Sobatku;
+di tengah-tengah tipu banyak kekal setiaNya teguh.
+Kuharap Yesus |kan teman pemimpin serta sandaran.
+
+Manusia gampang jadi budak karunia dunia semu.
+Terlambat habis rugi banyak, mereka pasti mengeluh.
+Tetapi Yesus tak pernah memutus perjanjianNya.'), ('SGB050', '50', 'Dekatlah Dan Setialah', 'SGB', 'do=es 6/8
+
+De-kat-lah dan se-ti-a Gem-ba-la ka-mi, Ye-sus.
+Pe-nuh-lah peng-hi-bur-an-Nya su-a-ra Tu-han Ye-sus.
+Pu-ji-an ma-lai-kat-Nya, sua-ra ka-mi-pun ser-ta,
+me-mu-lia-kan Na-ma-Nya: Na-ma-Ra-ja ye-sus.
+
+Diangkutkannya dosamu, percaya Tuhan Yesus;
+di rumah Bapa tempatmu sedia oleh Yesus.
+
+Kemarilah, kecil besar! Didalam nama Yesus
+selamat hidupmu benar dan kamu milik Yesus.
+
+Disorga kami akhirnya melihat Tuhan Yesus
+dan kamipun selamanya memuji Nama Yesus'), ('SGB051', '51', 'Aman ditangan Yesus', 'SGB', 'do=g 4/4
+
+A-man di-ta-ngan Ye-sus, a-man di-pang-ku-Nya. I-tu-lah per-hen-ti-an,
+I-tu se-jah-te-ra. De-ngar Ma-lai-kat i-tu! Ki-dung-nya ber-ge-mar
+da-ri is-ta-na sor-ga a-tas laut ka-ca-nya A-man di-ta-ngan ye-sus,
+a-man di-pang-ku-Nya I-tu-lah per-hen-ti-an. I-tu se-jah-te-ra
+
+Aman di tangan Yeusus, jiwaku terlepas
+dari godaan dosa dan perjuangan k|ras.
+Habislah ketakutan, habis kuatirku,
+kar|na di sana nanti harapanku penuh.
+
+Yesus yang perlindungan. kuat-tanagaku,
+Engkaulah Batu-Gunung harapan yang teguh.
+Ajarlah ku berjalan sabar beroh tetap,
+sampai |ku masuk pintu sejahtera genap.'), ('SGB052', '52', 'Janganlah Tunggu', 'SGB', 'do=bes 4/4
+
+Janganlah tunggu. mari s-g`ra; Tu-han membri per
+jan-ji-an-Nya. Pe-nuh ka-sih-an pang-gil-an-Nya:
+$A-nak-ku, ma-ri-lah!$ Ra-mai-ra-mai ber-ke-su-ka-an
+o-rang-Nya te-lah ber-nya-nyi-an de-ngan ma-lai-kat
+se-ka-li-an ke-li-ling tah-ta-Nya.
+
+$Bagimu pun kerajaanKu!$ Itulah kataNya yang tentu.
+Dengar dan turut suara merdu: $Anak, marilah!$
+
+Sunguh sekali dit`rimaNya anak kecil berhati rendah.
+Dosamupun diampunkanNya: $Anakku, marilah!$'), ('SGB053', '53', 'Saya Lari Dan Mencari', 'SGB', 'do=g 4/4
+
+Sa-ya la-ri dan men-ca-ri ha-di-ah be-sar
+dan ber-ju-ang ke-tu-ju-an su-ci dan benar
+sa-ya li-hat Tu-han-ku yang di-ujung ja-lan-ku
+Pang-gil-an-Nya i-tu ha-nya mem|bri roh se-gar.
+
+Kelemahan dan godaan jangan menengah
+Bukan saya yang berjaya, hanya Tihalah.
+Langkahku dipimpinNya sampai akhirnya
+saya boleh memperoleh hadiah baka!'), ('SGB054', '54', 'Biarlah', 'SGB', 'do=c 3/4
+
+Bi-ar-lah bi-ar-lah sa-ya li-hat mu-ka-Nya.
+Ji-wa-ku ber-ke-rindu-an mau per-gi
+me-man-dang Tu-han yang di a-tas tah-ta-Nya.
+
+T|rang sedap, t|rang sedap, tempat Tuhan tak gela
+Apabila nanti saya tinggal dalam sukaraya
+di hadirat-Nya tetap?
+
+Rianglah, rianglah nyanyian malaikat-Nya. Bebas dari abu tanah
+saya mau terbang ke-sana, saya turut menyembah.
+
+Akhirnya, akhirnya taman-Nya terbukalah!
+Seperti bermimpi kita masuk dalam sukacita
+Firdaus Tuhan yang baka!'), ('SGB055', '55', 'Terbuka Pintu Yang Besar', 'SGB', 'do=c 6/5
+
+Ter-bu-ka pin-tu yang be-sar, ber-pan-car-lah ca-ha-ya,
+se-dang su-a-ra ter-de-ngar me-mang-gil mang-gil sa-ya.
+A-jaib-lah Tu-han, ka-sih-Mu, ter-bu-ka pin-tu ba-gi-ku
+A-jaib! A-jaib! Ter-bu-ka ba-gi-ku!
+
+Terbuka pintu negeri kepada yang mau lari
+kepada Tuhan yang memb|ri selamat yang dicari.
+
+Siapa yang membukanya Yaitu Anak Allah
+yang disalib di Golgota b|ri maut dan dosa kalah!'), ('SGB056', '56', 'Perahu Kita Tersedia', 'SGB', 'do=c 4/4
+
+P`ra-hu ki-ta ter-se-di-a ki-ta tung-gu di-te-pi
+Ye-sus da-tang, lan-tas I-a tun-juk a-rah ke-ne-g`ri,
+Mes-ki laut ter-tu-tup hu-jan a-rah ke-Ne-g`ri ba-ka
+Je-sus Ju-ru-mu-di ki-ta, a-man-lah tu-ju-an-Nya.
+
+Kadang-kadang kelhatan pintu kota mas baka,
+makin kuat kedengaran nyanyian penduduknya.
+
+Banyaklah kekasih dulu tiba di neg`ri terang
+Nanti kita puji Tuhan sama-sama di seb`rang.'), ('SGB057', '57', 'Bolehkah Sekali Kita', 'SGB', 'do=d 4/4
+
+Bo-leh-kah se-ka-li ki-ta ti-ba di-te-pi se-nang
+da-ri a-ir ke-hi-dup-an, tem-pat g|re-ja
+yang me-nang? me-mang sung-guh-lah be-ri-ta, nan-ti
+di te-pi yang hi-jau ki-ta ti-ba dan ber-su-ka
+ci-ta de-ngan g|re-ja yang me-nang
+
+Kita tak pernah gelisah kalau nanti bertemu
+dilepaskan dari dosa roh dan tubuh pun sembuh.
+
+Kalau jalan masih jauh Tuhan b|ri pengharapan.
+oleh Roh-Nya kita tahu
+Sungguhlah perjanjian.'), ('SGB058', '58', 'Disanalah', 'SGB', 'do=a 4/4
+
+Di sa-na-lah tak a-da a-ir ma-ta tak a-da
+ta-kut dan ke-luh ke-sah. Tak a-da pa-hit ka-ta
+Di sa-na lah! Di sa-na-lah!
+
+Kesukaan di tanah air sungguh. Salib berat tiada dan beban
+diangkat dari bahu. Kesukaan!
+
+Kesanalah! Tempat tak ada kubur, Bertumbuhlah kehidupan
+baka di taman-taman subur. Kesanalah!
+
+Di sanalah pancaran kehidupan, yaitu Tuhan dengan kasih-Nya dan
+dosa dihapuskan. Di sanalah!'), ('SGB059', '59', 'Musafir, Hendak Kemana', 'SGB', 'do=bes 3/4
+
+Mu-sa-fir, hen-dak ke-ma-na ber-gan-deng-an ta-ngan-mu?
+Naik-lah ka-mi ke-is-ta-na ru-mah Ba-pa yang te-guh!
+Ka-mi men-de-ngar be-ri-ta per-ja-mu-an su-ka-ci-ta,
+per-ja-mu-an su-ka-ci-ta di-is-ta-na yang te-guh
+per-ja-mu-an su-ka-ci-ta-di is-ta-na yang teguh
+
+Hujan hebat, angin rebut, kamu tidak takutkah?
+Tidak usah kami takut, Tuhan ada menyerta!
+
+Yesus Raja dan Gembala:
+Tidak boleh kami kalah (2x)
+Pada jalan s|lamatNya.
+
+Apakah harapan kamu Sampai takutmu lenyap
+nanti kamipun dijamu dengan s|lamat yang genap
+Itu tempat pertemuan,
+Itulah persekutuan (2x)
+Kasih Bapa yang tetap
+
+Musafir kekota itu Boleh kami ikutkah?
+Memang, marilah kesitu. Ke istana yang baka!
+Amatlah bersukacita,
+Yesus yang menyambut kita (2x)
+Dalam rumah Bapanya.'), ('SGB060', '60', 'Pujian Dan Hormat', 'SGB', 'do=c 4/4
+
+Pu-ji-an dan hor-mat ka-mi b|ri ke-pa-da Kha-lik du-nia
+A-min. A-min A-min, A-min'), ('SGB061', '61', 'Suruhlah, Tuhan T|rang', 'SGB', 'do=cs 3/4
+
+Su-ruh-lah Tu-han,t|rang ke-sung-guh-an
+me-mim-pin a-ku ke-ru-mah
+Tu-han a-kan me-mu-ji Tu-han-ku'), ('SGB062', '62', 'Pujilah Tuhanmu', 'SGB', 'do=g 4/4
+
+Pu-ji-lah Tu-han-mu ka-re-na ke-baik-an-Nya.
+Kasih setianya s|lamanya baka.
+Amin amin.'), ('SGB063', '63', 'Puji Tuhan Nyanyilah', 'SGB', 'do=f 4/4
+
+Puji Tuha,
+nyanyilah,
+kar|na se-ti-a
+ka-sih-Nya'), ('SGB064', '64', 'Anak-Anak, Pujilah', 'SGB', 'do=es 4/4
+
+Anak anak, pujilah
+Bapa kar|na kasihNya
+Puji Yesus Penebus.
+muliakan Roh Kudus'), ('SGB065', '65', 'Haleluya', 'SGB', 'do=d 4/4
+
+Hal-le-lu-ya, hal-le-lu-ya!
+A - - min, a - - min.');
