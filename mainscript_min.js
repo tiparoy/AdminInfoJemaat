@@ -1,8 +1,482 @@
 //Update tanggal 11 Oktober 2025 Jam 15.29 WIT
 //Jika telah memubuat app script sebelum tanggal dan jam di atas, Anda sebaiknya melakukan Update.
+   //yang penting jadi...😍:)
 
-const PASS_JEMAAT = '########'; //💡 ISI PASSWORD JEMAAT
-const GS_ID = '#######################################'; //💡 ISI ID Google Sheets file data_aplikasi
-const EMAIL_JEMAAT = '########'; // 💡 ISI EMAIL
+    // 📢 ========== !!!!!!!! VARIABEL YANG PERLU DI ISI !!!!!!!! =================
+    const PASS_JEMAAT = '########'; //💡 ISI PASSWORD JEMAAT
+    const GS_ID = '#########################################'; //💡 ISI ID Google Sheets file data_aplikasi
+    const EMAIL_JEMAAT = '##########################################'; // 💡 ISI EMAIL
 
-var kjemaat=EMAIL_JEMAAT.toLowerCase();const ejemaat=kjemaat;function doGet(e){const t=e.parameter.RUNFUNC;return"tabel"===t?ceksheet(e):"buletin"===t?buletin(e):"ibadah"===t?ibadah(e):"warta"===t?warta(e):"profil"===t?profiljemaat(e):"album"===t?album(e):ContentService.createTextOutput("RUNFUNC tidak dikenal")}function simpanUpdatenya(e,t,a){for(var r=SpreadsheetApp.openById(GS_ID).getSheetByName("update"),n=r.getLastRow(),g=1;g<=n;g++){r.getRange(g,1).getValue()==e&&r.getRange(g,2).setValue(t)}}function readTabel(e){for(var t=SpreadsheetApp.openById(GS_ID).getSheetByName(e).getDataRange().getValues(),a="",r=1;r<t.length;++r)a+=t[r].join(",")+"\n";return a}function ceksheet(e){var t=SpreadsheetApp.openById(GS_ID);if("Read"==e.parameter.func){for(var a=t.getSheetByName(e.parameter.SH).getDataRange().getValues(),r="",n=1;n<a.length;++n)r+=a[n].join(",")+"\n";return ContentService.createTextOutput(r).setMimeType(ContentService.MimeType.TEXT)}if("ReadSemua"==e.parameter.func){var g=readTabel("Buletin"),u=readTabel("Ibadah"),p=readTabel("Album"),i=readTabel("Pengumuman"),m=readTabel("update");return result=g+"|SPLIT|"+u+"|SPLIT|"+p+"|SPLIT|"+i+"|SPLIT|"+m,ContentService.createTextOutput(result).setMimeType(ContentService.MimeType.TEXT)}}function bikindaftar(e){const t=DriveApp.getFolderById(e).getFiles();for(var a="",r=1;t.hasNext();){var n=t.next(),g=n.getName(),u=g.length,p=g.substring(u-4,u).toLowerCase();".jpg"!=p&&".png"!=p&&"webp"!=p&&"jpeg"!=p&&".mp4"!=p||(a+=1==r?n.getId():"|"+n.getId(),r+=1)}return a}function buletin(e){var t=SpreadsheetApp.openById(GS_ID),a=t.getSheetByName("Buletin"),r=e.parameter.KODENYA,n=e.parameter.URUT,g=e.parameter.JUDUL,u=e.parameter.EDISI,p=e.parameter.DOWNLD,i=e.parameter.BACA,m=e.parameter.GAMBAR;if(e.parameter.func=="Baru"+PASS_JEMAAT+ejemaat){for(var s=!1,o=a.getLastRow(),T=1;T<=o;T++){a.getRange(T,1).getValue()==r&&(s=!0)}if(s)var l="Kode Sudah Ada";else{simpanUpdatenya("VersiBuletin",r,e);a.appendRow([r,n,g,u,p,i,m]);for(var S=a.getDataRange().getValues(),R=(l="",1);R<S.length;++R)l+=S[R].join(",")+"\n"}return ContentService.createTextOutput(l).setMimeType(ContentService.MimeType.TEXT)}if(e.parameter.func=="Edit"+PASS_JEMAAT+ejemaat){var f=e.parameter.UPDATECODE;for(o=a.getLastRow(),T=1;T<=o;T++){if(a.getRange(T,1).getValue()==r){a.getRange(T,2).setValue(n),a.getRange(T,3).setValue(g),a.getRange(T,4).setValue(u),a.getRange(T,5).setValue(p),a.getRange(T,6).setValue(i),a.getRange(T,7).setValue(m);break}}simpanUpdatenya("VersiBuletin",f,e);for(S=a.getDataRange().getValues(),s="",R=1;R<S.length;++R)s+=S[R].join(",")+"\n";return ContentService.createTextOutput(s).setMimeType(ContentService.MimeType.TEXT)}if(e.parameter.func=="Hapus"+PASS_JEMAAT+ejemaat){for(a=t.getSheetByName("Buletin"),r=e.parameter.KODENYA,f=e.parameter.UPDATECODE,o=a.getLastRow(),T=1;T<=o;T++){if(a.getRange(T,1).getValue()==r){a.deleteRow(T);break}}for(S=a.getDataRange().getValues(),s="",R=1;R<S.length;++R)s+=S[R].join(",")+"\n";return simpanUpdatenya("VersiBuletin",f,e),ContentService.createTextOutput(s).setMimeType(ContentService.MimeType.TEXT)}}function ibadah(e){var t=SpreadsheetApp.openById(GS_ID).getSheetByName("Ibadah"),a=e.parameter.KODENYA,r=e.parameter.URUT,n=e.parameter.JUDUL,g=e.parameter.TANGGAL,u=e.parameter.JAM,p=e.parameter.TEMPAT,i=e.parameter.PELAYAN,m=e.parameter.KETERANGAN,s=e.parameter.TGLX,o='="'+e.parameter.KODENYA+'"&D3';if(e.parameter.func=="Baru"+PASS_JEMAAT+ejemaat){var T=!1,l=t.getLastRow()+1;status="=if(J"+l+'>=today();"NEW";"OLD")',tgltxt="=text(J"+l+';"dd/MM/yyyy")';for(var S=t.getLastRow(),R=1;R<=S;R++){if(t.getRange(R,1).getValue()==a){T=!0;break}}if(T)var f="Kode Sudah Ada";else{simpanUpdatenya("VersiIbadah",o,e);t.appendRow([a,r,n,g,u,p,i,m,status,s,tgltxt]);for(var d=t.getDataRange().getValues(),A=(f="",1);A<d.length;++A)f+=d[A].join(",")+"\n"}return ContentService.createTextOutput(f).setMimeType(ContentService.MimeType.TEXT)}if(e.parameter.func=="Edit"+PASS_JEMAAT+ejemaat){for(S=t.getLastRow(),R=1;R<=S;R++){if(t.getRange(R,1).getValue()==a){t.getRange(R,2).setValue(r),t.getRange(R,3).setValue(n),t.getRange(R,4).setValue(g),t.getRange(R,5).setValue(u),t.getRange(R,6).setValue(p),t.getRange(R,7).setValue(i),t.getRange(R,8).setValue(m),t.getRange(R,10).setValue(s);break}}simpanUpdatenya("VersiIbadah",o,e);for(d=t.getDataRange().getValues(),T="",A=1;A<d.length;++A)T+=d[A].join(",")+"\n";return ContentService.createTextOutput(T).setMimeType(ContentService.MimeType.TEXT)}if(e.parameter.func=="Hapus"+PASS_JEMAAT+ejemaat){for(S=t.getLastRow(),R=1;R<=S;R++){if(t.getRange(R,1).getValue()==a){t.deleteRow(R);break}}for(d=t.getDataRange().getValues(),T="",A=1;A<d.length;++A)T+=d[A].join(",")+"\n";return simpanUpdatenya("VersiIbadah",o,e),ContentService.createTextOutput(T).setMimeType(ContentService.MimeType.TEXT)}}function warta(e){var t=SpreadsheetApp.openById(GS_ID).getSheetByName("Pengumuman"),a=e.parameter.KODENYA,r=e.parameter.URUT,n=e.parameter.ISI,g=e.parameter.UPDATECODE;if(e.parameter.func=="Baru"+PASS_JEMAAT+ejemaat){for(var u=!1,p=t.getLastRow(),i=1;i<=p;i++){if(t.getRange(i,1).getValue()==a){u=!0;break}}if(u)var m="Kode Sudah Ada";else{t.appendRow([a,r,n]);for(var s=t.getDataRange().getValues(),o=(m="",1);o<s.length;++o)m+=s[o].join(",")+"\n";simpanUpdatenya("VersiPengumuman",g,e)}return ContentService.createTextOutput(m).setMimeType(ContentService.MimeType.TEXT)}if(e.parameter.func=="Edit"+PASS_JEMAAT+ejemaat){for(g=e.parameter.UPDATECODE,p=t.getLastRow(),i=1;i<=p;i++){if(t.getRange(i,1).getValue()==a){t.getRange(i,2).setValue(r),t.getRange(i,3).setValue(n);break}}simpanUpdatenya("VersiPengumuman",g,e);for(s=t.getDataRange().getValues(),u="",o=1;o<s.length;++o)u+=s[o].join(",")+"\n";return ContentService.createTextOutput(u).setMimeType(ContentService.MimeType.TEXT)}if(e.parameter.func=="Hapus"+PASS_JEMAAT+ejemaat){for(p=t.getLastRow(),i=1;i<=p;i++){if(t.getRange(i,1).getValue()==a){t.deleteRow(i);break}}for(s=t.getDataRange().getValues(),u="",o=1;o<s.length;++o)u+=s[o].join(",")+"\n";return simpanUpdatenya("VersiPengumuman",g,e),ContentService.createTextOutput(u).setMimeType(ContentService.MimeType.TEXT)}}function album(e){var t=SpreadsheetApp.openById(GS_ID),a=t.getSheetByName("Album"),r=e.parameter.KODENYA,n=e.parameter.URUT,g=e.parameter.JUDUL,u=e.parameter.KET,p=e.parameter.FILE_ID,i=e.parameter.UPDATECODE;if(e.parameter.func=="Baru"+PASS_JEMAAT+ejemaat){for(var m=!1,s=a.getLastRow(),o=bikindaftar(p),T=1;T<=s;T++){if(a.getRange(T,1).getValue()==r){m=!0;break}}if(m)var l="Kode Sudah Ada";else{a.appendRow([r,n,g,u,p,o]);for(var S=a.getDataRange().getValues(),R=(l="",1);R<S.length;++R)l+=S[R].join(",")+"\n";simpanUpdatenya("VersiAlbum",i,e)}return ContentService.createTextOutput(l).setMimeType(ContentService.MimeType.TEXT)}if(e.parameter.func=="Edit"+PASS_JEMAAT+ejemaat){for(o=bikindaftar(p),s=a.getLastRow(),T=1;T<=s;T++){if(a.getRange(T,1).getValue()==r){a.getRange(T,2).setValue(n),a.getRange(T,3).setValue(g),a.getRange(T,4).setValue(u),a.getRange(T,5).setValue(p),a.getRange(T,6).setValue(o);break}}simpanUpdatenya("VersiAlbum",i,e);for(S=a.getDataRange().getValues(),m="",R=1;R<S.length;++R)m+=S[R].join(",")+"\n";return ContentService.createTextOutput(m).setMimeType(ContentService.MimeType.TEXT)}if(e.parameter.func=="Hapus"+PASS_JEMAAT+ejemaat){for(a=t.getSheetByName("Album"),r=e.parameter.KODENYA,i=e.parameter.UPDATECODE,s=a.getLastRow(),T=1;T<=s;T++){if(a.getRange(T,1).getValue()==r){a.deleteRow(T);break}}for(S=a.getDataRange().getValues(),m="",R=1;R<S.length;++R)m+=S[R].join(",")+"\n";return simpanUpdatenya("VersiAlbum",i,e),ContentService.createTextOutput(m).setMimeType(ContentService.MimeType.TEXT)}}function profiljemaat(e){var t=SpreadsheetApp.openById(GS_ID).getSheetByName("update");if(e.parameter.func=="UpdateFileHTML"+PASS_JEMAAT+ejemaat){var a=e.parameter.UPDATECODE;var r=e.parameter.FILE_ID.split("|SPLIT|"),n=r[0].split("|"),g=r[1],u=n[0],p=n[1],i=n[2],m=n[3],s=g,o=r[2];t.getRange(6,3).setValue(u),t.getRange(7,3).setValue(p),t.getRange(8,3).setValue(i),t.getRange(9,3).setValue(m),t.getRange(10,3).setValue(s),t.getRange(11,3).setValue(o);t.getLastRow();for(var T=6;T<=11;T++){t.getRange(T,1).getValue();t.getRange(T,2).setValue(a)}return ContentService.createTextOutput("Update Sukses").setMimeType(ContentService.MimeType.TEXT)}if("ReadHTMLFile"==e.parameter.func){u=t.getRange(6,3).getValue(),p=t.getRange(7,3).getValue(),i=t.getRange(8,3).getValue(),m=t.getRange(9,3).getValue();var l=t.getRange(10,3).getValue(),S=t.getRange(11,3).getValue();return ContentService.createTextOutput(u+"|"+p+"|"+i+"|"+m+"|SPLIT|"+l+"|SPLIT|"+S).setMimeType(ContentService.MimeType.TEXT)}}
+
+// 📢 ========================== ⬇️⬇️⬇️ JANGAN DIUBAH ⬇️⬇️⬇️===============================
+var   kjemaat = EMAIL_JEMAAT.toLowerCase();
+const ejemaat = kjemaat
+function doGet(e) {
+
+  const j = e.parameter.RUNFUNC;
+  if (j === 'tabel') return ceksheet(e);
+  if (j === 'buletin') return buletin(e);
+  if (j === 'ibadah') return ibadah(e);
+  if (j === 'warta') return warta(e);
+  if (j === 'profil') return profiljemaat(e);
+  if (j === 'album') return album(e);
+   
+
+  // bisa tambahkan default handling
+  return ContentService.createTextOutput("RUNFUNC tidak dikenal");
+}
+
+// 📢 Fungsi untuk menyimpan Update (memberi tanda ke App Android untuk Update Informasi terbaru
+function simpanUpdatenya(versinya, kodeupdate, e) {
+    var ss = SpreadsheetApp.openById(GS_ID);
+    var sm = ss.getSheetByName("update");
+    var lt = sm.getLastRow();
+    for (var i = 1; i <= lt; i++) {
+        var m_kode = sm.getRange(i, 1).getValue();
+        if (m_kode == versinya) {
+            sm.getRange(i, 2).setValue(kodeupdate);
+        }
+    }
+}
+
+//📢 Fungsi untuk membaca isi tabel berdasarkan nama sheet
+function readTabel(namash) {
+      var ss = SpreadsheetApp.openById(GS_ID);
+        var sh = ss.getSheetByName(namash)
+        var rg = sh.getDataRange().getValues();
+        var data = "";
+        for (var row = 1; row < rg.length; ++row) {
+            data += rg[row].join(',') + '\n';
+        }
+        return data
+}
+
+//📢 Fungsi untuk beberapa perintah dari Aplikasi Informasi Jemaat di Windows
+function ceksheet(e) {
+    var ss =  SpreadsheetApp.openById(GS_ID);
+    //📢 Membaca isi tabel dari sheet
+    if (e.parameter.func == "Read") {
+        var sh = ss.getSheetByName(e.parameter.SH)
+        var rg = sh.getDataRange().getValues();
+        var data = "";
+        for (var row = 1; row < rg.length; ++row) {
+            data += rg[row].join(',') + '\n';
+        }
+        return ContentService.createTextOutput(data).setMimeType(ContentService.MimeType.TEXT);
+    }
+
+    //📢 Membaca semua sheet sekaligus,saat aplikasi dibuka (jika diaktifkan refresh saat aplikasi dibuka)
+    if (e.parameter.func == "ReadSemua") {
+      var isibuletin = readTabel('Buletin');
+      var isiibadah = readTabel('Ibadah');
+      var isialbum = readTabel('Album');
+      var isiumum = readTabel('Pengumuman');
+      var isiupdate = readTabel('update');
+      result = isibuletin + "|SPLIT|" + isiibadah + "|SPLIT|" + isialbum + "|SPLIT|" + isiumum + "|SPLIT|" + isiupdate
+        return ContentService.createTextOutput(result).setMimeType(ContentService.MimeType.TEXT);
+    }
+}
+
+// 📢 Fungsi untuk membuat daftar FileID dari file-file yang ada di dalam folder Google Drive
+function bikindaftar(FolderId) {
+    const folder = DriveApp.getFolderById(FolderId);
+    const files = folder.getFiles();
+    var data = "";
+    var i = 1;
+    while (files.hasNext()) {
+        var file = files.next();
+        var flname = file.getName();
+        var jmltx = flname.length;
+        var aku = flname.substring(jmltx - 4, jmltx);
+        var akuku = aku.toLowerCase();
+        if (akuku == ".jpg" || akuku == ".png" || akuku == "webp" || akuku == "jpeg" || akuku == ".mp4") {
+            if (i == 1) {
+                data += file.getId();
+            } else {
+                data += "|" + file.getId();
+            }
+            i = i + 1;
+        }
+    }
+    return data;
+}
+
+// ❤️❤️❤️❤️❤️❤️❤️❤️❤️  BULETIN  ❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️
+function buletin(e){
+  var ss =  SpreadsheetApp.openById(GS_ID);
+  var sh = ss.getSheetByName('Buletin');
+  var kodenya = e.parameter.KODENYA;
+  var nourut = e.parameter.URUT;
+  var judul = e.parameter.JUDUL;
+  var edisi = e.parameter.EDISI;
+  var download = e.parameter.DOWNLD;
+  var baca = e.parameter.BACA;
+  var gambar = e.parameter.GAMBAR;
+    // ✅ CREATE NEW 
+    if (e.parameter.func == "Baru" + PASS_JEMAAT + ejemaat) {
+         var data = false
+        var lr = sh.getLastRow();
+        for (var i = 1; i <= lr; i++) {
+            var data_kode = sh.getRange(i, 1).getValue();
+            if (data_kode == kodenya) {
+                data = true;
+            }
+        }
+        if (data) {
+            var result = "Kode Sudah Ada";
+        } else {
+            simpanUpdatenya('VersiBuletin', kodenya, e);
+            var rowdata = sh.appendRow([kodenya, nourut, judul, edisi, download, baca, gambar]);
+            var rg = sh.getDataRange().getValues();
+            var result = "";
+            for (var row = 1; row < rg.length; ++row) {
+                result += rg[row].join(',') + '\n';
+            }
+        }
+        return ContentService.createTextOutput(result).setMimeType(ContentService.MimeType.TEXT);
+    }
+
+    // 📝 EDIT 
+    if (e.parameter.func == "Edit" + PASS_JEMAAT + ejemaat) {
+        var kodeupdate = e.parameter.UPDATECODE;
+        var lr = sh.getLastRow();
+        for (var i = 1; i <= lr; i++) {
+            var data_kode = sh.getRange(i, 1).getValue();
+            if (data_kode == kodenya) {
+                sh.getRange(i, 2).setValue(nourut);
+                sh.getRange(i, 3).setValue(judul);
+                sh.getRange(i, 4).setValue(edisi);
+                sh.getRange(i, 5).setValue(download);
+                sh.getRange(i, 6).setValue(baca);
+                sh.getRange(i, 7).setValue(gambar);
+                break;
+            }
+        }
+        simpanUpdatenya('VersiBuletin', kodeupdate, e);
+        var rg = sh.getDataRange().getValues();
+        var data = "";
+        for (var row = 1; row < rg.length; ++row) {
+            data += rg[row].join(',') + '\n';
+        }
+        return ContentService.createTextOutput(data).setMimeType(ContentService.MimeType.TEXT);
+    }
+
+    // ❌ HAPUS 
+    if (e.parameter.func == "Hapus" + PASS_JEMAAT + ejemaat) {
+        var sh = ss.getSheetByName('Buletin');
+        var kodenya = e.parameter.KODENYA;
+        var kodeupdate = e.parameter.UPDATECODE;
+
+        var lr = sh.getLastRow();
+        for (var i = 1; i <= lr; i++) {
+            var data_kode = sh.getRange(i, 1).getValue();
+            if (data_kode == kodenya) {
+                sh.deleteRow(i);
+                break;
+            }
+        }
+        var rg = sh.getDataRange().getValues();
+        var data = "";
+        for (var row = 1; row < rg.length; ++row) {
+            data += rg[row].join(',') + '\n';
+        }
+        simpanUpdatenya('VersiBuletin', kodeupdate, e);
+        return ContentService.createTextOutput(data).setMimeType(ContentService.MimeType.TEXT);
+    }
+
+ 
+}
+
+
+// ❤️❤️❤️❤️❤️❤️❤️❤️❤️  JADWAL IBADAH  ❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️
+function ibadah(e){
+        var ss =  SpreadsheetApp.openById(GS_ID);
+        var sh = ss.getSheetByName('Ibadah');
+        var kodenya = e.parameter.KODENYA;
+        var nourut = e.parameter.URUT;
+        var judul = e.parameter.JUDUL;
+        var tanggal = e.parameter.TANGGAL;
+        var jam = e.parameter.JAM;
+        var tempat = e.parameter.TEMPAT;
+        var pelayan = e.parameter.PELAYAN;
+        var keterangan = e.parameter.KETERANGAN;
+        var tagalx = e.parameter.TGLX;
+        var kodeupdate = '="' + e.parameter.KODENYA + '"&D3';
+
+    //✅ CREATE NEW 
+    if (e.parameter.func == "Baru" + PASS_JEMAAT + ejemaat) {
+        var data = false;
+        var lst = sh.getLastRow() + 1;
+        status = '=if(J' + lst + '>=today();"NEW";"OLD")';
+        tgltxt = '=text(J' + lst + ';"dd/MM/yyyy")';
+        var lr = sh.getLastRow();
+        for (var i = 1; i <= lr; i++) {
+            var data_kode = sh.getRange(i, 1).getValue();
+            if (data_kode == kodenya) {
+                data = true;
+                break;
+            }
+        }
+        if (data) {
+            var result = "Kode Sudah Ada";
+        } else {
+            simpanUpdatenya('VersiIbadah', kodeupdate, e);
+            var rowdata = sh.appendRow([kodenya, nourut, judul, tanggal, jam, tempat, pelayan, keterangan, status, tagalx, tgltxt]);
+            var rg = sh.getDataRange().getValues();
+            var result = "";
+            for (var row = 1; row < rg.length; ++row) {
+                result += rg[row].join(',') + '\n';
+            }
+        }
+        return ContentService.createTextOutput(result).setMimeType(ContentService.MimeType.TEXT);
+    }
+    //📝 EDIT 
+    if (e.parameter.func == "Edit" + PASS_JEMAAT + ejemaat) {
+        var lr = sh.getLastRow();
+        for (var i = 1; i <= lr; i++) {
+            var data_kode = sh.getRange(i, 1).getValue();
+            if (data_kode == kodenya) {
+                sh.getRange(i, 2).setValue(nourut);
+                sh.getRange(i, 3).setValue(judul);
+                sh.getRange(i, 4).setValue(tanggal);
+                sh.getRange(i, 5).setValue(jam);
+                sh.getRange(i, 6).setValue(tempat);
+                sh.getRange(i, 7).setValue(pelayan);
+                sh.getRange(i, 8).setValue(keterangan);
+                sh.getRange(i, 10).setValue(tagalx);
+                break;
+            }
+        }
+        simpanUpdatenya('VersiIbadah', kodeupdate, e); //SIMPAN UPDATE
+        var rg = sh.getDataRange().getValues();
+        var data = "";
+        for (var row = 1; row < rg.length; ++row) {
+            data += rg[row].join(',') + '\n';
+        }
+        return ContentService.createTextOutput(data).setMimeType(ContentService.MimeType.TEXT);
+    }
+    // ❌ HAPUS 
+    if (e.parameter.func == "Hapus" + PASS_JEMAAT + ejemaat) {
+        var lr = sh.getLastRow();
+        for (var i = 1; i <= lr; i++) {
+            var data_kode = sh.getRange(i, 1).getValue();
+            if (data_kode == kodenya) {
+                sh.deleteRow(i);
+                break;
+            }
+        }
+        var rg = sh.getDataRange().getValues();
+        var data = "";
+        for (var row = 1; row < rg.length; ++row) {
+            data += rg[row].join(',') + '\n';
+        }
+        simpanUpdatenya('VersiIbadah', kodeupdate, e); //SIMPAN UPDATE    
+        return ContentService.createTextOutput(data).setMimeType(ContentService.MimeType.TEXT);
+    }
+}
+
+// ❤️❤️❤️❤️❤️❤️❤️❤️❤️  WARTA JEMAAT  ❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️
+function warta(e){
+        var ss =  SpreadsheetApp.openById(GS_ID);
+        var sh = ss.getSheetByName('Pengumuman');
+        var kodenya = e.parameter.KODENYA;
+        var nourut = e.parameter.URUT;
+        var isi = e.parameter.ISI;
+        var kodeupdate = e.parameter.UPDATECODE;
+
+    //✅ CREATE NEW 
+    if (e.parameter.func == "Baru" + PASS_JEMAAT + ejemaat) {
+        var data = false
+        var lr = sh.getLastRow();
+        for (var i = 1; i <= lr; i++) {
+            var data_kode = sh.getRange(i, 1).getValue();
+            if (data_kode == kodenya) {
+                data = true;
+                break;
+            }
+        }
+        if (data) {
+            var result = "Kode Sudah Ada";
+        } else {
+            var rowdata = sh.appendRow([kodenya, nourut, isi]);
+            var rg = sh.getDataRange().getValues();
+            var result = "";
+            for (var row = 1; row < rg.length; ++row) {
+                result += rg[row].join(',') + '\n';
+
+            }
+            simpanUpdatenya('VersiPengumuman', kodeupdate, e); //SIMPAN UPDATE    
+        }
+        return ContentService.createTextOutput(result).setMimeType(ContentService.MimeType.TEXT);
+    }
+    //📝 EDIT 
+    if (e.parameter.func == "Edit" + PASS_JEMAAT + ejemaat) {
+        var kodeupdate = e.parameter.UPDATECODE;
+        var lr = sh.getLastRow();
+        for (var i = 1; i <= lr; i++) {
+            var data_kode = sh.getRange(i, 1).getValue();
+            if (data_kode == kodenya) {
+                sh.getRange(i, 2).setValue(nourut);
+                sh.getRange(i, 3).setValue(isi);
+                break;
+            }
+        }
+        simpanUpdatenya('VersiPengumuman', kodeupdate, e); //SIMPAN UPDATE 
+        var rg = sh.getDataRange().getValues();
+        var data = "";
+        for (var row = 1; row < rg.length; ++row) {
+            data += rg[row].join(',') + '\n';
+
+        }
+        return ContentService.createTextOutput(data).setMimeType(ContentService.MimeType.TEXT);
+    }
+    // ❌ HAPUS 
+    if (e.parameter.func == "Hapus" + PASS_JEMAAT + ejemaat) {
+
+        var lr = sh.getLastRow();
+        for (var i = 1; i <= lr; i++) {
+            var data_kode = sh.getRange(i, 1).getValue();
+            if (data_kode == kodenya) {
+                sh.deleteRow(i);
+                break;
+            }
+        }
+                var rg = sh.getDataRange().getValues();
+                var data = "";
+                for (var row = 1; row < rg.length; ++row) {
+                    data += rg[row].join(',') + '\n';
+                }
+                simpanUpdatenya('VersiPengumuman', kodeupdate, e); //SIMPAN UPDATE 
+                return ContentService.createTextOutput(data).setMimeType(ContentService.MimeType.TEXT);
+    }
+
+}
+
+// ❤️❤️❤️❤️❤️❤️❤️❤️❤️  ALBUM  ❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️
+function album(e){
+  var ss =  SpreadsheetApp.openById(GS_ID);
+  var sh = ss.getSheetByName('Album');
+  var kodenya = e.parameter.KODENYA;
+  var nourut = e.parameter.URUT;
+  var judul = e.parameter.JUDUL;
+  var keterangan = e.parameter.KET;
+  var file_id = e.parameter.FILE_ID;
+  var kodeupdate = e.parameter.UPDATECODE;
+    //✅ CREATE NEW 
+  if (e.parameter.func == "Baru" + PASS_JEMAAT + ejemaat) {
+    var data = false;
+    var lr = sh.getLastRow();
+    var datalengkap = bikindaftar(file_id);
+    for (var i = 1; i <= lr; i++) {
+      var data_kode = sh.getRange(i, 1).getValue();
+      if (data_kode == kodenya) {
+          data = true;
+          break;
+      }
+    }
+    if (data) {
+        var result = "Kode Sudah Ada";
+    } else {
+        var rowdata = sh.appendRow([kodenya, nourut, judul, keterangan, file_id, datalengkap]);
+        var rg = sh.getDataRange().getValues();
+        var result = "";
+        for (var row = 1; row < rg.length; ++row) {
+            result += rg[row].join(',') + '\n';
+        }
+        simpanUpdatenya('VersiAlbum', kodeupdate, e); //SIMPAN UPDATE    
+    }
+    return ContentService.createTextOutput(result).setMimeType(ContentService.MimeType.TEXT);
+    }
+
+    //📝 EDIT 
+  if (e.parameter.func == "Edit" + PASS_JEMAAT + ejemaat) {
+        var datalengkap = bikindaftar(file_id);
+        var lr = sh.getLastRow();
+        for (var i = 1; i <= lr; i++) {
+            var data_kode = sh.getRange(i, 1).getValue();
+            if (data_kode == kodenya) {
+                sh.getRange(i, 2).setValue(nourut);
+                sh.getRange(i, 3).setValue(judul);
+                sh.getRange(i, 4).setValue(keterangan);
+                sh.getRange(i, 5).setValue(file_id);
+                sh.getRange(i, 6).setValue(datalengkap);
+                break;
+            }
+        }
+        simpanUpdatenya('VersiAlbum', kodeupdate, e); //SIMPAN UPDATE 
+       
+        var rg = sh.getDataRange().getValues();
+        var data = "";
+        for (var row = 1; row < rg.length; ++row) {
+            data += rg[row].join(',') + '\n';
+
+        }
+        return ContentService.createTextOutput(data).setMimeType(ContentService.MimeType.TEXT);
+    }
+
+    // ❌ HAPUS 
+    if (e.parameter.func == "Hapus" + PASS_JEMAAT + ejemaat) {
+        var sh = ss.getSheetByName('Album');
+        var kodenya = e.parameter.KODENYA;
+        var kodeupdate = e.parameter.UPDATECODE;
+        var lr = sh.getLastRow();
+        for (var i = 1; i <= lr; i++) {
+            var data_kode = sh.getRange(i, 1).getValue();
+            if (data_kode == kodenya) {
+                sh.deleteRow(i);
+                break;
+            }
+        }
+                var rg = sh.getDataRange().getValues();
+                var data = "";
+                for (var row = 1; row < rg.length; ++row) {
+                    data += rg[row].join(',') + '\n';
+                }
+                simpanUpdatenya('VersiAlbum', kodeupdate, e); //SIMPAN UPDATE 
+                return ContentService.createTextOutput(data).setMimeType(ContentService.MimeType.TEXT);
+    }
+}
+
+// ❤️❤️❤️❤️❤️❤️❤️❤️❤️  PROFIL  ❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️
+function profiljemaat(e){
+  var ss =  SpreadsheetApp.openById(GS_ID);
+  var sh = ss.getSheetByName('update');
+    // ☑️ SAVE PROFIL JEMAAT
+    if (e.parameter.func == "UpdateFileHTML" + PASS_JEMAAT  + ejemaat) {
+        var kodeupdate = e.parameter.UPDATECODE;
+        const isilengkap = e.parameter.FILE_ID;
+        var bagisatu = isilengkap.split("|SPLIT|");
+        var xxsatu = bagisatu[0];
+        var xxsatux = xxsatu.split("|");
+        var xxdua = bagisatu[1];
+        var sejarah = xxsatux[0];
+        var statjemaat = xxsatux[1];
+        var infolayanan = xxsatux[2];
+        var organisasi = xxsatux[3]
+        var webjemaat = xxdua;
+        var appscriptjemaat = bagisatu[2];
+        sh.getRange(6, 3).setValue(sejarah);
+        sh.getRange(7, 3).setValue(statjemaat);
+        sh.getRange(8, 3).setValue(infolayanan);
+        sh.getRange(9, 3).setValue(organisasi);
+        sh.getRange(10, 3).setValue(webjemaat);
+        sh.getRange(11, 3).setValue(appscriptjemaat)
+        var lr = sh.getLastRow();
+        for (var i = 6; i <= 11; i++) {
+            var data_kode = sh.getRange(i, 1).getValue();
+            sh.getRange(i, 2).setValue(kodeupdate);
+        }
+        return ContentService.createTextOutput('Update Sukses').setMimeType(ContentService.MimeType.TEXT);
+    }
+    // 💻 MENAMPILKAN DAFTAR FILE HTML KE APP WINDOWS
+    if (e.parameter.func == "ReadHTMLFile") {
+        var sejarah = sh.getRange(6, 3).getValue();
+        var statjemaat = sh.getRange(7, 3).getValue();
+        var infolayanan = sh.getRange(8, 3).getValue();
+        var organisasi = sh.getRange(9, 3).getValue();
+        var infjemaat = sh.getRange(10, 3).getValue();
+        var apscriptjemaat = sh.getRange(11, 3).getValue();
+        return ContentService.createTextOutput(sejarah + '|' + statjemaat + '|' + infolayanan + '|' + organisasi +
+            "|SPLIT|" + infjemaat + "|SPLIT|" + apscriptjemaat).setMimeType(ContentService.MimeType.TEXT);
+    }
+}
