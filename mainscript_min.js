@@ -1,5 +1,5 @@
-//Update tanggal 11 Oktober 2025 Jam 15.29 WIT
-//Jika telah memubuat app script sebelum tanggal dan jam di atas, Anda sebaiknya melakukan Update.
+//Update tanggal 29 Mei 2026 
+//Jika telah memubuat app script sebelum tanggal di atas, Anda sebaiknya melakukan Update.
    //yang penting jadi...😍:)
 
     // 📢 ========== !!!!!!!! VARIABEL YANG PERLU DI ISI !!!!!!!! =================
