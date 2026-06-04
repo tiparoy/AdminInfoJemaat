@@ -1,4 +1,4 @@
-   
+   //Update tanggal 5 Juni 2026. Untuk sementara belum bisa digunakan!!
     // 📢 ========== !!!!!!!! VARIABEL YANG PERLU DI ISI !!!!!!!! =================
     const PASS_JEMAAT = '##############'; //💡 ISI PASSWORD JEMAAT
     const GS_ID = '########################'; //💡 ISI ID Google Sheets file data_aplikasi
