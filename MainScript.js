@@ -1,9 +1,8 @@
-   //yang penting jadi...😍:)
-
+   //Update tanggal 5 Juni 2026. Untuk sementara belum bisa digunakan!!
     // 📢 ========== !!!!!!!! VARIABEL YANG PERLU DI ISI !!!!!!!! =================
-    const PASS_JEMAAT = '########'; //💡 ISI PASSWORD JEMAAT
-    const GS_ID = '#######################################'; //💡 ISI ID Google Sheets file data_aplikasi
-    const EMAIL_JEMAAT = '########'; // 💡 ISI EMAIL
+    const PASS_JEMAAT = '##############'; //💡 ISI PASSWORD JEMAAT
+    const GS_ID = '########################'; //💡 ISI ID Google Sheets file data_aplikasi
+    const EMAIL_JEMAAT = '######################'; // 💡 ISI EMAIL
 
 
 // 📢 ========================== ⬇️⬇️⬇️ JANGAN DIUBAH ⬇️⬇️⬇️===============================
@@ -43,9 +42,34 @@ function readTabel(namash) {
         var sh = ss.getSheetByName(namash)
         var rg = sh.getDataRange().getValues();
         var data = "";
+        if(namash == 'Ibadah'){
+         for (var row = 1; row < rg.length; ++row) {
+              // Ambil satu baris data saat ini
+              var currentRow = rg[row];
+              
+              // Cek apakah data di Kolom D (indeks 3) adalah objek Tanggal valid
+              if (currentRow[4] instanceof Date && !isNaN(currentRow[4])) {
+                  // Format ulang tanggalnya menjadi "MM/dd/yyyy"
+                  currentRow[4] = Utilities.formatDate(currentRow[4], Session.getScriptTimeZone(), "dd/MM/yyyy");
+              } else if (currentRow[4] !== "") {
+                  // Jika teks biasa tapi bisa dikenali sebagai tanggal (antisipasi jika formatnya bergeser)
+                  var parsedDate = new Date(currentRow[4]);
+                  if (!isNaN(parsedDate)) {
+                      currentRow[4] = Utilities.formatDate(parsedDate, Session.getScriptTimeZone(), "dd/MM/yyyy");
+                  }
+              }
+              
+              // Gabungkan baris yang kolom D-nya sudah diperbaiki
+              data += currentRow.join(',') + '\n';
+          }
+        }else{
+
+
         for (var row = 1; row < rg.length; ++row) {
             data += rg[row].join(',') + '\n';
         }
+        }
+        
         return data
 }
 
@@ -54,12 +78,38 @@ function ceksheet(e) {
     var ss =  SpreadsheetApp.openById(GS_ID);
     //📢 Membaca isi tabel dari sheet
     if (e.parameter.func == "Read") {
+      if(e.parameter.SH == "Ibadah"){
+          var sh = ss.getSheetByName(e.parameter.SH);
+          var rg = sh.getDataRange().getValues();
+          var data = "";
+
+          for (var row = 1; row < rg.length; ++row) {
+              // Ambil satu baris data saat ini
+              var currentRow = rg[row];
+              
+              // Cek apakah data di Kolom D (indeks 3) adalah objek Tanggal valid
+              if (currentRow[4] instanceof Date && !isNaN(currentRow[4])) {
+                  // Format ulang tanggalnya menjadi "MM/dd/yyyy"
+                  currentRow[4] = Utilities.formatDate(currentRow[4], Session.getScriptTimeZone(), "dd/MM/yyyy");
+              } else if (currentRow[4] !== "") {
+                  // Jika teks biasa tapi bisa dikenali sebagai tanggal (antisipasi jika formatnya bergeser)
+                  var parsedDate = new Date(currentRow[4]);
+                  if (!isNaN(parsedDate)) {
+                      currentRow[4] = Utilities.formatDate(parsedDate, Session.getScriptTimeZone(), "dd/MM/yyyy");
+                  }
+              }
+              
+              // Gabungkan baris yang kolom D-nya sudah diperbaiki
+              data += currentRow.join(',') + '\n';
+          }
+      }else{
         var sh = ss.getSheetByName(e.parameter.SH)
         var rg = sh.getDataRange().getValues();
         var data = "";
         for (var row = 1; row < rg.length; ++row) {
             data += rg[row].join(',') + '\n';
         }
+      }
         return ContentService.createTextOutput(data).setMimeType(ContentService.MimeType.TEXT);
     }
 
@@ -193,13 +243,14 @@ function ibadah(e){
         var kodenya = e.parameter.KODENYA;
         var nourut = e.parameter.URUT;
         var judul = e.parameter.JUDUL;
+        var hari = e.parameter.HARI;
         var tanggal = e.parameter.TANGGAL;
         var jam = e.parameter.JAM;
         var tempat = e.parameter.TEMPAT;
         var pelayan = e.parameter.PELAYAN;
         var keterangan = e.parameter.KETERANGAN;
         var tagalx = e.parameter.TGLX;
-        var kodeupdate = '="' + e.parameter.KODENYA + '"&D3';
+        var kodeupdate = e.parameter.KODENYA;
 
     //✅ CREATE NEW 
     if (e.parameter.func == "Baru" + PASS_JEMAAT + ejemaat) {
@@ -219,12 +270,29 @@ function ibadah(e){
             var result = "Kode Sudah Ada";
         } else {
             simpanUpdatenya('VersiIbadah', kodeupdate, e);
-            var rowdata = sh.appendRow([kodenya, nourut, judul, tanggal, jam, tempat, pelayan, keterangan, status, tagalx, tgltxt]);
-            var rg = sh.getDataRange().getValues();
-            var result = "";
-            for (var row = 1; row < rg.length; ++row) {
-                result += rg[row].join(',') + '\n';
-            }
+            var rowdata = sh.appendRow([kodenya, nourut, judul, hari, tanggal, jam, tempat, pelayan, keterangan]);
+              var rg = sh.getDataRange().getValues();
+              var result = "";
+
+              for (var row = 1; row < rg.length; ++row) {
+                  // Ambil satu baris data saat ini
+                  var currentRow = rg[row];
+                  
+                  // Cek apakah data di Kolom D (indeks 3) adalah objek Tanggal valid
+                  if (currentRow[4] instanceof Date && !isNaN(currentRow[4])) {
+                      // Format ulang tanggalnya menjadi "MM/dd/yyyy"
+                      currentRow[4] = Utilities.formatDate(currentRow[4], Session.getScriptTimeZone(), "dd/MM/yyyy");
+                  } else if (currentRow[4] !== "") {
+                      // Jika teks biasa tapi bisa dikenali sebagai tanggal (antisipasi jika formatnya bergeser)
+                      var parsedDate = new Date(currentRow[4]);
+                      if (!isNaN(parsedDate)) {
+                          currentRow[4] = Utilities.formatDate(parsedDate, Session.getScriptTimeZone(), "dd/MM/yyyy");
+                      }
+                  }
+                  
+                  // Gabungkan baris yang kolom D-nya sudah diperbaiki
+                  result += currentRow.join(',') + '\n';
+              }
         }
         return ContentService.createTextOutput(result).setMimeType(ContentService.MimeType.TEXT);
     }
@@ -236,21 +304,38 @@ function ibadah(e){
             if (data_kode == kodenya) {
                 sh.getRange(i, 2).setValue(nourut);
                 sh.getRange(i, 3).setValue(judul);
-                sh.getRange(i, 4).setValue(tanggal);
-                sh.getRange(i, 5).setValue(jam);
-                sh.getRange(i, 6).setValue(tempat);
-                sh.getRange(i, 7).setValue(pelayan);
-                sh.getRange(i, 8).setValue(keterangan);
-                sh.getRange(i, 10).setValue(tagalx);
+                sh.getRange(i, 4).setValue(hari);
+                sh.getRange(i, 5).setValue(tanggal);
+                sh.getRange(i, 6).setValue(jam);
+                sh.getRange(i, 7).setValue(tempat);
+                sh.getRange(i, 8).setValue(pelayan);
+                sh.getRange(i, 9).setValue(keterangan);
                 break;
             }
         }
         simpanUpdatenya('VersiIbadah', kodeupdate, e); //SIMPAN UPDATE
-        var rg = sh.getDataRange().getValues();
-        var data = "";
-        for (var row = 1; row < rg.length; ++row) {
-            data += rg[row].join(',') + '\n';
-        }
+              var rg = sh.getDataRange().getValues();
+              var data = "";
+
+              for (var row = 1; row < rg.length; ++row) {
+                  // Ambil satu baris data saat ini
+                  var currentRow = rg[row];
+                  
+                  // Cek apakah data di Kolom D (indeks 3) adalah objek Tanggal valid
+                  if (currentRow[4] instanceof Date && !isNaN(currentRow[4])) {
+                      // Format ulang tanggalnya menjadi "MM/dd/yyyy"
+                      currentRow[4] = Utilities.formatDate(currentRow[4], Session.getScriptTimeZone(), "dd/MM/yyyy");
+                  } else if (currentRow[4] !== "") {
+                      // Jika teks biasa tapi bisa dikenali sebagai tanggal (antisipasi jika formatnya bergeser)
+                      var parsedDate = new Date(currentRow[4]);
+                      if (!isNaN(parsedDate)) {
+                          currentRow[4] = Utilities.formatDate(parsedDate, Session.getScriptTimeZone(), "dd/MM/yyyy");
+                      }
+                  }
+                  
+                  // Gabungkan baris yang kolom D-nya sudah diperbaiki
+                  data += currentRow.join(',') + '\n';
+              }
         return ContentService.createTextOutput(data).setMimeType(ContentService.MimeType.TEXT);
     }
     // ❌ HAPUS 
@@ -263,11 +348,28 @@ function ibadah(e){
                 break;
             }
         }
-        var rg = sh.getDataRange().getValues();
-        var data = "";
-        for (var row = 1; row < rg.length; ++row) {
-            data += rg[row].join(',') + '\n';
-        }
+             var rg = sh.getDataRange().getValues();
+              var data = "";
+
+              for (var row = 1; row < rg.length; ++row) {
+                  // Ambil satu baris data saat ini
+                  var currentRow = rg[row];
+                  
+                  // Cek apakah data di Kolom D (indeks 3) adalah objek Tanggal valid
+                  if (currentRow[4] instanceof Date && !isNaN(currentRow[4])) {
+                      // Format ulang tanggalnya menjadi "MM/dd/yyyy"
+                      currentRow[4] = Utilities.formatDate(currentRow[4], Session.getScriptTimeZone(), "dd/MM/yyyy");
+                  } else if (currentRow[4] !== "") {
+                      // Jika teks biasa tapi bisa dikenali sebagai tanggal (antisipasi jika formatnya bergeser)
+                      var parsedDate = new Date(currentRow[4]);
+                      if (!isNaN(parsedDate)) {
+                          currentRow[4] = Utilities.formatDate(parsedDate, Session.getScriptTimeZone(), "dd/MM/yyyy");
+                      }
+                  }
+                  
+                  // Gabungkan baris yang kolom D-nya sudah diperbaiki
+                  data += currentRow.join(',') + '\n';
+              }
         simpanUpdatenya('VersiIbadah', kodeupdate, e); //SIMPAN UPDATE    
         return ContentService.createTextOutput(data).setMimeType(ContentService.MimeType.TEXT);
     }
@@ -402,6 +504,7 @@ function album(e){
             }
         }
         simpanUpdatenya('VersiAlbum', kodeupdate, e); //SIMPAN UPDATE 
+       
         var rg = sh.getDataRange().getValues();
         var data = "";
         for (var row = 1; row < rg.length; ++row) {
@@ -443,26 +546,22 @@ function profiljemaat(e){
         var kodeupdate = e.parameter.UPDATECODE;
         const isilengkap = e.parameter.FILE_ID;
         var bagisatu = isilengkap.split("|SPLIT|");
-        var xxsatu = bagisatu[0];
-        var xxsatux = xxsatu.split("|");
-        var xxdua = bagisatu[1];
-        var sejarah = xxsatux[0];
-        var statjemaat = xxsatux[1];
-        var infolayanan = xxsatux[2];
-        var organisasi = xxsatux[3]
-        var webjemaat = xxdua;
-        var appscriptjemaat = bagisatu[2];
-        sh.getRange(6, 3).setValue(sejarah);
-        sh.getRange(7, 3).setValue(statjemaat);
-        sh.getRange(8, 3).setValue(infolayanan);
-        sh.getRange(9, 3).setValue(organisasi);
+        var webjemaat = bagisatu[0];
+        var tema = bagisatu[1];
+        var logo = bagisatu[2];
+        var kop = bagisatu[3];
+
         sh.getRange(10, 3).setValue(webjemaat);
-        sh.getRange(11, 3).setValue(appscriptjemaat)
-        var lr = sh.getLastRow();
-        for (var i = 6; i <= 11; i++) {
-            var data_kode = sh.getRange(i, 1).getValue();
-            sh.getRange(i, 2).setValue(kodeupdate);
-        }
+        sh.getRange(11, 3).setValue(tema);
+        sh.getRange(12, 3).setValue(logo)
+        sh.getRange(13, 3).setValue(kop)
+
+
+        sh.getRange(10, 2).setValue(kodeupdate);
+        sh.getRange(11, 2).setValue(kodeupdate);
+        sh.getRange(12, 2).setValue(kodeupdate);
+        sh.getRange(13, 2).setValue(kodeupdate);
+
         return ContentService.createTextOutput('Update Sukses').setMimeType(ContentService.MimeType.TEXT);
     }
     // 💻 MENAMPILKAN DAFTAR FILE HTML KE APP WINDOWS
@@ -472,9 +571,40 @@ function profiljemaat(e){
         var infolayanan = sh.getRange(8, 3).getValue();
         var organisasi = sh.getRange(9, 3).getValue();
         var infjemaat = sh.getRange(10, 3).getValue();
-        var apscriptjemaat = sh.getRange(11, 3).getValue();
+        var tema = sh.getRange(11, 3).getValue();
+        var logo = sh.getRange(12, 3).getValue();
+        var kop = sh.getRange(13, 3).getValue();
+
         return ContentService.createTextOutput(sejarah + '|' + statjemaat + '|' + infolayanan + '|' + organisasi +
-            "|SPLIT|" + infjemaat + "|SPLIT|" + apscriptjemaat).setMimeType(ContentService.MimeType.TEXT);
+            "|SPLIT|" + infjemaat + "|SPLIT|" + tema + "|SPLIT|" + logo + "|SPLIT|" + kop).setMimeType(ContentService.MimeType.TEXT);
+    }
+    if (e.parameter.func == "UpdatePerHTML" + PASS_JEMAAT  + ejemaat) {
+        var kodeupdate = e.parameter.UPDATECODE;
+        var updateapa = e.parameter.UPDATEAPA;
+        var isi = e.parameter.FILE_ID;
+        var sukses = false;
+        if (updateapa == "SEJARAH") {
+          sh.getRange(6, 3).setValue(isi);
+          sh.getRange(6, 2).setValue(kodeupdate);
+          sukses = true;
+        }else if(updateapa=="STATJEMAAT"){
+          sh.getRange(7, 3).setValue(isi);
+          sh.getRange(7, 2).setValue(kodeupdate);
+                    sukses = true
+        }else if(updateapa=="INFOLAYANAN"){
+          sh.getRange(8, 3).setValue(isi);
+                    sh.getRange(8, 2).setValue(kodeupdate);
+                    sukses = true
+        }else if(updateapa=="ORGANISASI"){
+                    sukses = true
+          sh.getRange(9, 3).setValue(isi);
+          sh.getRange(9, 2).setValue(kodeupdate);
+
+        }
+      if(sukses){
+        return ContentService.createTextOutput('Update Sukses').setMimeType(ContentService.MimeType.TEXT);
+      }else{
+        return ContentService.createTextOutput('Update Gagal').setMimeType(ContentService.MimeType.TEXT);
+      }
     }
 }
-
