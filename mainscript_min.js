@@ -42,9 +42,34 @@ function readTabel(namash) {
         var sh = ss.getSheetByName(namash)
         var rg = sh.getDataRange().getValues();
         var data = "";
+        if(namash == 'Ibadah'){
+         for (var row = 1; row < rg.length; ++row) {
+              // Ambil satu baris data saat ini
+              var currentRow = rg[row];
+              
+              // Cek apakah data di Kolom D (indeks 3) adalah objek Tanggal valid
+              if (currentRow[4] instanceof Date && !isNaN(currentRow[4])) {
+                  // Format ulang tanggalnya menjadi "MM/dd/yyyy"
+                  currentRow[4] = Utilities.formatDate(currentRow[4], Session.getScriptTimeZone(), "dd/MM/yyyy");
+              } else if (currentRow[4] !== "") {
+                  // Jika teks biasa tapi bisa dikenali sebagai tanggal (antisipasi jika formatnya bergeser)
+                  var parsedDate = new Date(currentRow[4]);
+                  if (!isNaN(parsedDate)) {
+                      currentRow[4] = Utilities.formatDate(parsedDate, Session.getScriptTimeZone(), "dd/MM/yyyy");
+                  }
+              }
+              
+              // Gabungkan baris yang kolom D-nya sudah diperbaiki
+              data += currentRow.join(',') + '\n';
+          }
+        }else{
+
+
         for (var row = 1; row < rg.length; ++row) {
             data += rg[row].join(',') + '\n';
         }
+        }
+        
         return data
 }
 
